@@ -1,0 +1,1001 @@
+eeid,full_name,department,hire_date,salary,availability_status,available_from
+E02387,Emily Davis,IT,4/8/2016,141604,Partially Allocated,2026-10-10
+E04105,Theodore Dinh,IT,11/29/1997,99975,Available,2026-09-20
+E02572,Luna Sanders,Finance,10/26/2006,163099,Available,2026-09-20
+E02832,Penelope Jordan,IT,9/27/2019,84913,Available,2026-09-20
+E01639,Austin Vo,Finance,11/20/1995,95409,Fully Allocated,2027-03-18
+E00644,Joshua Gupta,Sales,1/24/2017,50994,Partially Allocated,2026-10-20
+E01550,Ruby Barnes,IT,7/1/2020,119746,Partially Allocated,2026-11-08
+E04332,Luke Martin,Finance,5/16/2020,41336,Fully Allocated,2027-02-18
+E04533,Easton Bailey,Accounting,1/25/2019,113527,Partially Allocated,2026-10-31
+E03838,Madeline Walker,Finance,6/13/2018,77203,Fully Allocated,2026-12-21
+E00591,Savannah Ali,Human Resources,2/11/2009,157333,Fully Allocated,2027-02-19
+E03344,Camila Rogers,Engineering,10/21/2021,109851,Partially Allocated,2026-12-01
+E00530,Eli Jones,Human Resources,3/14/1999,105086,Partially Allocated,2027-02-19
+E04239,Everleigh Ng,Finance,6/10/2021,146742,Available,2026-09-20
+E03496,Robert Yang,Accounting,11/4/2017,97078,Fully Allocated,2026-10-23
+E00549,Isabella Xi,Marketing,3/13/2013,249270,Fully Allocated,2026-12-10
+E00163,Bella Powell,Finance,3/4/2002,175837,Fully Allocated,2026-10-18
+E00884,Camila Silva,Marketing,12/1/2003,154828,Partially Allocated,2026-12-03
+E04116,David Barnes,IT,11/3/2013,186503,Partially Allocated,2027-03-18
+E04625,Adam Dang,Sales,7/9/2002,166331,Fully Allocated,2027-01-06
+E03680,Elias Alvarado,IT,1/9/2012,146140,Fully Allocated,2027-02-22
+E04732,Eva Rivera,Sales,4/2/2021,151703,Available,2026-09-20
+E03484,Logan Rivera,IT,5/24/2002,172787,Available,2026-09-20
+E00671,Leonardo Dixon,Sales,9/5/2019,49998,Fully Allocated,2027-01-02
+E02071,Mateo Her,Sales,3/2/2014,207172,Fully Allocated,2026-12-06
+E02206,Jose Henderson,Human Resources,4/17/2015,152239,Available,2026-09-20
+E04545,Abigail Mejia,Engineering,2/5/2005,98581,Partially Allocated,2026-12-31
+E00154,Wyatt Chin,Engineering,6/7/2004,246231,Fully Allocated,2026-12-27
+E03343,Carson Lu,Engineering,12/4/1996,99354,Available,2026-09-20
+E00304,Dylan Choi,IT,5/11/2012,231141,Available,2026-09-20
+E02594,Ezekiel Kumar,IT,6/25/2017,54775,Available,2026-09-20
+E00402,Dominic Guzman,Finance,5/16/2004,55499,Partially Allocated,2026-10-16
+E01994,Angel Powell,Sales,7/11/2008,66521,Fully Allocated,2027-01-27
+E03549,Mateo Vu,Sales,9/29/2016,59100,Available,2026-09-20
+E03247,Caroline Jenkins,Finance,5/6/2018,49011,Fully Allocated,2027-01-11
+E02074,Nora Brown,IT,2/11/2014,99575,Available,2026-09-20
+E04152,Adeline Huang,Engineering,12/16/2019,99989,Available,2026-09-20
+E01628,Jackson Perry,Marketing,10/20/2019,256420,Partially Allocated,2027-01-01
+E04285,Riley Padilla,IT,5/15/2013,78940,Partially Allocated,2026-12-04
+E01417,Leah Pena,IT,1/3/1994,82872,Partially Allocated,2026-12-22
+E01754,Owen Lam,Human Resources,5/29/2017,86317,Fully Allocated,2027-02-06
+E03749,Kennedy Foster,Marketing,11/23/2013,113135,Fully Allocated,2027-03-04
+E03574,John Moore,IT,11/8/2005,199808,Partially Allocated,2027-01-02
+E04600,William Vu,Sales,11/14/2013,56037,Available,2026-09-20
+E00586,Sadie Washington,Marketing,5/24/2019,122350,Available,2026-09-20
+E03538,Gabriel Holmes,IT,11/4/2010,92952,Available,2026-09-20
+E02185,Wyatt Rojas,IT,3/20/2013,79921,Fully Allocated,2027-02-27
+E03830,Eva Coleman,IT,9/20/2009,167199,Fully Allocated,2026-10-25
+E03720,Dominic Clark,Engineering,10/17/2012,71476,Partially Allocated,2026-12-10
+E03025,Lucy Alexander,Engineering,10/29/2014,189420,Available,2026-09-20
+E04917,Everleigh Washington,Human Resources,10/20/2001,64057,Available,2026-09-20
+E00415,Leilani Butler,Marketing,9/21/2021,68728,Fully Allocated,2026-12-25
+E02862,Peyton Huang,IT,7/2/2021,125633,Partially Allocated,2027-01-16
+E04207,John Contreras,Marketing,5/15/2011,66889,Available,2026-09-20
+E02139,Rylee Yu,Accounting,9/29/2015,178700,Fully Allocated,2027-01-24
+E01797,Piper Lewis,Engineering,12/22/2018,83990,Available,2026-09-20
+E01839,Stella Alexander,Engineering,12/10/2005,102043,Fully Allocated,2027-03-03
+E01633,Addison Do,Engineering,5/30/2001,90678,Available,2026-09-20
+E01848,Zoey Jackson,Human Resources,8/21/2008,59067,Available,2026-09-20
+E00716,John Chow,Marketing,3/11/2021,135062,Available,2026-09-20
+E00699,Ava Ayala,IT,8/16/2006,159044,Available,2026-09-20
+E00502,Natalia Salazar,Accounting,1/2/2019,74691,Available,2026-09-20
+E04000,Skylar Carrillo,Engineering,12/18/2008,92753,Fully Allocated,2027-03-03
+E02112,Christian Sanders,Human Resources,8/7/2013,236946,Available,2026-09-20
+E03824,Penelope Coleman,Finance,8/27/2021,48906,Fully Allocated,2027-03-18
+E03906,Piper Richardson,Sales,1/27/2008,80024,Available,2026-09-20
+E00436,Everly Walker,Human Resources,10/23/2009,54415,Fully Allocated,2026-11-30
+E04798,Aurora Ali,Marketing,4/24/2016,120341,Available,2026-09-20
+E01249,Penelope Guerrero,IT,8/4/2009,208415,Partially Allocated,2027-02-19
+E03349,Anna Mehta,IT,1/5/2020,78844,Fully Allocated,2027-01-04
+E02966,William Foster,Engineering,5/23/2002,76354,Fully Allocated,2027-01-28
+E01499,Jade Rojas,Finance,1/28/2019,165927,Available,2026-09-20
+E00105,Isla Espinoza,Accounting,11/16/2021,109812,Fully Allocated,2026-10-10
+E00665,David Chu,Engineering,9/3/1998,86299,Partially Allocated,2027-01-04
+E00791,Thomas Padilla,Marketing,7/26/2003,206624,Fully Allocated,2027-01-21
+E01540,Miles Salazar,IT,12/23/2010,53215,Partially Allocated,2026-10-29
+E04474,Mila Hong,Engineering,5/22/2017,86858,Available,2026-09-20
+E03417,Benjamin Moua,IT,7/2/2007,93971,Partially Allocated,2027-02-24
+E00254,Samuel Morales,Finance,6/27/2015,57008,Partially Allocated,2026-10-31
+E02166,John Soto,Finance,9/23/2015,141899,Available,2026-09-20
+E00935,Joseph Martin,Marketing,9/13/2016,64847,Available,2026-09-20
+E01525,Jose Ross,Engineering,4/8/1992,116878,Partially Allocated,2027-01-18
+E00386,Parker James,Engineering,2/5/2005,70505,Fully Allocated,2026-12-08
+E00416,Everleigh Fernandez,Engineering,5/22/2016,189702,Fully Allocated,2027-02-28
+E03383,Lincoln Hall,Accounting,7/28/2020,180664,Available,2026-09-20
+E01516,Willow Mai,Human Resources,12/17/2003,48345,Fully Allocated,2027-03-18
+E01234,Jack Cheng,Human Resources,1/16/2014,152214,Fully Allocated,2027-03-13
+E03440,Genesis Navarro,IT,4/28/2009,69803,Partially Allocated,2026-12-22
+E00431,Eliza Hernandez,IT,7/4/2019,76588,Partially Allocated,2027-02-27
+E01258,Gabriel Brooks,IT,12/10/2018,84596,Partially Allocated,2026-11-17
+E00440,Jack Huynh,Marketing,9/25/2018,114441,Fully Allocated,2026-10-17
+E00595,Everly Chow,Finance,4/21/2018,140402,Partially Allocated,2026-12-27
+E00972,Amelia Salazar,Finance,4/23/2019,59817,Fully Allocated,2026-10-29
+E04562,Xavier Zheng,Sales,7/22/2017,55854,Partially Allocated,2026-12-03
+E02802,Matthew Chau,Human Resources,11/16/2002,95998,Fully Allocated,2027-01-09
+E01427,Mia Cheng,Sales,4/22/2015,154941,Fully Allocated,2026-11-10
+E04568,Rylee Yu,Finance,7/10/2011,247022,Partially Allocated,2026-10-11
+E04931,Zoe Romero,IT,10/5/2021,88072,Fully Allocated,2026-10-08
+E00443,Nolan Bui,IT,5/26/2020,67925,Fully Allocated,2027-01-29
+E03890,Nevaeh Jones,Sales,8/20/2020,219693,Available,2026-09-20
+E01194,Samantha Adams,Engineering,4/22/2013,61773,Available,2026-09-20
+E02875,Madeline Shin,IT,1/9/2007,74546,Partially Allocated,2026-11-07
+E04959,Noah King,Engineering,1/27/2015,62575,Available,2026-09-20
+E03816,Leilani Chow,Human Resources,2/23/2021,199041,Fully Allocated,2027-01-24
+E01261,Connor Simmons,Accounting,4/5/2007,52310,Available,2026-09-20
+E03612,Grayson Cooper,Finance,6/29/2013,159571,Partially Allocated,2026-10-18
+E01388,Ivy Soto,Engineering,10/23/1997,91763,Available,2026-09-20
+E03875,Aurora Simmons,Engineering,12/22/1995,96475,Partially Allocated,2027-03-19
+E04413,Andrew Thomas,Engineering,12/2/2016,113781,Fully Allocated,2027-02-06
+E00691,Ezekiel Desai,Finance,1/15/2003,166599,Fully Allocated,2027-03-16
+E03047,Gabriella Gupta,Sales,2/15/2005,95372,Fully Allocated,2027-02-22
+E04903,Skylar Liu,IT,8/9/2020,161203,Available,2026-09-20
+E04735,Nova Coleman,IT,12/13/2006,74738,Fully Allocated,2027-02-13
+E02850,Evelyn Dinh,Sales,8/10/2018,171173,Available,2026-09-20
+E03583,Brooks Marquez,Sales,9/24/2019,201464,Partially Allocated,2026-10-11
+E02017,Connor Joseph,Human Resources,7/22/1998,174895,Fully Allocated,2026-11-13
+E01642,Mia Lam,IT,4/18/2006,134486,Partially Allocated,2026-10-31
+E04379,Scarlett Rodriguez,Finance,2/24/2007,71699,Fully Allocated,2026-12-23
+E04131,Cora Rivera,Marketing,1/2/2021,94430,Partially Allocated,2027-02-01
+E02872,Liam Jung,Finance,1/14/2010,103504,Partially Allocated,2027-02-26
+E02331,Sophia Huynh,IT,8/9/2005,92771,Partially Allocated,2026-12-29
+E00417,Athena Carrillo,Finance,4/6/2006,71531,Available,2026-09-20
+E04267,Greyson Sanders,IT,3/6/2019,90304,Partially Allocated,2026-10-17
+E03061,Vivian Lewis,Marketing,9/7/2011,104903,Fully Allocated,2026-11-08
+E00013,Elena Vang,Finance,2/19/2019,55859,Fully Allocated,2026-12-19
+E04265,Natalia Diaz,Engineering,10/12/2006,79785,Fully Allocated,2026-11-10
+E04769,Mila Leung,Marketing,11/5/2007,99017,Partially Allocated,2026-12-05
+E03042,Ava Nelson,IT,4/1/1992,53809,Fully Allocated,2026-10-05
+E00527,Mateo Chu,Engineering,4/16/2020,71864,Partially Allocated,2026-11-18
+E01095,Isla Lai,Finance,12/6/2011,225558,Available,2026-09-20
+E03131,Ezekiel Reed,IT,2/25/2014,128984,Fully Allocated,2026-12-27
+E01713,Nolan Guzman,Engineering,6/20/1999,96997,Available,2026-09-20
+E00128,Everleigh Espinoza,Human Resources,1/22/2018,176294,Available,2026-09-20
+E03849,Evelyn Jung,Sales,2/14/2021,48340,Available,2026-09-20
+E02464,Sophie Silva,Engineering,7/6/2017,240488,Available,2026-09-20
+E00306,Mateo Williams,IT,1/22/2011,97339,Partially Allocated,2027-02-24
+E03737,Kennedy Rahman,Human Resources,2/28/2003,211291,Partially Allocated,2026-10-19
+E02783,Levi Mendez,Sales,8/23/2011,249506,Available,2026-09-20
+E02939,Julian Fong,Engineering,11/22/2002,80950,Available,2026-09-20
+E02706,Nevaeh Kang,Engineering,1/10/2021,86538,Partially Allocated,2026-10-16
+E00170,Hannah Nelson,Marketing,9/7/2019,70992,Partially Allocated,2026-12-25
+E01425,Anthony Rogers,Engineering,6/18/2015,205314,Partially Allocated,2026-12-31
+E00130,Paisley Kang,Human Resources,3/10/2017,196951,Partially Allocated,2027-01-18
+E02094,Matthew Gupta,IT,9/18/2005,67686,Partially Allocated,2027-03-07
+E03567,Silas Chavez,IT,4/15/2008,86431,Fully Allocated,2026-11-03
+E04682,Colton Thao,Human Resources,11/16/1995,125936,Partially Allocated,2027-02-01
+E00957,Genesis Perry,Sales,7/18/2013,149712,Available,2026-09-20
+E04458,Alexander Bryant,Engineering,10/2/2021,88758,Available,2026-09-20
+E01499,Elias Zhang,IT,7/13/2013,83639,Partially Allocated,2027-01-07
+E00521,Lily Carter,IT,5/18/1998,68268,Fully Allocated,2026-10-08
+E03717,Joseph Ruiz,Engineering,2/26/2002,75819,Fully Allocated,2026-11-30
+E01533,Avery Bailey,Sales,5/15/1996,86658,Fully Allocated,2027-02-26
+E04449,Miles Hsu,Finance,3/16/2014,74552,Fully Allocated,2026-10-23
+E02855,Piper Cheng,IT,3/15/2009,82839,Partially Allocated,2026-12-26
+E00816,Skylar Watson,IT,10/8/2021,64475,Fully Allocated,2026-12-18
+E02283,Jaxon Park,IT,7/24/2020,69453,Available,2026-09-20
+E04888,Elijah Henry,IT,1/3/2014,127148,Partially Allocated,2026-12-26
+E03907,Camila Watson,Finance,1/2/2018,190253,Partially Allocated,2027-01-19
+E02166,Lucas Thomas,Accounting,4/28/2000,115798,Available,2026-09-20
+E00431,Skylar Doan,Human Resources,8/21/1994,93102,Available,2026-09-20
+E01501,Hudson Liu,Engineering,11/16/2017,110054,Fully Allocated,2027-01-08
+E01141,Gianna Williams,Engineering,1/28/2021,95786,Available,2026-09-20
+E02254,Jaxson Sandoval,Sales,5/3/2017,90855,Partially Allocated,2027-03-01
+E04504,Jameson Alvarado,IT,3/14/1999,92897,Available,2026-09-20
+E03394,Joseph Ly,Marketing,2/28/2009,242919,Available,2026-09-20
+E02942,Daniel Richardson,Engineering,5/20/2018,184368,Available,2026-09-20
+E04130,Elias Figueroa,Finance,12/24/2021,144754,Fully Allocated,2027-02-06
+E02848,Emma Brooks,Sales,12/18/2016,89458,Available,2026-09-20
+E00085,Isla Wong,Accounting,3/16/2014,190815,Available,2026-09-20
+E03956,Everly Walker,Sales,8/2/1999,137995,Partially Allocated,2027-02-07
+E00672,Mila Pena,Human Resources,12/21/2007,93840,Partially Allocated,2027-02-07
+E04618,Mason Zhao,IT,10/26/2021,94790,Fully Allocated,2026-10-26
+E03506,Jaxson Mai,Human Resources,3/8/2014,197367,Available,2026-09-20
+E00568,Ava Garza,Accounting,6/25/2018,174097,Available,2026-09-20
+E00535,Nathan Mendez,IT,10/31/2006,120128,Available,2026-09-20
+E04630,Maria Griffin,Marketing,4/25/2007,129708,Available,2026-09-20
+E00874,Alexander Choi,Marketing,9/18/1994,102270,Fully Allocated,2026-11-13
+E01546,Maria Hong,Finance,7/31/2005,249686,Fully Allocated,2026-12-07
+E00941,Sophie Ali,Finance,3/28/2002,50475,Fully Allocated,2026-10-04
+E03446,Julian Ross,Marketing,7/2/2020,100099,Available,2026-09-20
+E01361,Emma Hill,IT,12/27/2016,41673,Partially Allocated,2027-03-09
+E01631,Leilani Yee,Marketing,7/12/2017,70996,Partially Allocated,2027-01-10
+E03719,Jack Brown,Marketing,12/7/2004,40752,Fully Allocated,2026-12-20
+E03269,Charlotte Chu,IT,1/23/2001,97537,Available,2026-09-20
+E01037,Jeremiah Chu,IT,9/12/2020,96567,Available,2026-09-20
+E00671,Miles Cho,IT,3/10/1999,49404,Partially Allocated,2027-03-16
+E02216,Caleb Marquez,IT,10/15/2019,66819,Available,2026-09-20
+E02803,Eli Soto,Marketing,5/2/2016,50784,Available,2026-09-20
+E01584,Carter Mejia,Human Resources,5/9/2019,125828,Fully Allocated,2027-03-13
+E02489,Ethan Clark,Human Resources,8/4/2017,92610,Partially Allocated,2026-10-15
+E03189,Asher Jackson,Sales,3/25/2003,123405,Available,2026-09-20
+E03560,Ayla Ng,Sales,3/20/2004,73004,Fully Allocated,2026-12-15
+E00769,Jose Kang,Engineering,4/25/1999,95061,Partially Allocated,2027-02-07
+E02791,Aubrey Romero,Sales,4/2/1998,160832,Partially Allocated,2026-12-21
+E02333,Jaxson Wright,IT,12/28/2010,64417,Fully Allocated,2027-02-14
+E01002,Elias Ali,Sales,3/19/2021,127543,Fully Allocated,2026-12-26
+E03520,Nolan Pena,Marketing,6/21/2018,56154,Available,2026-09-20
+E00752,Luna Liu,Sales,2/22/2014,218530,Fully Allocated,2027-03-07
+E00233,Brooklyn Reyes,IT,12/19/2019,91954,Fully Allocated,2026-12-09
+E02639,Hadley Parker,Marketing,9/21/2016,221217,Available,2026-09-20
+E00697,Jonathan Chavez,IT,5/11/2017,87536,Available,2026-09-20
+E02183,Sarah Ayala,Sales,6/9/2015,41429,Available,2026-09-20
+E00715,Elijah Kang,Engineering,10/10/2011,245482,Partially Allocated,2027-02-21
+E04288,Ella White,Engineering,1/20/2020,71359,Available,2026-09-20
+E02421,Jordan Truong,Engineering,8/28/2014,183161,Fully Allocated,2026-10-18
+E00523,Daniel Jordan,IT,7/26/1993,69260,Fully Allocated,2027-01-02
+E03615,Daniel Dixon,Engineering,10/9/1999,95639,Partially Allocated,2026-10-04
+E02761,Luca Duong,Human Resources,6/30/2004,120660,Fully Allocated,2027-01-05
+E02121,Levi Brown,Sales,12/26/2021,75119,Fully Allocated,2027-03-10
+E01486,Mason Cho,Accounting,5/18/2011,192213,Partially Allocated,2027-03-09
+E00725,Nova Herrera,Sales,5/10/2014,65047,Fully Allocated,2026-12-28
+E03027,Elijah Watson,Sales,3/16/2017,151413,Fully Allocated,2026-11-15
+E03689,Wesley Gray,Accounting,4/22/2003,76906,Available,2026-09-20
+E01986,Wesley Sharma,IT,2/23/1994,122802,Fully Allocated,2026-11-13
+E01286,Mateo Mendez,Engineering,7/14/1998,99091,Available,2026-09-20
+E01409,Jose Molina,Engineering,2/28/2008,113987,Available,2026-09-20
+E00626,Luna Simmons,Finance,9/4/2020,95045,Partially Allocated,2026-11-30
+E04342,Samantha Barnes,Marketing,1/5/2017,190401,Fully Allocated,2027-02-02
+E03904,Hunter Ortiz,Finance,1/20/2013,86061,Fully Allocated,2026-11-05
+E01291,Thomas Aguilar,Sales,2/10/2021,79882,Partially Allocated,2027-01-13
+E00917,Skylar Bell,Engineering,3/6/2018,255431,Fully Allocated,2027-02-25
+E01484,Anna Zhu,IT,8/22/2003,82017,Fully Allocated,2027-01-14
+E03864,Ella Hunter,Finance,1/18/2017,53799,Fully Allocated,2026-12-01
+E00488,Emery Hunter,Sales,7/3/2021,82739,Fully Allocated,2026-10-20
+E02227,Sofia Parker,IT,5/30/2014,99080,Fully Allocated,2026-12-13
+E04802,Lucy Fong,Sales,1/20/2011,96719,Fully Allocated,2026-10-27
+E01970,Vivian Barnes,Human Resources,3/28/2021,180687,Partially Allocated,2026-10-06
+E02813,Kai Chow,Engineering,4/12/2001,95743,Available,2026-09-20
+E02031,Melody Cooper,Engineering,9/4/2009,89695,Fully Allocated,2027-03-06
+E03252,James Bui,Finance,7/20/1998,122753,Partially Allocated,2027-02-02
+E04871,Liam Grant,Human Resources,3/15/2015,93734,Partially Allocated,2026-12-21
+E03547,Owen Han,Accounting,5/12/2017,52069,Partially Allocated,2026-11-22
+E04742,Kinsley Vega,Accounting,12/16/2020,258426,Fully Allocated,2027-02-05
+E01070,Leonardo Martin,Finance,2/16/1995,125375,Partially Allocated,2027-02-03
+E04359,Greyson Lam,Accounting,2/8/2021,198243,Fully Allocated,2026-12-31
+E03268,Emilia Rivera,Engineering,11/23/2017,96023,Partially Allocated,2026-11-21
+E04035,Penelope Johnson,Marketing,6/25/2012,83066,Fully Allocated,2026-10-13
+E01221,Eva Figueroa,Sales,5/14/2014,61216,Partially Allocated,2027-02-02
+E00276,Ezekiel Jordan,Accounting,2/10/2013,144231,Partially Allocated,2027-03-11
+E01687,Luke Mai,Human Resources,10/24/2007,51630,Partially Allocated,2026-11-14
+E02844,Charles Diaz,Sales,11/16/2013,124129,Available,2026-09-20
+E01263,Adam Espinoza,Engineering,4/9/2009,60055,Available,2026-09-20
+E00119,Jack Maldonado,Engineering,8/26/2020,189290,Partially Allocated,2027-01-28
+E03935,Cora Jiang,IT,4/30/2008,182202,Partially Allocated,2027-03-04
+E00742,Cooper Mitchell,Sales,1/31/2006,117518,Fully Allocated,2027-02-15
+E02810,Layla Torres,Finance,2/24/2013,157474,Available,2026-09-20
+E01860,Jack Edwards,Marketing,4/6/2008,126856,Available,2026-09-20
+E04890,Eleanor Chan,Accounting,4/2/2001,129124,Fully Allocated,2026-10-08
+E02285,Aria Xi,Sales,3/1/2002,165181,Fully Allocated,2026-12-30
+E00842,John Vega,Finance,1/18/2004,247939,Available,2026-09-20
+E01271,Luke Munoz,Engineering,8/25/2017,169509,Partially Allocated,2027-01-16
+E01921,Sarah Daniels,Accounting,1/9/2011,138521,Available,2026-09-20
+E03664,Aria Castro,Engineering,3/14/2014,113873,Partially Allocated,2027-03-06
+E00813,Autumn Joseph,IT,5/9/2018,73317,Fully Allocated,2027-03-14
+E00870,Evelyn Liang,IT,6/26/2013,69096,Available,2026-09-20
+E04167,Henry Alvarez,Human Resources,4/12/2005,87158,Fully Allocated,2026-12-18
+E00245,Benjamin Delgado,Engineering,9/28/1992,70778,Available,2026-09-20
+E00976,Zoe Rodriguez,Human Resources,5/23/2004,153938,Fully Allocated,2027-03-18
+E04112,Axel Chu,IT,5/4/2018,59888,Available,2026-09-20
+E01807,Cameron Evans,Engineering,12/13/2018,63098,Fully Allocated,2026-12-24
+E04103,Isabella Soto,Finance,12/15/2021,255369,Partially Allocated,2027-02-24
+E01412,Eva Jenkins,Human Resources,11/10/2004,142318,Available,2026-09-20
+E04386,Cameron Powell,Human Resources,8/20/2004,49186,Partially Allocated,2026-11-26
+E01232,Samantha Foster,Human Resources,7/27/2019,220937,Available,2026-09-20
+E04572,Jade Li,IT,10/26/2012,183156,Partially Allocated,2026-11-03
+E02747,Kinsley Acosta,IT,7/22/2020,192749,Available,2026-09-20
+E01064,Clara Kang,IT,3/25/2017,135325,Available,2026-09-20
+E00178,Harper Alexander,Sales,10/14/2019,79356,Partially Allocated,2027-01-12
+E01091,Carter Reed,Engineering,7/7/2005,74412,Available,2026-09-20
+E01525,Charlotte Ruiz,IT,10/2/2017,61886,Available,2026-09-20
+E01309,Everleigh Jiang,Accounting,5/14/2003,173071,Available,2026-09-20
+E02378,Audrey Smith,Engineering,10/27/1995,70189,Available,2026-09-20
+E04127,Emery Acosta,Sales,9/11/2013,181452,Fully Allocated,2027-02-19
+E02072,Charles Robinson,Human Resources,3/12/2021,70369,Partially Allocated,2027-02-09
+E02555,Landon Lopez,Accounting,7/5/2008,78056,Available,2026-09-20
+E00187,Miles Mehta,Finance,5/2/1996,189933,Available,2026-09-20
+E04332,Ezra Simmons,Engineering,7/1/2010,78237,Fully Allocated,2026-10-05
+E02062,Nora Santiago,Accounting,6/26/1996,48687,Fully Allocated,2026-11-03
+E00034,Caroline Herrera,Marketing,8/19/2004,121065,Available,2026-09-20
+E00273,David Owens,Sales,4/16/2004,94246,Partially Allocated,2027-02-25
+E00691,Avery Yee,IT,5/22/2016,44614,Available,2026-09-20
+E01403,Xavier Park,IT,11/8/2020,234469,Partially Allocated,2027-02-17
+E03438,Asher Morales,Engineering,7/10/2020,88272,Partially Allocated,2027-02-28
+E04136,Mason Cao,Finance,9/14/2017,74449,Partially Allocated,2026-11-03
+E02944,Joshua Fong,Engineering,6/11/2012,222941,Partially Allocated,2027-01-13
+E03300,Maria Chin,Marketing,9/26/2013,50341,Fully Allocated,2027-01-26
+E00078,Eva Garcia,Human Resources,4/11/2021,72235,Partially Allocated,2026-10-20
+E00825,Anna Molina,Accounting,6/12/2016,70165,Available,2026-09-20
+E04972,Logan Bryant,Marketing,7/18/2020,148485,Available,2026-09-20
+E03941,Isla Han,IT,6/18/2005,86089,Partially Allocated,2027-01-15
+E02148,Christopher Vega,Engineering,10/27/2007,106313,Available,2026-09-20
+E02252,Lillian Park,Marketing,2/24/2021,46833,Partially Allocated,2027-01-02
+E03096,Kennedy Zhang,Finance,10/27/2000,155320,Fully Allocated,2026-11-21
+E04800,Eli Han,Accounting,1/15/2016,89984,Fully Allocated,2027-02-07
+E02838,Julia Pham,Engineering,3/16/2006,83756,Available,2026-09-20
+E02980,Hailey Shin,Human Resources,10/24/2016,176324,Available,2026-09-20
+E04477,Connor Grant,Accounting,10/13/2021,74077,Fully Allocated,2026-12-14
+E04348,Natalia Owens,Human Resources,1/18/2021,104162,Available,2026-09-20
+E01638,Maria He,IT,8/28/2010,82162,Partially Allocated,2026-12-28
+E03419,Jade Yi,Sales,7/10/2015,63880,Available,2026-09-20
+E04222,Quinn Xiong,Engineering,9/8/2013,73248,Available,2026-09-20
+E04126,Dominic Baker,Accounting,10/9/2020,91853,Available,2026-09-20
+E01896,Adam Nelson,Finance,1/14/2020,168014,Available,2026-09-20
+E03018,Autumn Reed,Engineering,9/17/2017,70770,Available,2026-09-20
+E03325,Robert Edwards,Human Resources,10/11/2004,50825,Available,2026-09-20
+E04037,Roman Martinez,Finance,9/19/2015,145846,Partially Allocated,2026-11-14
+E01902,Eleanor Li,Human Resources,12/7/2003,125807,Available,2026-09-20
+E01466,Connor Vang,Sales,7/28/2021,46845,Available,2026-09-20
+E02038,Ellie Chung,Marketing,8/29/2008,157969,Partially Allocated,2027-02-08
+E03474,Violet Hall,IT,12/10/2010,97807,Fully Allocated,2026-12-06
+E02744,Dylan Padilla,Human Resources,12/9/2015,73854,Available,2026-09-20
+E00702,Nathan Pham,Accounting,12/12/2006,149537,Available,2026-09-20
+E03081,Ayla Brown,Sales,4/15/2013,128303,Fully Allocated,2026-12-29
+E01281,Isaac Mitchell,IT,6/10/2005,67374,Partially Allocated,2026-11-07
+E04029,Jayden Jimenez,Human Resources,9/24/2011,102167,Available,2026-09-20
+E01116,Jaxon Tran,Sales,9/7/2007,151027,Fully Allocated,2027-02-18
+E01753,Connor Fong,Accounting,2/16/2018,120905,Available,2026-09-20
+E04072,Emery Mitchell,Finance,6/2/2018,231567,Fully Allocated,2026-10-07
+E00672,Landon Luu,IT,7/12/2015,215388,Available,2026-09-20
+E04419,Sophia Ahmed,Sales,6/13/2015,127972,Partially Allocated,2027-01-21
+E00467,Sofia Dinh,Engineering,8/4/1995,80701,Partially Allocated,2026-12-25
+E00365,Jonathan Patel,Marketing,2/2/2020,115417,Available,2026-09-20
+E00306,Piper Patterson,Engineering,6/19/2019,88045,Partially Allocated,2026-11-12
+E03292,Cora Evans,IT,3/26/2018,86478,Available,2026-09-20
+E04779,Cameron Young,Engineering,1/18/2016,180994,Fully Allocated,2027-03-07
+E00501,Melody Ho,Finance,12/2/2007,64494,Fully Allocated,2027-01-12
+E01132,Aiden Bryant,Sales,10/21/2002,70122,Fully Allocated,2026-11-06
+E00556,Grayson Walker,Accounting,2/19/2017,181854,Available,2026-09-20
+E00311,Scarlett Figueroa,Human Resources,10/21/2016,52811,Fully Allocated,2026-11-16
+E04567,Madeline Hoang,IT,10/25/2019,50111,Fully Allocated,2026-12-05
+E04378,Ezra Simmons,IT,5/7/2016,71192,Partially Allocated,2026-12-09
+E03251,Ruby Medina,Sales,12/18/2018,155351,Partially Allocated,2026-10-06
+E03167,Luke Zheng,Human Resources,11/28/2006,161690,Partially Allocated,2026-10-29
+E03347,Rylee Dinh,Engineering,2/10/2017,60132,Available,2026-09-20
+E03908,Miles Evans,IT,10/24/1994,87216,Fully Allocated,2026-12-14
+E01351,Leo Owens,IT,4/23/2020,50069,Fully Allocated,2026-12-27
+E02681,Caroline Owens,IT,7/26/2021,151108,Partially Allocated,2026-11-03
+E03807,Kennedy Do,IT,10/15/2005,67398,Available,2026-09-20
+E00422,Jade Acosta,Engineering,8/29/2015,68488,Available,2026-09-20
+E00265,Mila Vasquez,Engineering,7/16/1998,92932,Fully Allocated,2027-01-24
+E04601,Allison Ayala,Finance,6/30/2009,43363,Partially Allocated,2027-01-27
+E04816,Jace Zhang,IT,2/14/2017,95963,Partially Allocated,2026-10-17
+E02147,Allison Medina,Finance,4/29/2010,111038,Available,2026-09-20
+E02914,Maria Wilson,Engineering,6/14/1996,200246,Available,2026-09-20
+E03268,Everly Coleman,IT,2/18/2015,194871,Available,2026-09-20
+E03972,Jordan Gomez,Accounting,9/15/1994,98769,Available,2026-09-20
+E02189,Isla Chavez,Sales,5/19/2018,65334,Fully Allocated,2026-10-13
+E04290,Hannah Gomez,IT,5/11/2021,83934,Available,2026-09-20
+E03630,Jacob Davis,Accounting,9/3/2016,150399,Partially Allocated,2026-11-04
+E00432,Eli Gupta,Human Resources,5/19/2012,160280,Partially Allocated,2026-11-06
+E03045,Andrew Huynh,Human Resources,4/28/1997,54051,Available,2026-09-20
+E01924,Anna Gutierrez,Engineering,4/15/2003,150699,Partially Allocated,2026-10-05
+E04877,Samuel Vega,Marketing,3/30/2013,69570,Fully Allocated,2027-03-18
+E02770,Liliana Do,IT,3/29/2019,86774,Available,2026-09-20
+E04590,Isaac Sanders,Human Resources,3/29/2001,57606,Fully Allocated,2026-12-12
+E01977,Raelynn Gupta,Finance,9/10/2001,125730,Partially Allocated,2026-10-13
+E01378,Genesis Xiong,IT,2/25/2012,64170,Fully Allocated,2026-12-22
+E04224,Lucas Ramos,Human Resources,1/21/1998,72303,Available,2026-09-20
+E03423,Santiago f Gonzalez,Sales,7/26/2012,105891,Available,2026-09-20
+E01584,Henry Zhu,Marketing,8/25/2021,255230,Partially Allocated,2026-12-12
+E00788,Emily Contreras,Sales,6/15/1992,59591,Available,2026-09-20
+E00207,Hailey Lai,Human Resources,7/23/2012,187048,Fully Allocated,2027-02-17
+E00834,Vivian Guzman,Finance,2/9/2002,58605,Fully Allocated,2026-11-09
+E04571,Hadley Contreras,Engineering,1/4/2017,178502,Fully Allocated,2027-03-07
+E02652,Nathan Sun,Accounting,7/29/2015,103724,Partially Allocated,2026-12-30
+E02693,Grace Campos,Engineering,3/21/2008,156277,Fully Allocated,2026-10-21
+E03359,Autumn Ortiz,Engineering,12/17/2017,87744,Fully Allocated,2026-11-11
+E00399,Connor Walker,Finance,3/18/2019,54714,Available,2026-09-20
+E02971,Mia Wu,IT,8/25/2013,99169,Partially Allocated,2027-01-04
+E03327,Julia Luong,Accounting,6/20/2006,142628,Fully Allocated,2027-03-07
+E00900,Eleanor Delgado,Marketing,4/27/2014,75869,Partially Allocated,2027-01-06
+E00836,Addison Roberts,IT,5/14/2018,60985,Partially Allocated,2027-03-09
+E03854,Camila Li,IT,7/24/2010,126911,Partially Allocated,2026-12-18
+E04729,Ezekiel Fong,Sales,2/25/2004,216949,Available,2026-09-20
+E00360,Dylan Thao,Engineering,10/22/2012,168510,Available,2026-09-20
+E02284,Josephine Salazar,Engineering,3/14/2016,85870,Available,2026-09-20
+E00181,Genesis Hu,Marketing,1/15/2002,86510,Partially Allocated,2026-11-02
+E04168,Mila Juarez,Sales,9/21/2017,119647,Available,2026-09-20
+E02861,Daniel Perry,IT,4/15/2001,80921,Available,2026-09-20
+E01357,Paisley Hunter,Engineering,1/15/2010,98110,Available,2026-09-20
+E04387,Everleigh White,IT,10/20/2017,86831,Fully Allocated,2027-03-18
+E03090,Penelope Choi,IT,9/10/2010,72826,Partially Allocated,2026-12-28
+E03591,Piper Sun,Marketing,2/14/2011,171217,Available,2026-09-20
+E03328,Lucy Johnson,IT,4/27/2020,103058,Available,2026-09-20
+E04937,Ian Ngo,Sales,8/7/2014,117062,Available,2026-09-20
+E00515,Joseph Vazquez,Accounting,1/23/2019,159031,Fully Allocated,2026-11-21
+E01241,Hadley Guerrero,IT,1/14/2004,125086,Fully Allocated,2026-12-04
+E03255,Jose Brown,IT,4/7/2016,67976,Fully Allocated,2027-02-18
+E01711,Benjamin Ford,Finance,4/22/2021,74215,Available,2026-09-20
+E00500,Henry Shah,Accounting,6/11/2010,187389,Fully Allocated,2026-10-20
+E04972,Ivy Daniels,Human Resources,10/26/2008,131841,Fully Allocated,2027-03-04
+E02728,Thomas Chang,Accounting,7/26/2011,97231,Fully Allocated,2026-10-14
+E04749,Caroline Phan,Finance,3/14/2004,155004,Fully Allocated,2027-03-19
+E02023,Maverick Mehta,IT,7/30/2007,41859,Available,2026-09-20
+E03166,Austin Edwards,IT,9/24/2006,52733,Fully Allocated,2026-11-26
+E02599,Daniel Huang,Human Resources,9/3/2015,250953,Available,2026-09-20
+E01014,Lucas Phan,Marketing,2/19/1999,191807,Fully Allocated,2026-12-01
+E04529,Gabriel Yu,IT,6/23/2014,64677,Available,2026-09-20
+E00085,Mason Watson,IT,9/14/2004,130274,Available,2026-09-20
+E00632,Angel Chang,IT,7/6/2017,96331,Partially Allocated,2027-02-14
+E02108,Madeline Coleman,Finance,4/28/2006,150758,Partially Allocated,2026-10-15
+E03802,Thomas Vazquez,Engineering,7/19/2014,173629,Available,2026-09-20
+E03685,Silas Hunter,IT,5/4/1998,62174,Partially Allocated,2026-12-21
+E01089,Nicholas Brooks,Accounting,10/20/2017,56555,Fully Allocated,2026-10-22
+E03988,Dominic Thomas,Marketing,9/28/2005,74655,Partially Allocated,2026-10-21
+E00401,Wesley Adams,IT,8/11/2003,93017,Partially Allocated,2027-02-15
+E03429,Ian Wu,Marketing,4/14/2012,82300,Fully Allocated,2027-01-29
+E02417,Alice Young,Engineering,1/24/2008,91621,Available,2026-09-20
+E00359,Logan Carrillo,Marketing,11/30/2014,91280,Fully Allocated,2027-02-14
+E02044,Caroline Alexander,Human Resources,9/18/2020,47071,Fully Allocated,2026-12-01
+E01479,Serenity Bailey,IT,11/21/2011,81218,Available,2026-09-20
+E04962,Elena Tan,Engineering,10/13/2008,181801,Partially Allocated,2026-11-25
+E02769,Eliza Adams,Sales,11/21/2021,63137,Fully Allocated,2027-01-29
+E03893,Alice Xiong,Engineering,9/2/2018,221465,Fully Allocated,2026-11-02
+E00553,Isla Yoon,Engineering,5/10/2013,79388,Partially Allocated,2027-01-26
+E03540,Emma Perry,IT,1/22/2018,68176,Fully Allocated,2027-01-04
+E02769,Riley Marquez,Finance,10/18/2019,122829,Fully Allocated,2027-01-18
+E03277,Caroline Hu,Marketing,8/18/2019,126353,Fully Allocated,2027-03-04
+E04194,Madison Kumar,Accounting,10/17/2010,188727,Fully Allocated,2026-12-17
+E01807,Matthew Lim,Sales,2/18/1994,99624,Partially Allocated,2026-10-21
+E01762,Maya Ngo,Sales,10/20/2012,108686,Available,2026-09-20
+E02632,Alice Soto,Accounting,4/13/1995,50857,Partially Allocated,2026-11-15
+E04226,Andrew Moore,Engineering,1/2/2001,120628,Fully Allocated,2026-11-14
+E04101,Olivia Harris,Sales,6/14/2020,181216,Partially Allocated,2026-10-23
+E01981,Genesis Banks,Finance,3/16/2012,46081,Available,2026-09-20
+E02534,Victoria Johnson,Accounting,5/28/2004,159885,Available,2026-09-20
+E01238,Eloise Griffin,Sales,10/29/1995,153271,Fully Allocated,2026-11-04
+E01118,Roman Yang,Human Resources,12/12/2009,114242,Available,2026-09-20
+E04041,Clara Huynh,IT,11/18/2020,48415,Available,2026-09-20
+E04308,Kai Flores,Engineering,5/23/2017,65566,Available,2026-09-20
+E01052,Jaxson Dinh,Marketing,5/3/2001,147752,Fully Allocated,2026-11-03
+E04165,Sophie Vang,Marketing,9/14/2021,136810,Available,2026-09-20
+E02295,Axel Jordan,Sales,2/28/2013,54635,Available,2026-09-20
+E04546,Jade Hunter,IT,2/5/2020,96636,Partially Allocated,2026-12-26
+E04217,Lydia Williams,IT,10/29/2014,91592,Partially Allocated,2027-02-19
+E00650,Emery Chang,Human Resources,8/17/2000,55563,Fully Allocated,2026-12-20
+E00344,Savannah He,IT,2/14/1996,159724,Partially Allocated,2027-01-08
+E04645,Elias Ahmed,Marketing,8/4/2017,183190,Fully Allocated,2027-03-13
+E03880,Samantha Woods,Accounting,12/25/2019,54829,Fully Allocated,2026-11-02
+E02730,Axel Soto,Engineering,4/22/2005,96639,Fully Allocated,2027-01-08
+E04517,Amelia Choi,Marketing,6/11/2006,117278,Available,2026-09-20
+E00965,Jacob Khan,IT,2/9/2008,84193,Partially Allocated,2026-11-24
+E04639,Luna Taylor,IT,7/28/2018,87806,Available,2026-09-20
+E00465,Dominic Parker,Engineering,10/4/2011,63959,Available,2026-09-20
+E03058,Angel Xiong,IT,6/11/2015,234723,Fully Allocated,2026-11-18
+E02337,Emma Cao,Accounting,8/24/2019,50809,Fully Allocated,2026-10-27
+E04927,Ezekiel Bryant,Finance,7/19/2002,77396,Available,2026-09-20
+E03799,Natalie Hwang,Finance,12/31/1999,89523,Partially Allocated,2026-12-21
+E04538,Adeline Yang,IT,7/20/2011,86173,Partially Allocated,2026-12-03
+E02633,Allison Roberts,Sales,8/19/2000,222224,Partially Allocated,2026-12-28
+E02965,Andrew Do,Finance,4/17/2021,146140,Available,2026-09-20
+E04345,Eliana Grant,Engineering,6/20/1994,109456,Fully Allocated,2026-12-24
+E02895,Mila Soto,Finance,10/7/2008,170221,Fully Allocated,2027-03-18
+E01132,Gabriella Johnson,IT,3/1/2006,97433,Fully Allocated,2026-11-16
+E00758,Jonathan Khan,Sales,8/30/2013,59646,Fully Allocated,2027-01-09
+E03750,Elias Dang,Engineering,8/29/1995,158787,Available,2026-09-20
+E00144,Theodore Ngo,Engineering,4/29/2018,83378,Available,2026-09-20
+E02943,Bella Lopez,Marketing,11/12/2013,88895,Partially Allocated,2026-12-09
+E03901,Luca Truong,Marketing,12/11/2004,168846,Partially Allocated,2026-12-14
+E03461,Nathan Lau,Human Resources,2/22/2011,43336,Available,2026-09-20
+E03490,Henry Campos,Human Resources,9/27/2009,127801,Available,2026-09-20
+E04466,Connor Bell,IT,4/1/2000,76352,Fully Allocated,2026-11-19
+E03226,Angel Stewart,Finance,6/22/2019,250767,Available,2026-09-20
+E04607,Landon Brown,Marketing,9/27/2020,223055,Available,2026-09-20
+E02678,Nicholas Rivera,Engineering,4/13/2007,189680,Partially Allocated,2027-03-07
+E02190,Gabriel Carter,Engineering,7/18/2018,71167,Fully Allocated,2027-03-07
+E00747,Leilani Baker,IT,4/4/2010,76027,Partially Allocated,2026-10-14
+E00268,Ian Flores,Engineering,12/10/2019,183113,Partially Allocated,2026-12-18
+E01416,Hudson Thompson,Accounting,10/20/2020,67753,Fully Allocated,2027-02-26
+E01524,Ian Miller,IT,10/13/2016,63744,Partially Allocated,2026-12-10
+E03849,Harper Chin,Engineering,7/9/2002,92209,Available,2026-09-20
+E02801,Santiago f Brooks,Sales,9/1/2000,157487,Available,2026-09-20
+E04155,Dylan Dominguez,Marketing,4/7/2015,99697,Available,2026-09-20
+E01952,Everett Lee,IT,2/26/2010,90770,Available,2026-09-20
+E00116,Madelyn Mehta,Sales,1/28/2005,55369,Partially Allocated,2027-01-20
+E04811,Athena Vasquez,Engineering,9/16/2014,69578,Available,2026-09-20
+E00624,William Watson,Accounting,6/4/2013,167526,Available,2026-09-20
+E03404,Everleigh Nunez,Engineering,2/5/2021,65507,Fully Allocated,2027-02-07
+E01845,Leo Fernandez,Finance,4/28/1998,108268,Available,2026-09-20
+E04784,Joshua Lin,IT,2/5/2016,80055,Fully Allocated,2026-11-01
+E00145,Alexander Rivera,Sales,4/27/2009,76802,Fully Allocated,2026-11-13
+E00218,David Desai,Sales,11/22/2016,253249,Available,2026-09-20
+E02185,Aubrey Yoon,Human Resources,11/11/2005,78388,Fully Allocated,2026-11-08
+E01070,Grayson Brown,IT,6/22/2016,249870,Available,2026-09-20
+E03807,Noah Chen,Marketing,3/1/2015,148321,Available,2026-09-20
+E00784,Ella Nguyen,IT,2/10/2004,90258,Available,2026-09-20
+E04925,Athena Jordan,IT,2/19/2011,72486,Partially Allocated,2026-12-04
+E04448,Adrian Ruiz,Finance,9/4/2014,95499,Fully Allocated,2027-03-01
+E04817,Zoe Sanchez,Accounting,12/23/2004,90212,Partially Allocated,2026-11-10
+E00325,Jameson Chen,Marketing,12/5/2019,254057,Fully Allocated,2027-02-06
+E00403,Liliana Soto,Human Resources,10/12/2010,43001,Available,2026-09-20
+E00436,Lincoln Reyes,IT,8/3/1998,85120,Available,2026-09-20
+E04358,Grayson Soto,Human Resources,8/3/2015,52200,Partially Allocated,2026-11-04
+E04662,Julia Morris,Human Resources,10/18/2008,150855,Partially Allocated,2027-01-27
+E01496,Ava Ortiz,IT,7/20/2004,65702,Partially Allocated,2026-12-22
+E01870,Carson Chau,Finance,10/12/2007,162038,Fully Allocated,2027-02-14
+E03971,Lillian Chen,Marketing,4/9/2020,157057,Fully Allocated,2027-03-08
+E03616,Josiah Lewis,IT,8/11/2021,127559,Fully Allocated,2026-12-24
+E00153,Claire Jones,Engineering,3/12/2019,62644,Available,2026-09-20
+E02313,Jeremiah Lu,IT,3/6/2001,73907,Available,2026-09-20
+E02960,Nova Hill,Accounting,3/10/2018,90040,Fully Allocated,2026-10-08
+E00096,Peyton Cruz,Engineering,5/26/2016,91134,Fully Allocated,2027-02-23
+E02140,Naomi Zhao,Human Resources,9/22/2021,201396,Available,2026-09-20
+E00826,Rylee Bui,Accounting,12/22/2011,54733,Fully Allocated,2026-12-24
+E03881,Andrew Reed,IT,6/17/2019,65341,Fully Allocated,2027-02-06
+E02604,Brooklyn Collins,Finance,10/27/2018,139208,Partially Allocated,2026-11-22
+E02613,John Jung,Sales,3/12/2018,73200,Fully Allocated,2026-11-26
+E00864,Samantha Aguilar,Accounting,4/24/2010,102636,Available,2026-09-20
+E01760,Madeline Acosta,Sales,2/9/2021,87427,Fully Allocated,2027-03-17
+E03223,Ethan Joseph,IT,5/28/2018,49219,Fully Allocated,2027-02-17
+E01262,Miles Mehta,Finance,5/19/2018,106437,Available,2026-09-20
+E01075,Joshua Juarez,Finance,5/5/2015,64364,Fully Allocated,2026-12-28
+E00364,Matthew Howard,Human Resources,10/17/2021,172180,Available,2026-09-20
+E04108,Jade Figueroa,Sales,5/14/2012,88343,Partially Allocated,2027-01-30
+E02917,Everett Morales,IT,7/10/2014,66649,Partially Allocated,2026-11-22
+E03720,Genesis Hunter,Finance,4/22/1999,102847,Available,2026-09-20
+E03393,Henry Figueroa,Finance,7/19/2010,134881,Partially Allocated,2026-11-10
+E02977,Nicholas Song,Marketing,5/23/1999,68807,Fully Allocated,2027-01-31
+E03371,Jack Alexander,IT,5/29/2006,228822,Partially Allocated,2026-12-04
+E02531,Jameson Foster,Marketing,7/18/2021,43391,Available,2026-09-20
+E02473,Leonardo Lo,Engineering,11/15/2021,91782,Available,2026-09-20
+E02468,Ella Huang,Marketing,2/28/2016,211637,Partially Allocated,2027-01-07
+E01499,Liam Jordan,IT,8/8/2020,73255,Available,2026-09-20
+E03697,Isaac Woods,Sales,1/8/2021,108826,Fully Allocated,2026-11-26
+E00593,Luke Wilson,IT,5/24/2016,94352,Partially Allocated,2027-03-01
+E01103,Lyla Alvarez,IT,8/30/1994,73955,Partially Allocated,2026-11-07
+E03889,Caleb Flores,Human Resources,8/13/2013,113909,Available,2026-09-20
+E01958,Angel Lin,IT,12/24/2020,92321,Fully Allocated,2026-12-01
+E01870,Easton Moore,IT,5/23/2013,99557,Fully Allocated,2026-11-21
+E01167,Kinsley Collins,Engineering,11/14/2018,115854,Partially Allocated,2027-02-12
+E00099,Brooklyn Salazar,IT,3/1/2011,82462,Partially Allocated,2027-01-24
+E00044,Scarlett Jenkins,IT,11/9/2011,198473,Fully Allocated,2026-11-12
+E00711,Melody Chin,Finance,10/15/2006,153492,Available,2026-09-20
+E04795,Eloise Alexander,Human Resources,1/21/2018,208210,Available,2026-09-20
+E03912,Carter Turner,Marketing,11/17/2015,91632,Partially Allocated,2026-11-25
+E02103,Andrew Ma,Human Resources,9/24/2017,71755,Fully Allocated,2026-12-13
+E04213,Hailey Xi,Accounting,11/19/2021,111006,Partially Allocated,2027-01-28
+E04756,Aiden Le,IT,12/24/1994,99774,Partially Allocated,2026-10-15
+E04114,Christopher Lim,IT,3/13/2007,184648,Partially Allocated,2026-11-15
+E01423,James Castillo,IT,7/19/2001,247874,Available,2026-09-20
+E03181,Greyson Dang,Engineering,5/11/2009,62239,Partially Allocated,2027-01-12
+E03305,Hannah King,Accounting,10/7/2014,114911,Available,2026-09-20
+E00703,Wesley Dominguez,Engineering,4/27/2018,115490,Available,2026-09-20
+E04403,Dominic Hu,Accounting,2/13/2012,118708,Fully Allocated,2026-11-15
+E00103,Nora Park,Accounting,6/28/2017,197649,Available,2026-09-20
+E04487,Audrey Hwang,Accounting,6/17/2020,89841,Available,2026-09-20
+E01194,Ella Jenkins,Finance,12/20/2019,61026,Partially Allocated,2027-03-14
+E02179,Peyton Owens,Engineering,9/25/2014,96693,Fully Allocated,2026-10-07
+E04242,Alice Lopez,Engineering,6/27/2009,82907,Available,2026-09-20
+E01371,Dominic Le,Marketing,10/4/2014,257194,Available,2026-09-20
+E03065,Ezra Ortiz,Engineering,1/21/2012,94658,Partially Allocated,2026-10-20
+E01377,Grayson Luu,Engineering,4/30/2011,89419,Partially Allocated,2027-01-31
+E03097,Brooks Stewart,Human Resources,12/19/2015,51983,Available,2026-09-20
+E01668,Naomi Xi,Finance,2/17/2002,179494,Fully Allocated,2027-01-21
+E03354,Silas Estrada,IT,6/24/2016,68426,Partially Allocated,2026-11-12
+E02088,Skylar Ayala,Finance,2/6/2017,144986,Fully Allocated,2026-11-04
+E03980,Lydia Huynh,Sales,8/16/2000,60113,Fully Allocated,2027-01-04
+E00972,Hazel Cortez,Human Resources,4/18/2021,50548,Fully Allocated,2027-03-17
+E00824,Everleigh Adams,Marketing,3/14/2020,68846,Available,2026-09-20
+E04359,Layla Salazar,IT,3/19/2014,90901,Available,2026-09-20
+E03113,Willow Chen,Accounting,9/3/2012,102033,Available,2026-09-20
+E01488,Penelope Griffin,Sales,1/23/2021,151783,Available,2026-09-20
+E01787,Lillian Romero,Engineering,12/7/2018,170164,Partially Allocated,2027-02-14
+E03550,Stella Wu,Marketing,2/20/2014,155905,Fully Allocated,2026-12-27
+E01052,Parker Vang,Sales,12/17/2016,50733,Partially Allocated,2027-02-02
+E04799,Mila Roberts,Human Resources,1/26/2017,88663,Fully Allocated,2026-10-29
+E03402,Isaac Liu,Engineering,10/13/1992,88213,Available,2026-09-20
+E04128,Jacob Doan,Sales,8/2/2021,67130,Available,2026-09-20
+E00013,Raelynn Ma,Finance,10/8/2015,94876,Available,2026-09-20
+E03114,Jameson Juarez,Engineering,10/9/1994,98230,Available,2026-09-20
+E04004,Everleigh Shah,Engineering,12/14/2018,96757,Partially Allocated,2027-02-18
+E04472,Alexander Foster,Marketing,7/3/2020,51513,Fully Allocated,2027-02-07
+E00161,Ryan Ha,Marketing,1/27/2007,234311,Fully Allocated,2026-11-18
+E04417,Chloe Salazar,Human Resources,5/22/2011,152353,Fully Allocated,2026-12-15
+E04536,Layla Scott,Accounting,7/30/2010,124774,Partially Allocated,2026-11-10
+E02534,Leah Khan,Marketing,9/13/2010,157070,Available,2026-09-20
+E02857,Mason Jimenez,Finance,8/8/2019,130133,Available,2026-09-20
+E03059,Hailey Dang,Marketing,9/21/2019,108780,Available,2026-09-20
+E02477,Amelia Bui,Engineering,10/21/2020,151853,Fully Allocated,2027-02-18
+E00022,Elena Her,Sales,9/17/2006,64669,Fully Allocated,2026-11-26
+E03370,Ian Cortez,Marketing,4/30/2008,69352,Available,2026-09-20
+E00555,Christian Ali,Marketing,10/17/2001,74631,Available,2026-09-20
+E03160,Carter Ortiz,Engineering,4/29/2012,96441,Partially Allocated,2026-11-05
+E03919,Grayson Chan,Engineering,10/20/2011,114250,Fully Allocated,2027-03-15
+E01724,Nolan Molina,IT,12/27/2020,70165,Available,2026-09-20
+E04087,Adam Kaur,IT,1/29/2000,109059,Available,2026-09-20
+E02856,Amelia Kaur,Engineering,11/14/2015,77442,Partially Allocated,2026-10-16
+E03805,Autumn Gonzales,Sales,6/6/2012,72126,Fully Allocated,2026-11-12
+E00319,Ezra Wilson,IT,10/18/2013,70334,Partially Allocated,2027-01-02
+E01090,Jacob Cheng,Engineering,12/23/2009,78006,Fully Allocated,2026-10-27
+E04323,Melody Valdez,IT,1/25/2021,160385,Partially Allocated,2027-03-10
+E02687,Caroline Nelson,Finance,1/11/2014,202323,Partially Allocated,2026-11-07
+E01407,Ellie Guerrero,Human Resources,7/13/2020,141555,Available,2026-09-20
+E02748,Genesis Zhu,Finance,7/20/2020,184960,Available,2026-09-20
+E01995,Jonathan Ho,IT,6/25/2011,221592,Partially Allocated,2027-02-05
+E01714,Savannah Park,Human Resources,1/28/2009,53301,Fully Allocated,2026-11-14
+E04491,Nathan Chan,IT,3/2/2000,91276,Available,2026-09-20
+E01076,Sofia Vu,Human Resources,9/5/2017,140042,Partially Allocated,2027-01-11
+E04131,Ruby Choi,Accounting,12/6/2018,57225,Fully Allocated,2026-12-03
+E02843,Lily Pena,Human Resources,2/24/2010,102839,Available,2026-09-20
+E03758,Liam Zhang,Marketing,9/15/2021,199783,Fully Allocated,2027-02-09
+E02063,Ian Gutierrez,Human Resources,4/9/2021,70980,Partially Allocated,2026-12-21
+E00638,David Simmons,Marketing,1/26/1997,104431,Partially Allocated,2026-12-24
+E03571,Lincoln Henderson,Human Resources,6/27/2021,48510,Available,2026-09-20
+E01820,Nathan Miller,Engineering,5/28/2019,70110,Available,2026-09-20
+E01712,James Singh,Marketing,3/12/2008,186138,Available,2026-09-20
+E00184,Kayden Ortega,Accounting,4/19/2010,56350,Available,2026-09-20
+E02706,Lucy Figueroa,Finance,1/10/2016,149761,Partially Allocated,2027-02-15
+E02899,Joshua Cortez,Finance,8/11/2007,126277,Fully Allocated,2027-01-10
+E02478,Alexander Morris,Sales,6/21/2013,119631,Fully Allocated,2027-02-22
+E04170,Grayson Chin,IT,5/9/2020,256561,Fully Allocated,2026-12-14
+E00929,Allison Espinoza,IT,4/16/2020,66958,Fully Allocated,2026-12-10
+E00530,Naomi Chu,Sales,2/29/2004,158897,Partially Allocated,2027-03-02
+E03824,Jameson Martin,IT,2/15/2008,71695,Available,2026-09-20
+E02492,Sebastian Gupta,Marketing,9/22/2014,73779,Partially Allocated,2026-11-19
+E01733,Eloise Pham,Sales,10/20/2011,123640,Partially Allocated,2027-01-28
+E02857,Valentina Davis,Sales,4/13/2014,46878,Fully Allocated,2026-10-06
+E04938,Brooklyn Daniels,Marketing,2/10/2003,57032,Available,2026-09-20
+E04952,Paisley Gomez,Sales,10/2/2007,98150,Available,2026-09-20
+E02420,Madison Li,Marketing,3/6/2017,171426,Fully Allocated,2026-12-15
+E01639,Everleigh Simmons,Finance,4/16/2021,48266,Fully Allocated,2026-12-20
+E03947,Logan Soto,Finance,8/18/2018,223404,Fully Allocated,2026-12-14
+E04535,Charlotte Vo,IT,1/10/2014,74854,Partially Allocated,2027-02-21
+E00380,Alice Thompson,Accounting,4/25/2007,217783,Partially Allocated,2026-11-07
+E01432,Peyton Garza,IT,8/15/2004,44735,Available,2026-09-20
+E02628,Nora Nelson,Finance,1/9/2007,50685,Partially Allocated,2026-10-24
+E03578,Maverick Li,Sales,3/10/2018,58993,Available,2026-09-20
+E03563,Ian Barnes,Engineering,6/8/2020,115765,Available,2026-09-20
+E02781,Athena Vu,Accounting,3/6/2007,193044,Fully Allocated,2027-02-24
+E04739,Ruby Washington,Marketing,6/17/2011,56686,Partially Allocated,2026-12-28
+E02665,Bella Butler,Finance,10/25/2019,131652,Fully Allocated,2026-12-22
+E04132,Kinsley Henry,Marketing,2/29/2008,150577,Partially Allocated,2027-02-04
+E00276,Kennedy Romero,Engineering,12/27/2018,87359,Available,2026-09-20
+E04277,Zoe Do,Sales,1/8/2014,51877,Fully Allocated,2026-11-09
+E03890,Everett Khan,IT,1/18/2017,86417,Fully Allocated,2026-10-28
+E02012,Anna Han,IT,5/8/2003,96548,Available,2026-09-20
+E02881,Leilani Sharma,Accounting,1/23/2014,92940,Partially Allocated,2026-12-16
+E03750,Jordan Cho,Accounting,8/24/2018,61410,Fully Allocated,2026-12-17
+E00605,Nova Williams,Finance,4/25/2010,110302,Fully Allocated,2027-01-13
+E04641,Scarlett Hill,Engineering,4/22/2018,187205,Fully Allocated,2026-11-10
+E01019,Dominic Scott,Sales,3/16/2011,81687,Available,2026-09-20
+E01519,Anthony Marquez,IT,8/15/2009,241083,Fully Allocated,2026-12-09
+E03694,Elena Patterson,Finance,11/9/2018,223805,Fully Allocated,2027-02-27
+E01123,Madison Nelson,Accounting,7/16/2021,161759,Available,2026-09-20
+E01366,William Walker,IT,2/24/2019,95899,Fully Allocated,2027-02-28
+E04005,Lincoln Wong,Finance,6/7/2019,80700,Fully Allocated,2027-03-19
+E02770,James Huang,Human Resources,3/11/1997,128136,Partially Allocated,2026-10-29
+E04018,Emery Ford,Marketing,4/18/2017,58745,Partially Allocated,2027-02-09
+E01591,Paisley Trinh,IT,5/4/1992,76202,Fully Allocated,2027-01-13
+E04940,Hudson Williams,Sales,3/19/2018,195200,Fully Allocated,2027-03-06
+E03465,Harper Phan,Finance,12/7/2016,71454,Partially Allocated,2026-11-17
+E03870,Madeline Allen,IT,2/3/2020,94652,Available,2026-09-20
+E01927,Charles Moore,IT,2/16/2016,63411,Available,2026-09-20
+E03064,Lincoln Fong,Sales,2/17/2020,67171,Available,2026-09-20
+E01883,Isla Guzman,Accounting,7/6/2019,152036,Available,2026-09-20
+E03984,Hailey Foster,Engineering,3/21/2021,95562,Fully Allocated,2027-02-26
+E00446,Hudson Hill,Sales,11/4/2019,96092,Partially Allocated,2027-02-18
+E02825,Wyatt Li,Engineering,6/3/2013,254289,Fully Allocated,2026-11-05
+E04174,Maverick Henry,IT,7/10/2019,69110,Available,2026-09-20
+E01899,Xavier Jackson,Marketing,6/11/2002,236314,Available,2026-09-20
+E02562,Christian Medina,Marketing,6/19/2007,45206,Available,2026-09-20
+E01006,Autumn Leung,Finance,11/15/2021,210708,Available,2026-09-20
+E02903,Robert Vazquez,IT,9/26/2021,87770,Available,2026-09-20
+E03642,Aria Roberts,Accounting,8/12/2015,106858,Available,2026-09-20
+E02884,Axel Johnson,Human Resources,4/14/2015,155788,Fully Allocated,2027-02-16
+E00701,Madeline Garcia,Human Resources,4/26/2019,74891,Fully Allocated,2027-01-14
+E04720,Christopher Chung,Engineering,12/18/2021,95670,Fully Allocated,2027-03-11
+E01985,Eliana Turner,Sales,9/29/2000,67837,Available,2026-09-20
+E03273,Daniel Shah,Sales,6/4/2010,72425,Partially Allocated,2027-01-09
+E02415,Penelope Gonzalez,Sales,10/16/1994,93103,Available,2026-09-20
+E02877,Mila Allen,Engineering,10/14/2015,76272,Available,2026-09-20
+E00091,Emilia Chu,Finance,6/24/2003,55760,Available,2026-09-20
+E02563,Emily Clark,Accounting,1/13/2020,253294,Available,2026-09-20
+E04221,Roman King,Finance,8/16/2007,58671,Available,2026-09-20
+E04887,Emery Do,Sales,3/16/2018,55457,Partially Allocated,2027-01-20
+E03170,Autumn Thao,Sales,9/26/2017,72340,Partially Allocated,2026-11-01
+E01636,Naomi Coleman,Marketing,11/2/2016,122054,Fully Allocated,2027-01-15
+E01387,Cora Zheng,IT,1/3/2018,167100,Available,2026-09-20
+E01363,Ayla Daniels,IT,4/23/1997,78153,Available,2026-09-20
+E02249,Allison Daniels,Finance,4/14/2020,103524,Fully Allocated,2027-02-26
+E02987,Mateo Harris,IT,8/5/2017,119906,Partially Allocated,2027-01-05
+E03655,Samantha Rogers,Marketing,1/17/2020,45061,Available,2026-09-20
+E04048,Julian Lee,IT,1/17/2003,91399,Partially Allocated,2026-12-13
+E03626,Nicholas Avila,IT,9/28/2017,97336,Available,2026-09-20
+E03694,Hailey Watson,Accounting,1/20/2017,124629,Available,2026-09-20
+E02920,Willow Woods,Human Resources,7/25/2021,231850,Available,2026-09-20
+E03220,Alexander Gonzales,Accounting,6/4/2018,128329,Partially Allocated,2026-12-25
+E01347,Aiden Gonzales,Marketing,3/28/2021,186033,Available,2026-09-20
+E03968,Joshua Chin,Marketing,7/26/2021,121480,Fully Allocated,2027-01-19
+E04299,Paisley Hall,Human Resources,5/21/2010,153275,Partially Allocated,2026-10-05
+E01150,Allison Leung,Sales,5/18/2020,97830,Fully Allocated,2026-11-04
+E03774,Hannah Mejia,Marketing,3/13/1999,239394,Fully Allocated,2027-03-12
+E01638,Elizabeth Huang,Finance,9/20/2002,49738,Partially Allocated,2027-02-10
+E01877,Abigail Garza,Accounting,5/27/2018,45049,Fully Allocated,2026-11-16
+E01193,Raelynn Lu,Finance,5/26/2020,153628,Partially Allocated,2027-01-20
+E01789,Charles Luu,Sales,6/15/2021,142731,Partially Allocated,2027-03-11
+E01422,Lydia Espinoza,Marketing,5/15/2020,137106,Partially Allocated,2026-10-20
+E00440,Adeline Thao,Finance,9/5/2007,183239,Partially Allocated,2027-02-01
+E00145,Kinsley Dixon,Accounting,5/25/2019,45819,Available,2026-09-20
+E04150,Natalia Vu,Accounting,12/29/2006,55518,Fully Allocated,2026-11-17
+E02846,Julia Mai,Marketing,3/11/2012,108134,Fully Allocated,2027-02-27
+E04247,Camila Evans,Marketing,12/20/1992,113950,Partially Allocated,2027-03-14
+E02613,Everly Lai,Marketing,4/1/1998,182035,Available,2026-09-20
+E03349,Adam He,Accounting,8/16/2017,181356,Available,2026-09-20
+E03648,Vivian Hunter,Sales,8/21/2019,66084,Fully Allocated,2027-03-09
+E02192,Lucy Avila,IT,4/22/2010,76912,Available,2026-09-20
+E03981,Eliana Li,Engineering,5/7/2018,67987,Available,2026-09-20
+E03262,Logan Mitchell,Marketing,8/20/2005,59833,Partially Allocated,2026-12-01
+E02716,Dominic Dinh,Marketing,4/11/2005,128468,Fully Allocated,2027-02-21
+E00245,Lucas Daniels,Sales,5/29/2011,102440,Available,2026-09-20
+E04123,Andrew Holmes,IT,12/30/2010,246619,Fully Allocated,2026-10-07
+E03471,Julia Sandoval,Human Resources,11/19/2017,101143,Partially Allocated,2027-02-03
+E00717,Kennedy Vargas,Human Resources,10/14/2005,51404,Available,2026-09-20
+E01966,Thomas Williams,Engineering,11/21/2015,87292,Available,2026-09-20
+E03683,Raelynn Hong,Marketing,12/11/2019,182321,Available,2026-09-20
+E03694,Eli Reed,IT,2/27/2014,53929,Available,2026-09-20
+E04766,Lyla Yoon,Accounting,12/13/2012,191571,Available,2026-09-20
+E01465,Hannah White,Accounting,1/30/2009,150555,Available,2026-09-20
+E00206,Theodore Xi,Finance,10/5/2009,122890,Available,2026-09-20
+E04088,Ezra Liang,Finance,5/26/1997,216999,Partially Allocated,2026-10-24
+E02066,Grayson Yee,Human Resources,7/16/2015,110565,Fully Allocated,2026-12-02
+E03227,Eli Richardson,IT,4/19/2015,48762,Fully Allocated,2026-12-09
+E03364,Audrey Lee,Engineering,2/11/2017,87036,Partially Allocated,2027-01-18
+E00607,Jameson Allen,Marketing,11/28/2016,177443,Available,2026-09-20
+E02258,Eliza Chen,IT,4/29/2016,75862,Fully Allocated,2026-11-11
+E03681,Lyla Chen,Human Resources,4/26/2019,90870,Available,2026-09-20
+E02298,Emily Doan,Engineering,12/4/2014,99202,Fully Allocated,2027-02-04
+E02984,Jack Mai,Marketing,9/22/2007,92293,Available,2026-09-20
+E02440,Grayson Turner,IT,6/30/1992,63196,Available,2026-09-20
+E04699,Ivy Tang,Engineering,5/3/2012,65340,Available,2026-09-20
+E03579,Robert Zhang,Marketing,9/24/2015,202680,Fully Allocated,2027-03-03
+E01649,Eva Alvarado,IT,4/24/2017,77461,Available,2026-09-20
+E04969,Abigail Vang,Engineering,9/9/2016,109680,Available,2026-09-20
+E00170,Claire Adams,Sales,8/19/1997,159567,Partially Allocated,2026-10-14
+E00955,Theodore Marquez,Engineering,11/24/2012,94407,Partially Allocated,2026-10-26
+E00810,Hunter Nunez,Human Resources,8/16/2002,234594,Partially Allocated,2026-10-22
+E02798,Charles Henderson,IT,2/11/2002,43080,Partially Allocated,2026-11-20
+E04542,Camila Cortez,Marketing,5/9/2021,129541,Available,2026-09-20
+E02818,Aaron Garza,Sales,12/27/2013,165756,Available,2026-09-20
+E02907,Jose Singh,Finance,4/6/2010,142878,Fully Allocated,2026-11-05
+E00023,Gabriel Joseph,Engineering,10/28/2006,187992,Available,2026-09-20
+E02391,Natalia Santos,Human Resources,2/25/2019,249801,Fully Allocated,2026-10-27
+E01429,Dylan Wilson,IT,9/27/2006,76505,Fully Allocated,2026-12-27
+E00494,Robert Alvarez,IT,10/21/2016,84297,Available,2026-09-20
+E00634,Samantha Chavez,Sales,1/9/2017,75769,Fully Allocated,2026-11-22
+E01249,Samuel Bailey,Accounting,8/17/2013,235619,Available,2026-09-20
+E04683,Ezekiel Delgado,Engineering,2/7/2020,187187,Partially Allocated,2026-12-28
+E04732,Benjamin Ramirez,IT,7/27/2005,68987,Fully Allocated,2027-02-14
+E03834,Anthony Carter,Engineering,3/15/2007,155926,Fully Allocated,2027-02-20
+E02923,Ethan Tang,Accounting,5/4/2016,93668,Available,2026-09-20
+E02642,Sebastian Rogers,Human Resources,11/29/2019,69647,Fully Allocated,2026-12-12
+E00981,Miles Thao,IT,6/26/2003,63318,Available,2026-09-20
+E04157,William Cao,Marketing,2/12/2017,77629,Available,2026-09-20
+E03528,Leo Hsu,Human Resources,11/22/2017,138808,Partially Allocated,2027-03-05
+E04547,Avery Grant,IT,3/5/2014,88777,Partially Allocated,2027-03-17
+E04415,Penelope Fong,Accounting,5/14/2004,186378,Available,2026-09-20
+E04484,Vivian Thao,Engineering,4/23/2015,60017,Available,2026-09-20
+E02800,Eva Estrada,Sales,7/24/2018,148991,Available,2026-09-20
+E04926,Emma Luna,Engineering,3/25/2008,97398,Fully Allocated,2027-02-24
+E01268,Charlotte Wu,Human Resources,5/2/2007,72805,Partially Allocated,2026-10-05
+E04853,Vivian Chu,Sales,1/17/2021,72131,Fully Allocated,2027-02-01
+E01209,Jayden Williams,Human Resources,12/26/1992,104668,Partially Allocated,2026-11-03
+E02024,Amelia Bell,Sales,8/5/2017,89769,Fully Allocated,2027-01-05
+E02427,Addison Mehta,Sales,9/15/2018,127616,Available,2026-09-20
+E00276,Alexander Jackson,Human Resources,7/9/2012,109883,Fully Allocated,2026-10-26
+E00951,Everly Lin,Human Resources,3/15/2021,47974,Available,2026-09-20
+E03248,Lyla Stewart,IT,3/27/2015,120321,Available,2026-09-20
+E04444,Brooklyn Ruiz,IT,8/10/2014,57446,Partially Allocated,2027-03-01
+E02307,Skylar Evans,Accounting,6/4/2009,174099,Partially Allocated,2026-12-11
+E02375,Lincoln Huynh,Finance,2/8/2002,128703,Partially Allocated,2026-12-25
+E02276,Hazel Griffin,Engineering,11/9/2015,65247,Fully Allocated,2026-12-21
+E02649,Charles Gonzalez,Engineering,9/28/2018,64247,Fully Allocated,2026-12-19
+E00503,Leah Patterson,Human Resources,6/11/2012,118253,Available,2026-09-20
+E01706,Avery Sun,Engineering,3/11/2004,109422,Available,2026-09-20
+E00676,Isaac Yoon,Human Resources,2/6/2019,126950,Fully Allocated,2027-01-23
+E02005,Isabella Bui,IT,11/21/2014,97500,Partially Allocated,2027-01-12
+E01895,Gabriel Zhou,IT,1/17/2021,41844,Partially Allocated,2027-02-17
+E01396,Jack Vu,Accounting,2/10/2014,58875,Partially Allocated,2027-01-13
+E00749,Valentina Moua,Sales,11/10/2015,64204,Available,2026-09-20
+E01941,Quinn Trinh,Sales,5/9/2010,67743,Partially Allocated,2026-10-25
+E01413,Caroline Nelson,Sales,7/30/1997,71677,Partially Allocated,2027-01-14
+E03928,Miles Dang,IT,9/24/2000,40063,Partially Allocated,2027-01-10
+E04109,Leah Bryant,IT,4/30/2004,40124,Fully Allocated,2027-01-29
+E03994,Henry Jung,Engineering,2/26/2018,103183,Available,2026-09-20
+E00639,Benjamin Mai,IT,6/15/1998,95239,Partially Allocated,2026-12-13
+E00608,Anna Han,Engineering,11/9/2019,75012,Partially Allocated,2026-10-24
+E04189,Ariana Kim,IT,6/29/2014,96366,Fully Allocated,2027-01-22
+E02732,Alice Tran,Marketing,7/29/2014,40897,Available,2026-09-20
+E00324,Hailey Song,Finance,8/23/2016,124928,Available,2026-09-20
+E00518,Lydia Morales,Finance,6/14/2013,108221,Available,2026-09-20
+E01286,Liam Sanders,Human Resources,2/20/2007,75579,Partially Allocated,2027-02-24
+E04564,Luke Sanchez,Human Resources,12/27/2015,129903,Partially Allocated,2027-01-18
+E02033,Grace Sun,Finance,4/17/2021,186870,Partially Allocated,2026-11-27
+E00412,Ezra Banks,Sales,4/23/2010,57531,Partially Allocated,2027-03-06
+E01844,Jayden Kang,Finance,4/24/2011,55894,Available,2026-09-20
+E00667,Skylar Shah,Engineering,4/27/2012,72903,Available,2026-09-20
+E02639,Sebastian Le,Finance,11/9/2015,45369,Partially Allocated,2026-11-22
+E00287,Luca Nelson,Finance,6/15/2010,106578,Partially Allocated,2026-12-05
+E02235,Riley Ramirez,Human Resources,9/13/1999,92994,Fully Allocated,2026-12-09
+E02720,Jaxon Fong,Sales,3/13/1997,83685,Available,2026-09-20
+E03583,Kayden Jordan,IT,9/14/2010,99335,Available,2026-09-20
+E01188,Alexander James,Human Resources,4/18/2013,131179,Partially Allocated,2026-12-17
+E02428,Connor Luu,IT,5/3/2016,73899,Available,2026-09-20
+E03289,Christopher Lam,Accounting,3/29/2013,252325,Available,2026-09-20
+E01947,Sophie Owens,Finance,3/5/2015,52697,Partially Allocated,2026-11-03
+E02024,Addison Perez,Engineering,9/25/2020,123588,Fully Allocated,2027-02-10
+E04249,Hadley Dang,Accounting,12/26/2021,243568,Available,2026-09-20
+E01090,Ethan Mehta,Sales,7/20/2001,199176,Available,2026-09-20
+E03830,Madison Her,IT,6/22/1996,82806,Available,2026-09-20
+E04363,Savannah Singh,Marketing,6/20/1997,164399,Fully Allocated,2027-01-25
+E04920,Nevaeh Hsu,Human Resources,4/14/2017,154956,Available,2026-09-20
+E03866,Jordan Zhu,Marketing,1/29/2017,143970,Fully Allocated,2026-12-20
+E03521,Jackson Navarro,Sales,9/25/2020,163143,Partially Allocated,2026-12-19
+E04095,Sadie Patterson,Accounting,7/24/2020,89390,Available,2026-09-20
+E04079,Christopher Butler,IT,10/5/2017,67468,Partially Allocated,2027-01-18
+E01508,Penelope Rodriguez,Engineering,3/12/2016,100810,Available,2026-09-20
+E02259,Emily Lau,Finance,3/18/2019,74779,Available,2026-09-20
+E04972,Sophie Oh,IT,11/9/2017,63985,Fully Allocated,2026-11-01
+E01834,Chloe Allen,IT,7/8/2004,77903,Partially Allocated,2026-12-17
+E03124,Caleb Nelson,Marketing,6/12/2017,164396,Fully Allocated,2026-12-09
+E01898,Oliver Moua,IT,6/28/2021,71234,Partially Allocated,2026-10-12
+E00342,Wesley Doan,Finance,4/19/2004,122487,Partially Allocated,2027-01-31
+E03910,Nova Hsu,Human Resources,1/3/2017,101870,Partially Allocated,2026-10-05
+E00862,Levi Moreno,IT,6/27/2020,40316,Available,2026-09-20
+E02576,Gianna Ha,IT,2/8/2005,115145,Available,2026-09-20
+E00035,Lillian Gonzales,IT,3/13/2009,62335,Fully Allocated,2027-01-08
+E01832,Ezra Singh,Finance,5/10/2006,41561,Partially Allocated,2026-11-14
+E01755,Audrey Patel,Finance,4/24/2011,131183,Fully Allocated,2027-01-14
+E00465,Brooklyn Cho,IT,7/8/2002,92655,Fully Allocated,2026-12-25
+E02391,Piper Ramos,Sales,4/2/1996,157057,Partially Allocated,2026-10-13
+E04697,Eleanor Williams,IT,2/9/2005,64462,Available,2026-09-20
+E00371,Melody Grant,Engineering,10/7/2005,79352,Available,2026-09-20
+E02992,Paisley Sanders,Marketing,3/27/2001,157812,Partially Allocated,2026-10-20
+E04369,Santiago f Gray,Engineering,9/11/2018,80745,Available,2026-09-20
+E00592,Josephine Richardson,IT,2/18/1996,75354,Available,2026-09-20
+E03532,Jaxson Santiago,Engineering,9/20/2018,78938,Available,2026-09-20
+E00863,Lincoln Ramos,Engineering,9/10/2008,96313,Fully Allocated,2026-12-03
+E03310,Dylan Campbell,Engineering,11/29/2010,153767,Available,2026-09-20
+E01883,Olivia Gray,Marketing,9/19/2015,103423,Available,2026-09-20
+E01242,Emery Doan,Engineering,6/23/2021,86464,Fully Allocated,2027-02-10
+E02535,Caroline Perez,Engineering,1/14/2018,80516,Partially Allocated,2026-12-01
+E00369,Genesis Woods,Human Resources,8/21/2013,105390,Available,2026-09-20
+E03332,Ruby Sun,IT,9/6/2021,83418,Fully Allocated,2026-12-05
+E03278,Nevaeh James,IT,11/3/2017,66660,Fully Allocated,2027-03-02
+E02492,Parker Sandoval,Human Resources,6/10/2015,101985,Partially Allocated,2026-11-12
+E03055,Austin Rojas,Finance,12/5/2018,199504,Available,2026-09-20
+E01943,Vivian Espinoza,Sales,10/5/2006,147966,Partially Allocated,2026-12-14
+E01388,Cooper Gupta,Human Resources,6/20/2014,41728,Fully Allocated,2026-10-30
+E00717,Axel Santos,Accounting,2/17/2011,94422,Fully Allocated,2026-12-04
+E04637,Samuel Song,Sales,6/29/2015,191026,Fully Allocated,2026-10-29
+E03240,Aiden Silva,IT,11/29/2010,186725,Available,2026-09-20
+E00340,Eliana Allen,Human Resources,8/20/2009,52800,Available,2026-09-20
+E04751,Grayson James,Engineering,12/5/2010,113982,Available,2026-09-20
+E04636,Hailey Yee,Sales,3/16/2021,56239,Fully Allocated,2026-12-18
+E00568,Ian Vargas,Sales,3/2/2021,44732,Fully Allocated,2026-11-29
+E02938,John Trinh,Marketing,6/26/2014,153961,Partially Allocated,2027-02-13
+E00555,Sofia Trinh,IT,12/18/2006,68337,Available,2026-09-20
+E01111,Santiago f Moua,Human Resources,5/7/2010,145093,Partially Allocated,2027-03-04
+E03149,Layla Collins,IT,3/11/2021,74170,Fully Allocated,2026-12-13
+E00952,Jaxon Powell,Engineering,3/29/1996,62605,Fully Allocated,2026-11-09
+E04380,Naomi Washington,IT,3/13/2020,107195,Fully Allocated,2026-11-18
+E04095,Ryan Holmes,Marketing,1/11/2018,127422,Available,2026-09-20
+E04994,Bella Holmes,Accounting,6/26/2017,161269,Partially Allocated,2026-10-09
+E00447,Hailey Sanchez,Marketing,2/5/2014,203445,Fully Allocated,2026-11-21
+E00089,Sofia Yoon,Human Resources,1/17/2011,131353,Available,2026-09-20
+E02035,Eli Rahman,IT,3/16/2010,88182,Fully Allocated,2027-02-21
+E03595,Christopher Howard,IT,8/26/2019,75780,Fully Allocated,2027-03-04
+E03611,Alice Mehta,Sales,4/2/2019,52621,Fully Allocated,2026-12-17
+E04464,Cooper Yoon,Engineering,2/15/2018,106079,Partially Allocated,2026-12-16
+E02135,John Delgado,IT,2/11/2017,92058,Fully Allocated,2027-01-10
+E01684,Jaxson Liang,Engineering,3/3/2019,67114,Fully Allocated,2026-11-29
+E02968,Caroline Santos,Finance,7/12/2020,56565,Fully Allocated,2026-12-01
+E03362,Lily Henderson,Human Resources,5/20/2011,64937,Fully Allocated,2027-01-18
+E01108,Hannah Martinez,Marketing,9/7/2006,127626,Available,2026-09-20
+E02217,William Phillips,IT,1/27/2004,88478,Fully Allocated,2027-01-13
+E03519,Eliza Zheng,IT,4/20/2014,91679,Available,2026-09-20
+E01967,John Dang,Sales,3/19/1992,199848,Fully Allocated,2027-02-09
+E01125,Joshua Yang,IT,11/10/2018,61944,Available,2026-09-20
+E03795,Hazel Young,Sales,8/13/2017,154624,Fully Allocated,2027-01-24
+E00508,Thomas Jung,Accounting,10/23/2009,79447,Available,2026-09-20
+E02047,Xavier Perez,Sales,2/26/1998,71111,Available,2026-09-20
+E01582,Elijah Coleman,Sales,10/19/2014,159538,Available,2026-09-20
+E02563,Clara Sanchez,Engineering,10/2/2018,111404,Available,2026-09-20
+E04872,Isaac Stewart,Marketing,8/15/2020,172007,Fully Allocated,2027-01-19
+E03159,Claire Romero,Marketing,7/21/2011,219474,Available,2026-09-20
+E01337,Andrew Coleman,Finance,5/15/2019,174415,Partially Allocated,2027-01-27
+E00102,Riley Rojas,IT,1/21/2021,90333,Partially Allocated,2026-11-17
+E03637,Landon Thao,Human Resources,1/21/2021,67299,Fully Allocated,2026-10-28
+E03455,Hadley Ford,IT,2/23/2005,45286,Fully Allocated,2026-12-21
+E03354,Austin Brown,Marketing,8/8/2007,194723,Fully Allocated,2026-11-11
+E01225,Christian Fong,Sales,8/10/2012,109850,Fully Allocated,2027-01-25
+E01264,Hazel Alvarez,Human Resources,4/19/2014,45295,Fully Allocated,2027-02-26
+E02274,Isabella Bailey,IT,8/23/2010,61310,Available,2026-09-20
+E02848,Lincoln Huynh,IT,11/9/2016,87851,Fully Allocated,2026-10-17
+E00480,Hadley Yee,Human Resources,3/12/2018,47913,Available,2026-09-20
+E00203,Julia Doan,Human Resources,9/7/2017,46727,Fully Allocated,2026-11-06
+E00647,Dylan Ali,Human Resources,4/16/2021,133400,Available,2026-09-20
+E03296,Eloise Trinh,IT,4/22/2020,90535,Available,2026-09-20
+E02453,Dylan Kumar,Marketing,7/11/2006,93343,Partially Allocated,2026-10-18
+E00647,Emily Gupta,Human Resources,2/23/2006,63705,Fully Allocated,2027-01-11
+E02522,Silas Rivera,Sales,2/28/2000,258081,Available,2026-09-20
+E00459,Jackson Jordan,Human Resources,9/21/2020,54654,Partially Allocated,2027-03-04
+E03007,Isaac Joseph,Sales,9/24/1998,58006,Partially Allocated,2026-12-07
+E04035,Hailey Lai,Finance,3/18/2011,150034,Fully Allocated,2027-01-26
+E00952,Leilani Thao,Human Resources,5/30/2007,198562,Fully Allocated,2026-12-23
+E03863,Madeline Watson,Sales,5/27/2009,62411,Partially Allocated,2026-10-10
+E02710,Silas Huang,Engineering,1/9/1992,111299,Available,2026-09-20
+E01895,Peyton Walker,Marketing,7/13/2019,41545,Partially Allocated,2026-10-31
+E01339,Jeremiah Hernandez,IT,4/14/2019,74467,Available,2026-09-20
+E02938,Jace Washington,Accounting,2/9/2002,117545,Fully Allocated,2026-10-20
+E03379,Landon Kim,Human Resources,3/15/2012,117226,Fully Allocated,2026-11-05
+E02153,Peyton Vasquez,Accounting,1/24/2019,55767,Partially Allocated,2026-11-10
+E00994,Charlotte Baker,Sales,11/17/2016,60930,Available,2026-09-20
+E00943,Elena Mendoza,Sales,10/24/2018,154973,Available,2026-09-20
+E00869,Nova Lin,IT,10/21/2017,69332,Available,2026-09-20
+E03457,Ivy Desai,Engineering,4/9/2001,119699,Available,2026-09-20
+E02193,Josephine Acosta,Human Resources,9/20/2020,198176,Available,2026-09-20
+E00577,Nora Nunez,Finance,8/6/2012,58586,Fully Allocated,2027-02-08
+E00538,Caleb Xiong,Sales,11/28/2011,74010,Fully Allocated,2027-01-03
+E01415,Henry Green,Sales,2/3/2020,96598,Available,2026-09-20
+E00717,Madelyn Chan,Sales,5/21/2003,106444,Partially Allocated,2027-02-23
+E00225,Angel Delgado,Finance,8/10/2017,156931,Partially Allocated,2027-02-11
+E02889,Mia Herrera,Marketing,10/16/2014,171360,Available,2026-09-20
+E04978,Peyton Harris,IT,4/5/2009,64505,Partially Allocated,2027-03-19
+E04163,David Herrera,Engineering,10/9/2021,102298,Fully Allocated,2026-11-27
+E01652,Avery Dominguez,Sales,9/13/2019,133297,Partially Allocated,2027-01-11
+E00880,Grace Carter,Human Resources,3/17/2021,155080,Partially Allocated,2026-10-04
+E04335,Parker Allen,Sales,8/13/2018,81828,Partially Allocated,2027-03-18
+E01300,Sadie Lee,Marketing,10/24/2000,149417,Available,2026-09-20
+E03102,Cooper Valdez,Sales,4/25/2012,113269,Fully Allocated,2026-12-12
+E04089,Sebastian Fong,IT,12/16/2017,136716,Partially Allocated,2027-01-31
+E02059,Roman Munoz,Sales,10/20/2011,122644,Fully Allocated,2027-03-19
+E03894,Charlotte Chang,Sales,5/7/2000,106428,Partially Allocated,2027-01-07
+E03106,Xavier Davis,Finance,1/17/2009,238236,Fully Allocated,2027-01-16
+E01350,Natalie Carter,Finance,12/21/2012,153253,Available,2026-09-20
+E02900,Elena Richardson,Accounting,10/3/2014,103707,Fully Allocated,2027-02-20
+E02202,Emilia Bailey,Accounting,8/9/2012,245360,Available,2026-09-20
+E02696,Ryan Lu,Engineering,7/8/2021,67275,Fully Allocated,2027-02-10
+E01722,Asher Huynh,IT,1/22/2015,101288,Available,2026-09-20
+E04562,Kinsley Martinez,Human Resources,8/28/1993,177443,Fully Allocated,2026-12-19
+E00640,Paisley Bryant,IT,4/27/2016,91400,Fully Allocated,2027-01-10
+E02554,Joshua Ramirez,Human Resources,9/10/2007,181247,Partially Allocated,2027-02-20
+E03412,Joshua Martin,Human Resources,10/20/2003,135558,Available,2026-09-20
+E00646,Charles Moore,Accounting,12/17/2011,56878,Available,2026-09-20
+E04670,Angel Do,IT,9/20/2019,94735,Available,2026-09-20
+E03580,Maverick Medina,Sales,5/27/2007,51234,Available,2026-09-20
+E00446,Isaac Han,Human Resources,1/14/2015,230025,Partially Allocated,2027-01-24
+E02363,Eliza Liang,Human Resources,3/11/2010,134006,Partially Allocated,2026-10-20
+E03718,Zoe Zhou,Finance,10/6/2009,103096,Available,2026-09-20
+E01749,Nathan Lee,Accounting,8/20/2016,58703,Available,2026-09-20
+E02888,Elijah Ramos,IT,12/24/2012,132544,Available,2026-09-20
+E01338,Jaxson Coleman,Finance,4/15/2020,126671,Available,2026-09-20
+E03000,Hailey Hong,Sales,1/22/2021,56405,Fully Allocated,2027-03-13
+E01611,Gabriella Zhu,IT,11/29/2014,88730,Available,2026-09-20
+E02684,Aaron Maldonado,Finance,9/17/2008,62861,Available,2026-09-20
+E02561,Samantha Vargas,Human Resources,7/21/2006,151246,Fully Allocated,2027-02-01
+E03168,Nora Le,IT,4/12/1997,154388,Partially Allocated,2026-12-01
+E00758,Alice Roberts,Human Resources,9/26/1994,162978,Available,2026-09-20
+E03691,Colton Garcia,IT,11/17/1993,80170,Partially Allocated,2026-12-12
+E01488,Stella Lai,Accounting,4/28/2021,98520,Partially Allocated,2027-02-21
+E04415,Leonardo Luong,Finance,12/29/1999,116527,Fully Allocated,2026-10-17
+E03278,Nicholas Wong,Sales,11/7/2019,174607,Fully Allocated,2027-01-20
+E00282,Jeremiah Castillo,Accounting,4/12/2006,64202,Fully Allocated,2027-02-22
+E03305,Cooper Jiang,Accounting,7/25/2019,50883,Fully Allocated,2026-12-12
+E00559,Penelope Silva,IT,11/3/2016,94618,Available,2026-09-20
+E02558,Jose Richardson,Marketing,10/15/2019,151556,Partially Allocated,2027-02-15
+E00956,Eleanor Chau,Engineering,3/8/2020,80659,Partially Allocated,2027-01-08
+E03858,John Cho,Human Resources,11/3/2019,195385,Partially Allocated,2026-10-20
+E02221,Julian Delgado,IT,5/19/2016,52693,Partially Allocated,2027-01-01
+E00126,Isabella Scott,IT,4/26/2016,72045,Fully Allocated,2027-01-05
+E02627,Parker Avila,Marketing,11/28/2005,62749,Available,2026-09-20
+E03778,Luke Vu,Marketing,6/4/2018,154884,Partially Allocated,2027-02-27
+E00481,Jameson Nelson,IT,3/8/2016,96566,Partially Allocated,2027-01-06
+E02833,Adrian Fernandez,IT,8/23/2001,54994,Partially Allocated,2026-10-18
+E03902,Madison Hunter,IT,2/5/2012,61523,Partially Allocated,2026-10-14
+E02310,Jordan Phillips,Human Resources,12/12/2010,190512,Fully Allocated,2027-02-14
+E02661,Maya Chan,Engineering,2/13/2013,124827,Available,2026-09-20
+E00836,Wesley King,Accounting,1/19/2019,101577,Partially Allocated,2026-12-20
+E00682,Sofia Fernandez,Accounting,10/17/2005,105223,Partially Allocated,2027-01-01
+E00287,Maverick Figueroa,IT,7/6/2008,94815,Fully Allocated,2026-11-10
+E00785,Hannah Hoang,Accounting,12/15/2021,114893,Partially Allocated,2027-01-24
+E04598,Violet Garcia,Marketing,1/10/2017,80622,Available,2026-09-20
+E03247,Aaliyah Mai,IT,11/11/2016,246589,Fully Allocated,2026-11-14
+E02703,Austin Vang,Marketing,5/20/2018,119397,Available,2026-09-20
+E02191,Maria Sun,Sales,12/19/2021,150666,Partially Allocated,2026-12-27
+E00156,Madelyn Scott,IT,1/9/2002,148035,Fully Allocated,2027-02-10
+E03349,Dylan Chin,Finance,6/5/2017,158898,Available,2026-09-20
+E04032,Emery Zhang,Engineering,2/28/2012,89659,Partially Allocated,2027-03-04
+E00005,Riley Washington,Sales,4/29/2007,171487,Available,2026-09-20
+E04354,Raelynn Rios,Sales,8/21/2016,258498,Fully Allocated,2026-11-22
+E01578,Anthony Hong,IT,11/29/2010,146961,Fully Allocated,2026-12-15
+E03430,Leo Herrera,Human Resources,4/22/1998,85369,Available,2026-09-20
+E03058,Robert Wright,IT,6/14/2015,67489,Available,2026-09-20
+E04762,Audrey Richardson,IT,10/6/2018,166259,Available,2026-09-20
+E01148,Scarlett Kumar,IT,1/7/2009,47032,Available,2026-09-20
+E03094,Wesley Young,Marketing,9/18/2016,98427,Fully Allocated,2026-11-20
+E01909,Lillian Khan,Finance,5/31/2010,47387,Partially Allocated,2026-12-14
+E04398,Oliver Yang,Marketing,6/10/2019,176710,Partially Allocated,2027-02-09
+E02521,Lily Nguyen,Finance,1/28/2012,95960,Partially Allocated,2027-03-09
+E03545,Sofia Cheng,Accounting,7/26/2020,216195,Partially Allocated,2026-12-23

@@ -1,0 +1,470 @@
+[
+  {
+    "project_id": "PRJ-001",
+    "title": "Customer Churn Prediction Platform",
+    "domain": "Data Science",
+    "duration_months": 4,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "Machine Learning",
+        "is_required": true
+      },
+      {
+        "skill": "SQL",
+        "is_required": true
+      },
+      {
+        "skill": "Tableau",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-002",
+    "title": "NLP-Powered Support Ticket Router",
+    "domain": "AI/NLP",
+    "duration_months": 6,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "NLP",
+        "is_required": true
+      },
+      {
+        "skill": "RAG",
+        "is_required": false
+      },
+      {
+        "skill": "FastAPI",
+        "is_required": true
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-003",
+    "title": "Cloud Migration \u2014 Legacy ERP to AWS",
+    "domain": "Cloud/Infra",
+    "duration_months": 5,
+    "team_size": 5,
+    "requirements": [
+      {
+        "skill": "AWS",
+        "is_required": true
+      },
+      {
+        "skill": "DevOps",
+        "is_required": true
+      },
+      {
+        "skill": "Linux",
+        "is_required": true
+      },
+      {
+        "skill": "Cybersecurity",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-004",
+    "title": "Real-Time Analytics Dashboard",
+    "domain": "Data Engineering",
+    "duration_months": 3,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "Data Engineering",
+        "is_required": true
+      },
+      {
+        "skill": "Spark",
+        "is_required": true
+      },
+      {
+        "skill": "Power BI",
+        "is_required": false
+      },
+      {
+        "skill": "SQL",
+        "is_required": true
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-005",
+    "title": "Internal RAG Knowledge Assistant",
+    "domain": "AI/NLP",
+    "duration_months": 4,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "RAG",
+        "is_required": true
+      },
+      {
+        "skill": "LangChain",
+        "is_required": true
+      },
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "NLP",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-006",
+    "title": "Mobile-First Customer Portal Rebuild",
+    "domain": "Frontend",
+    "duration_months": 5,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "React",
+        "is_required": true
+      },
+      {
+        "skill": "JavaScript",
+        "is_required": true
+      },
+      {
+        "skill": "TypeScript",
+        "is_required": false
+      },
+      {
+        "skill": "Frontend Development",
+        "is_required": true
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-007",
+    "title": "Kubernetes Platform Standardization",
+    "domain": "Cloud/Infra",
+    "duration_months": 6,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "Kubernetes",
+        "is_required": true
+      },
+      {
+        "skill": "Docker",
+        "is_required": true
+      },
+      {
+        "skill": "DevOps",
+        "is_required": true
+      },
+      {
+        "skill": "CI/CD",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-008",
+    "title": "Sales Pipeline CRM Overhaul",
+    "domain": "Sales Ops",
+    "duration_months": 3,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "CRM",
+        "is_required": true
+      },
+      {
+        "skill": "Sales",
+        "is_required": true
+      },
+      {
+        "skill": "Data Analysis",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-009",
+    "title": "Computer Vision QA Inspection Line",
+    "domain": "AI/CV",
+    "duration_months": 6,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "Computer Vision",
+        "is_required": true
+      },
+      {
+        "skill": "Deep Learning",
+        "is_required": true
+      },
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "PyTorch",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-010",
+    "title": "HR Workforce Analytics Rollout",
+    "domain": "HR Tech",
+    "duration_months": 3,
+    "team_size": 2,
+    "requirements": [
+      {
+        "skill": "HR Management",
+        "is_required": true
+      },
+      {
+        "skill": "Data Analysis",
+        "is_required": true
+      },
+      {
+        "skill": "Power BI",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-011",
+    "title": "Financial Forecasting Model Refresh",
+    "domain": "Finance",
+    "duration_months": 4,
+    "team_size": 2,
+    "requirements": [
+      {
+        "skill": "Financial Modeling",
+        "is_required": true
+      },
+      {
+        "skill": "Excel",
+        "is_required": true
+      },
+      {
+        "skill": "Python",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-012",
+    "title": "API Gateway & Backend Consolidation",
+    "domain": "Backend",
+    "duration_months": 5,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "Backend Development",
+        "is_required": true
+      },
+      {
+        "skill": "FastAPI",
+        "is_required": true
+      },
+      {
+        "skill": "REST API Design",
+        "is_required": true
+      },
+      {
+        "skill": "SQL",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-013",
+    "title": "Marketing Attribution & SEO Overhaul",
+    "domain": "Marketing",
+    "duration_months": 3,
+    "team_size": 2,
+    "requirements": [
+      {
+        "skill": "SEO",
+        "is_required": true
+      },
+      {
+        "skill": "Marketing",
+        "is_required": true
+      },
+      {
+        "skill": "Data Analysis",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-014",
+    "title": "Enterprise Cybersecurity Audit",
+    "domain": "Security",
+    "duration_months": 4,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "Cybersecurity",
+        "is_required": true
+      },
+      {
+        "skill": "Network Administration",
+        "is_required": true
+      },
+      {
+        "skill": "Linux",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-015",
+    "title": "6-Month NLP Contract Analysis Engine",
+    "domain": "AI/NLP",
+    "duration_months": 6,
+    "team_size": 4,
+    "requirements": [
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "NLP",
+        "is_required": true
+      },
+      {
+        "skill": "RAG",
+        "is_required": true
+      },
+      {
+        "skill": "Backend Development",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-016",
+    "title": "Data Warehouse ETL Modernization",
+    "domain": "Data Engineering",
+    "duration_months": 5,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "ETL",
+        "is_required": true
+      },
+      {
+        "skill": "Data Engineering",
+        "is_required": true
+      },
+      {
+        "skill": "SQL",
+        "is_required": true
+      },
+      {
+        "skill": "Spark",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-017",
+    "title": "Agile Transformation \u2014 PMO Standup",
+    "domain": "Program Mgmt",
+    "duration_months": 2,
+    "team_size": 2,
+    "requirements": [
+      {
+        "skill": "Agile",
+        "is_required": true
+      },
+      {
+        "skill": "Scrum",
+        "is_required": true
+      },
+      {
+        "skill": "Stakeholder Management",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-018",
+    "title": "Multi-Cloud Cost Optimization",
+    "domain": "Cloud/Infra",
+    "duration_months": 3,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "AWS",
+        "is_required": true
+      },
+      {
+        "skill": "Azure",
+        "is_required": false
+      },
+      {
+        "skill": "GCP",
+        "is_required": false
+      },
+      {
+        "skill": "Cloud Architecture",
+        "is_required": true
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-019",
+    "title": "Employee Self-Service HR Portal",
+    "domain": "HR Tech",
+    "duration_months": 4,
+    "team_size": 3,
+    "requirements": [
+      {
+        "skill": "React",
+        "is_required": true
+      },
+      {
+        "skill": "FastAPI",
+        "is_required": true
+      },
+      {
+        "skill": "HR Management",
+        "is_required": false
+      }
+    ]
+  },
+  {
+    "project_id": "PRJ-020",
+    "title": "Senior Data Engineer Hiring Sprint Support",
+    "domain": "Data Engineering",
+    "duration_months": 2,
+    "team_size": 1,
+    "requirements": [
+      {
+        "skill": "Python",
+        "is_required": true
+      },
+      {
+        "skill": "AWS",
+        "is_required": true
+      },
+      {
+        "skill": "SQL",
+        "is_required": true
+      }
+    ]
+  }
+]

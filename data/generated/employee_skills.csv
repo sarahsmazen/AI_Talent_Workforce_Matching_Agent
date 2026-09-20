@@ -1,0 +1,5304 @@
+eeid,skill,years_experience
+E02387,HR Management,2
+E02387,DevOps,10
+E02387,Power BI,7
+E02387,Network Administration,1
+E02387,Frontend Development,1
+E02387,Azure,2
+E02387,Linux,4
+E04105,Account Management,7
+E04105,Network Administration,6
+E04105,AWS,5
+E04105,Linux,3
+E04105,Cloud Architecture,4
+E04105,Cybersecurity,6
+E02572,Budgeting,8
+E02572,Payroll,9
+E02572,Deep Learning,2
+E02572,Linux,7
+E02572,Excel,2
+E02832,Linux,1
+E02832,DevOps,4
+E02832,Financial Modeling,3
+E02832,Cybersecurity,4
+E01639,Accounting,8
+E01639,Marketing,7
+E01639,CI/CD,5
+E01639,Azure,9
+E01639,Excel,4
+E00644,Sales,8
+E00644,REST API Design,3
+E00644,Negotiation,5
+E00644,JavaScript,3
+E00644,Cybersecurity,4
+E01550,DevOps,6
+E01550,Network Administration,4
+E01550,Employee Relations,5
+E01550,Azure,1
+E01550,Linux,4
+E01550,Cybersecurity,4
+E04332,Budgeting,1
+E04332,Django,6
+E04332,Accounting,6
+E04332,Finance,3
+E04332,Excel,5
+E04533,Project Management,7
+E04533,C#,5
+E04533,Agile,1
+E04533,Stakeholder Management,5
+E04533,Excel,3
+E03838,Finance,8
+E03838,Accounting,2
+E03838,Budgeting,3
+E03838,NLP,3
+E00591,HR Management,9
+E00591,Payroll,8
+E00591,Spark,2
+E00591,FastAPI,4
+E00591,Scrum,4
+E00591,Recruiting,2
+E00591,Employee Relations,6
+E03344,RAG,1
+E03344,Python,3
+E03344,Deep Learning,1
+E03344,Machine Learning,5
+E00530,TypeScript,4
+E00530,Employee Relations,2
+E00530,Payroll,2
+E00530,HR Management,7
+E04239,Budgeting,1
+E04239,Finance,2
+E04239,Recruiting,2
+E04239,Data Engineering,2
+E04239,Financial Modeling,5
+E03496,Project Management,7
+E03496,Data Analysis,8
+E03496,Agile,8
+E03496,Azure,4
+E03496,Stakeholder Management,7
+E03496,Excel,1
+E00549,SEO,5
+E00549,Content Strategy,4
+E00549,Data Analysis,1
+E00549,Docker,10
+E00163,Backend Development,3
+E00163,Accounting,1
+E00163,C++,9
+E00163,Financial Modeling,2
+E00163,Excel,3
+E00884,Project Management,2
+E00884,Content Strategy,7
+E00884,Data Analysis,10
+E00884,Marketing,10
+E00884,Agile,9
+E00884,Deep Learning,6
+E04116,Scrum,2
+E04116,AWS,2
+E04116,Linux,9
+E04116,Cloud Architecture,4
+E04116,Excel,9
+E04116,Cybersecurity,5
+E04625,Account Management,1
+E04625,Finance,9
+E04625,Scrum,5
+E04625,CRM,2
+E04625,C++,3
+E04625,Negotiation,5
+E03680,DevOps,6
+E03680,Marketing,4
+E03680,AWS,5
+E03680,Cybersecurity,9
+E04732,HR Management,4
+E04732,Negotiation,5
+E04732,Account Management,4
+E04732,CRM,5
+E03484,Django,3
+E03484,Power BI,1
+E03484,AWS,5
+E03484,Azure,6
+E03484,Linux,1
+E03484,Cybersecurity,6
+E00671,Accounting,7
+E00671,Sales,2
+E00671,Account Management,4
+E00671,CRM,1
+E00671,Negotiation,2
+E02071,Sales,8
+E02071,Deep Learning,4
+E02071,CRM,4
+E02071,Negotiation,8
+E02071,Cybersecurity,6
+E02206,HR Management,7
+E02206,Payroll,9
+E02206,Java,6
+E02206,Scrum,1
+E02206,Recruiting,2
+E04545,Backend Development,7
+E04545,DevOps,1
+E04545,CI/CD,9
+E04545,Deep Learning,9
+E04545,MongoDB,4
+E04545,TensorFlow,6
+E04545,Kubernetes,7
+E00154,Node.js,5
+E00154,Backend Development,9
+E00154,FastAPI,3
+E00154,TensorFlow,4
+E00154,Data Engineering,7
+E00154,JavaScript,7
+E03343,FastAPI,10
+E03343,Frontend Development,10
+E03343,JavaScript,6
+E00304,ETL,2
+E00304,Agile,4
+E00304,Scrum,5
+E00304,AWS,4
+E00304,Cybersecurity,4
+E02594,SEO,7
+E02594,DevOps,8
+E02594,Kubernetes,7
+E02594,Marketing,4
+E02594,AWS,3
+E02594,Linux,1
+E02594,Cloud Architecture,2
+E02594,Cybersecurity,7
+E00402,Sales,9
+E00402,Finance,10
+E00402,C++,6
+E00402,Financial Modeling,8
+E00402,Excel,10
+E01994,Account Management,5
+E01994,Agile,8
+E01994,REST API Design,2
+E01994,CI/CD,5
+E01994,CRM,4
+E01994,Negotiation,5
+E03549,TypeScript,7
+E03549,Sales,6
+E03549,Negotiation,9
+E03549,CRM,8
+E03247,Cloud Architecture,6
+E03247,Financial Modeling,5
+E03247,Python,7
+E03247,Excel,7
+E02074,Budgeting,8
+E02074,AWS,3
+E02074,Azure,10
+E02074,Linux,9
+E02074,Cloud Architecture,1
+E02074,Cybersecurity,7
+E04152,Python,4
+E04152,Docker,3
+E04152,SQL,3
+E04152,Frontend Development,7
+E04152,AWS,4
+E04152,Linux,3
+E04152,React,7
+E01628,HR Management,1
+E01628,Content Strategy,2
+E01628,Marketing,2
+E04285,DevOps,5
+E04285,REST API Design,6
+E04285,System Design,3
+E04285,Azure,10
+E04285,Linux,10
+E04285,Cloud Architecture,2
+E01417,Accounting,2
+E01417,Network Administration,5
+E01417,Azure,10
+E01417,Linux,2
+E01417,Cloud Architecture,10
+E01417,Stakeholder Management,1
+E01417,SQL,6
+E01417,Cybersecurity,9
+E01754,Django,3
+E01754,Accounting,7
+E01754,Recruiting,3
+E01754,Network Administration,9
+E01754,Employee Relations,5
+E03749,Django,4
+E03749,Content Strategy,8
+E03749,Data Analysis,10
+E03749,Marketing,10
+E03749,Network Administration,7
+E03574,DevOps,4
+E03574,Python,2
+E03574,QA/Testing,4
+E03574,AWS,7
+E03574,Azure,8
+E03574,Tableau,9
+E03574,Cybersecurity,4
+E04600,Node.js,9
+E04600,ETL,6
+E04600,Sales,6
+E04600,Account Management,8
+E04600,CRM,5
+E04600,C++,5
+E04600,Negotiation,5
+E00586,HR Management,6
+E00586,C#,2
+E00586,Content Strategy,2
+E00586,Marketing,2
+E00586,Cloud Architecture,6
+E03538,Linux,1
+E03538,MongoDB,1
+E03538,AWS,9
+E03538,Cybersecurity,5
+E02185,TensorFlow,5
+E02185,DevOps,8
+E02185,Azure,2
+E02185,Cloud Architecture,2
+E02185,Cybersecurity,7
+E03830,Payroll,4
+E03830,Agile,9
+E03830,Scrum,7
+E03830,AWS,8
+E03830,Linux,8
+E03830,Cloud Architecture,5
+E03720,Power BI,2
+E03720,SQL,3
+E03720,Docker,1
+E03025,Sales,10
+E03025,Deep Learning,4
+E03025,Employee Relations,7
+E03025,Frontend Development,2
+E03025,Linux,9
+E03025,SQL,4
+E04917,Payroll,5
+E04917,Backend Development,8
+E04917,Tableau,2
+E04917,Finance,8
+E04917,Employee Relations,5
+E00415,SEO,5
+E00415,Content Strategy,1
+E00415,Data Analysis,3
+E00415,Marketing,5
+E00415,Power BI,1
+E00415,Network Administration,2
+E00415,Financial Modeling,4
+E02862,FastAPI,4
+E02862,Account Management,3
+E02862,Network Administration,4
+E02862,Azure,5
+E02862,Linux,1
+E02862,Cybersecurity,4
+E04207,Go,7
+E04207,SEO,1
+E04207,Data Analysis,4
+E04207,Marketing,9
+E04207,Flask,6
+E04207,Cybersecurity,10
+E02139,Project Management,9
+E02139,Python,7
+E02139,Data Analysis,2
+E02139,Agile,4
+E02139,Tableau,2
+E02139,Stakeholder Management,8
+E02139,Excel,2
+E01797,Backend Development,7
+E01797,Azure,4
+E01797,Power BI,3
+E01797,CI/CD,2
+E01797,TensorFlow,5
+E01797,System Design,7
+E01839,Node.js,8
+E01839,Backend Development,6
+E01839,Linux,4
+E01839,Docker,4
+E01839,Power BI,10
+E01839,Recruiting,7
+E01839,AWS,4
+E01839,System Design,7
+E01633,Python,10
+E01633,DevOps,6
+E01633,Frontend Development,2
+E01633,AWS,8
+E01633,Tableau,2
+E01633,SQL,9
+E01848,Payroll,9
+E01848,NLP,7
+E01848,Recruiting,6
+E01848,Employee Relations,8
+E01848,Data Engineering,9
+E01848,Financial Modeling,1
+E00716,Payroll,1
+E00716,SEO,4
+E00716,Content Strategy,2
+E00716,Data Analysis,3
+E00716,Marketing,1
+E00699,FastAPI,4
+E00699,DevOps,9
+E00699,AWS,7
+E00699,Cybersecurity,10
+E00502,Project Management,4
+E00502,Data Analysis,3
+E00502,Agile,6
+E00502,Linux,1
+E00502,Stakeholder Management,7
+E00502,Negotiation,4
+E00502,Excel,3
+E04000,Node.js,8
+E04000,Docker,2
+E04000,CI/CD,4
+E04000,Frontend Development,7
+E04000,Linux,10
+E04000,React,6
+E02112,HR Management,6
+E02112,Payroll,4
+E02112,Recruiting,4
+E02112,Employee Relations,10
+E02112,Excel,5
+E03824,Power BI,3
+E03824,Budgeting,2
+E03824,Financial Modeling,1
+E03906,Budgeting,8
+E03906,Sales,5
+E03906,Account Management,6
+E03906,CRM,2
+E03906,Cloud Architecture,8
+E03906,Negotiation,2
+E00436,HR Management,9
+E00436,Payroll,2
+E00436,Python,8
+E00436,Linux,6
+E00436,Recruiting,5
+E00436,Employee Relations,10
+E04798,Budgeting,5
+E04798,SEO,7
+E04798,Content Strategy,2
+E04798,Data Analysis,3
+E04798,Marketing,1
+E04798,Flask,1
+E04798,Cloud Architecture,5
+E01249,Accounting,8
+E01249,Network Administration,10
+E01249,AWS,7
+E01249,Azure,5
+E01249,Cloud Architecture,1
+E01249,Cybersecurity,6
+E03349,Network Administration,3
+E03349,QA/Testing,1
+E03349,Azure,4
+E03349,Stakeholder Management,3
+E03349,Cybersecurity,2
+E02966,Kubernetes,6
+E02966,Python,4
+E02966,Payroll,3
+E01499,Budgeting,2
+E01499,Accounting,2
+E01499,Python,5
+E01499,Finance,3
+E01499,Financial Modeling,7
+E01499,SQL,2
+E00105,Project Management,3
+E00105,Data Analysis,1
+E00105,GCP,2
+E00105,Machine Learning,4
+E00105,Data Engineering,5
+E00105,Stakeholder Management,1
+E00665,Backend Development,10
+E00665,Linux,1
+E00665,Cloud Architecture,9
+E00791,SEO,10
+E00791,Content Strategy,3
+E00791,Data Analysis,2
+E00791,Marketing,3
+E00791,Data Engineering,5
+E01540,DevOps,4
+E01540,Power BI,7
+E01540,Recruiting,8
+E01540,Azure,4
+E01540,Cybersecurity,7
+E04474,Node.js,2
+E04474,NLP,2
+E04474,FastAPI,7
+E04474,Deep Learning,2
+E04474,Frontend Development,6
+E04474,React,3
+E04474,Computer Vision,9
+E03417,HR Management,1
+E03417,Django,5
+E03417,QA/Testing,10
+E03417,Azure,5
+E03417,Linux,6
+E03417,Cloud Architecture,2
+E03417,Cybersecurity,10
+E00254,Node.js,9
+E00254,Budgeting,10
+E00254,Payroll,10
+E00254,Accounting,9
+E00254,DevOps,1
+E00254,Finance,10
+E00254,Excel,5
+E02166,Budgeting,7
+E02166,Finance,2
+E02166,Tableau,3
+E02166,Financial Modeling,1
+E02166,Excel,2
+E00935,Project Management,1
+E00935,NLP,3
+E00935,SEO,3
+E00935,Content Strategy,10
+E00935,Data Analysis,1
+E00935,Network Administration,2
+E01525,Data Engineering,10
+E01525,Backend Development,8
+E01525,Docker,9
+E01525,TensorFlow,5
+E01525,Kubernetes,1
+E01525,LangChain,4
+E00386,Node.js,7
+E00386,Python,9
+E00386,Azure,4
+E00386,REST API Design,9
+E00386,TensorFlow,9
+E00386,Kubernetes,6
+E00386,SQL,2
+E00416,DevOps,3
+E00416,CI/CD,10
+E00416,Machine Learning,8
+E00416,Kubernetes,6
+E00416,React,2
+E00416,JavaScript,7
+E03383,ETL,2
+E03383,Project Management,1
+E03383,Data Analysis,5
+E03383,Agile,6
+E03383,Stakeholder Management,1
+E03383,Excel,5
+E01516,Recruiting,4
+E01516,Linux,3
+E01516,HR Management,10
+E01234,Payroll,10
+E01234,Tableau,6
+E01234,Recruiting,6
+E01234,Network Administration,3
+E01234,Employee Relations,8
+E01234,Cloud Architecture,2
+E03440,Sales,2
+E03440,Network Administration,10
+E03440,Azure,10
+E03440,Linux,9
+E03440,Cloud Architecture,7
+E03440,Cybersecurity,8
+E00431,TensorFlow,4
+E00431,QA/Testing,1
+E00431,AWS,7
+E00431,Azure,7
+E00431,Cloud Architecture,3
+E00431,Cybersecurity,6
+E01258,Azure,3
+E01258,Django,6
+E01258,Network Administration,6
+E01258,C#,5
+E00440,SEO,5
+E00440,PostgreSQL,3
+E00440,Content Strategy,6
+E00440,Data Analysis,2
+E00440,Marketing,3
+E00440,CRM,6
+E00440,JavaScript,5
+E00595,Node.js,1
+E00595,Budgeting,6
+E00595,Spark,5
+E00595,Java,3
+E00595,Finance,4
+E00595,Excel,6
+E00972,Budgeting,2
+E00972,Accounting,7
+E00972,AWS,6
+E00972,Azure,7
+E00972,React,5
+E04562,C#,4
+E04562,Negotiation,5
+E04562,Account Management,8
+E04562,CRM,4
+E02802,HR Management,8
+E02802,Payroll,6
+E02802,Scrum,9
+E02802,Recruiting,2
+E02802,TensorFlow,9
+E02802,Employee Relations,2
+E01427,Sales,7
+E01427,Account Management,1
+E01427,CRM,7
+E01427,Machine Learning,9
+E01427,Cloud Architecture,6
+E04568,Budgeting,8
+E04568,PostgreSQL,3
+E04568,Finance,8
+E04568,Financial Modeling,8
+E04568,Excel,10
+E04931,DevOps,3
+E04931,Recruiting,2
+E04931,Network Administration,3
+E04931,AWS,1
+E04931,Cloud Architecture,1
+E00443,Go,5
+E00443,Scrum,5
+E00443,Machine Learning,2
+E00443,Linux,6
+E00443,Cloud Architecture,2
+E03890,Spark,5
+E03890,Sales,5
+E03890,PyTorch,5
+E03890,QA/Testing,5
+E03890,CRM,5
+E03890,Negotiation,1
+E01194,FastAPI,10
+E01194,CRM,6
+E01194,Stakeholder Management,3
+E01194,SQL,1
+E01194,Computer Vision,6
+E02875,Azure,4
+E02875,Cloud Architecture,1
+E02875,MongoDB,4
+E04959,HR Management,4
+E04959,Backend Development,5
+E04959,DevOps,6
+E04959,AWS,1
+E04959,System Design,6
+E03816,HR Management,5
+E03816,Spark,3
+E03816,Payroll,1
+E03816,Recruiting,4
+E03816,REST API Design,1
+E03816,Cloud Architecture,4
+E01261,Django,7
+E01261,Stakeholder Management,3
+E01261,Project Management,8
+E01261,Data Analysis,6
+E03612,Budgeting,3
+E03612,Sales,1
+E03612,Marketing,3
+E03612,Recruiting,10
+E03612,Financial Modeling,8
+E01388,FastAPI,8
+E01388,DevOps,6
+E01388,Agile,6
+E01388,Deep Learning,8
+E01388,Frontend Development,2
+E01388,AWS,10
+E03875,Go,9
+E03875,FastAPI,7
+E03875,Python,9
+E03875,TensorFlow,2
+E03875,SQL,5
+E04413,Backend Development,8
+E04413,DevOps,2
+E04413,Deep Learning,6
+E04413,AWS,6
+E04413,TensorFlow,2
+E00691,Finance,3
+E00691,Accounting,4
+E00691,Budgeting,8
+E00691,HR Management,1
+E03047,Sales,8
+E03047,Account Management,9
+E03047,JavaScript,7
+E03047,Marketing,7
+E04903,LangChain,5
+E04903,Tableau,6
+E04903,AWS,5
+E04903,Azure,2
+E04903,Linux,2
+E04903,Cloud Architecture,4
+E04903,JavaScript,5
+E04735,Account Management,4
+E04735,Network Administration,6
+E04735,Azure,9
+E04735,Cloud Architecture,5
+E04735,Cybersecurity,2
+E02850,Sales,6
+E02850,Account Management,1
+E02850,CRM,1
+E02850,Stakeholder Management,2
+E02850,Negotiation,1
+E03583,Account Management,7
+E03583,Finance,6
+E03583,CI/CD,4
+E03583,CRM,3
+E03583,Negotiation,4
+E02017,Employee Relations,10
+E02017,Data Engineering,3
+E02017,Recruiting,6
+E02017,Payroll,6
+E01642,CI/CD,2
+E01642,Network Administration,1
+E01642,AWS,5
+E01642,Linux,7
+E01642,Cloud Architecture,10
+E01642,Cybersecurity,7
+E04379,Budgeting,5
+E04379,Accounting,8
+E04379,REST API Design,1
+E04379,Network Administration,2
+E04379,Financial Modeling,7
+E04131,SEO,3
+E04131,Network Administration,3
+E04131,Data Analysis,4
+E04131,Marketing,3
+E02872,Budgeting,9
+E02872,Java,5
+E02872,FastAPI,10
+E02872,Finance,10
+E02872,Excel,2
+E02331,LangChain,6
+E02331,DevOps,8
+E02331,Marketing,9
+E02331,Network Administration,8
+E02331,Deep Learning,3
+E02331,Azure,10
+E02331,Cloud Architecture,9
+E00417,Budgeting,1
+E00417,Accounting,6
+E00417,Flask,6
+E00417,Finance,2
+E00417,MongoDB,7
+E00417,Tableau,10
+E00417,Financial Modeling,5
+E00417,Excel,1
+E04267,Project Management,6
+E04267,PostgreSQL,1
+E04267,Network Administration,2
+E04267,Deep Learning,1
+E04267,AWS,4
+E04267,Azure,3
+E04267,Linux,4
+E04267,Cloud Architecture,2
+E03061,SEO,8
+E03061,Content Strategy,9
+E03061,Data Analysis,6
+E03061,Marketing,9
+E03061,GCP,6
+E03061,Data Engineering,5
+E03061,JavaScript,10
+E00013,Budgeting,7
+E00013,Go,6
+E00013,Accounting,3
+E00013,System Design,3
+E00013,Financial Modeling,1
+E00013,Excel,5
+E04265,Docker,8
+E04265,MongoDB,4
+E04265,Deep Learning,4
+E04265,Machine Learning,9
+E04265,Negotiation,5
+E04265,JavaScript,9
+E04769,SEO,2
+E04769,Content Strategy,7
+E04769,TensorFlow,6
+E03042,Sales,5
+E03042,DevOps,6
+E03042,Azure,5
+E03042,Kubernetes,1
+E03042,Cloud Architecture,2
+E00527,Backend Development,6
+E00527,System Design,3
+E00527,DevOps,1
+E01095,Budgeting,9
+E01095,Stakeholder Management,8
+E01095,C#,3
+E01095,Excel,9
+E03131,SEO,6
+E03131,Python,5
+E03131,Docker,10
+E03131,Azure,4
+E03131,Cloud Architecture,3
+E03131,Cybersecurity,10
+E01713,Node.js,7
+E01713,System Design,4
+E01713,SQL,8
+E01713,Linux,5
+E00128,HR Management,3
+E00128,Django,7
+E00128,Payroll,5
+E00128,Recruiting,2
+E00128,RAG,5
+E00128,MongoDB,6
+E00128,Employee Relations,4
+E03849,Sales,5
+E03849,Account Management,1
+E03849,Marketing,5
+E03849,CRM,4
+E03849,Negotiation,5
+E02464,Budgeting,8
+E02464,Go,2
+E02464,Docker,4
+E02464,Frontend Development,8
+E02464,AWS,2
+E00306,Content Strategy,4
+E00306,Network Administration,10
+E00306,Azure,2
+E00306,Linux,1
+E00306,Cloud Architecture,7
+E00306,Cybersecurity,6
+E03737,TypeScript,3
+E03737,Employee Relations,7
+E03737,GCP,6
+E03737,HR Management,7
+E02783,Sales,1
+E02783,Content Strategy,1
+E02783,DevOps,5
+E02783,Account Management,8
+E02783,CRM,9
+E02783,LangChain,7
+E02939,CI/CD,1
+E02939,Recruiting,4
+E02939,Frontend Development,4
+E02939,Machine Learning,2
+E02939,Cybersecurity,2
+E02706,Power BI,2
+E02706,Linux,1
+E02706,DevOps,2
+E02706,Machine Learning,5
+E00170,Content Strategy,3
+E00170,DevOps,3
+E00170,Marketing,1
+E00170,TypeScript,5
+E00170,C++,5
+E01425,Node.js,9
+E01425,Backend Development,8
+E01425,FastAPI,4
+E01425,Docker,4
+E01425,CI/CD,5
+E01425,Deep Learning,3
+E01425,Kubernetes,8
+E00130,HR Management,2
+E00130,Payroll,8
+E00130,Recruiting,6
+E00130,Employee Relations,2
+E00130,Data Engineering,9
+E02094,Linux,10
+E02094,DevOps,9
+E02094,Employee Relations,4
+E03567,DevOps,6
+E03567,Network Administration,5
+E03567,AWS,7
+E03567,Azure,8
+E03567,Cloud Architecture,9
+E03567,Excel,6
+E04682,Payroll,4
+E04682,Tableau,3
+E04682,Recruiting,1
+E04682,Deep Learning,5
+E04682,Employee Relations,9
+E00957,Accounting,8
+E00957,Account Management,8
+E00957,Recruiting,8
+E00957,CRM,3
+E00957,Negotiation,6
+E04458,Budgeting,1
+E04458,Backend Development,1
+E04458,Docker,4
+E04458,CI/CD,2
+E04458,Machine Learning,2
+E04458,Linux,1
+E01499,Backend Development,8
+E01499,Scrum,8
+E01499,Frontend Development,1
+E01499,AWS,1
+E01499,Azure,9
+E00521,PostgreSQL,4
+E00521,DevOps,10
+E00521,Network Administration,9
+E00521,AWS,5
+E00521,Linux,6
+E00521,Cybersecurity,5
+E03717,Node.js,8
+E03717,Deep Learning,1
+E03717,Frontend Development,1
+E03717,Machine Learning,3
+E03717,Kubernetes,2
+E03717,Excel,8
+E01533,Backend Development,9
+E01533,Sales,10
+E01533,Account Management,1
+E01533,Negotiation,3
+E01533,Cloud Architecture,6
+E01533,SQL,1
+E04449,Budgeting,7
+E04449,C#,3
+E04449,Accounting,2
+E04449,Frontend Development,9
+E04449,Data Engineering,6
+E04449,Financial Modeling,1
+E04449,Excel,2
+E02855,Azure,6
+E02855,CI/CD,9
+E02855,Java,7
+E02855,Cybersecurity,7
+E00816,Node.js,2
+E00816,DevOps,4
+E00816,AWS,3
+E00816,Azure,3
+E00816,Linux,1
+E02283,NLP,2
+E02283,Azure,4
+E02283,Linux,4
+E02283,Cloud Architecture,5
+E02283,Cybersecurity,5
+E04888,PostgreSQL,10
+E04888,DevOps,9
+E04888,Frontend Development,3
+E04888,AWS,7
+E04888,Linux,3
+E04888,Cloud Architecture,3
+E04888,Excel,5
+E04888,Cybersecurity,5
+E03907,Budgeting,8
+E03907,Accounting,4
+E03907,Account Management,8
+E03907,Finance,2
+E03907,Financial Modeling,3
+E02166,Project Management,4
+E02166,Sales,8
+E02166,Data Analysis,6
+E02166,Agile,3
+E02166,Data Engineering,7
+E02166,Stakeholder Management,6
+E02166,Excel,5
+E00431,HR Management,4
+E00431,Django,8
+E00431,Payroll,5
+E00431,Recruiting,2
+E00431,QA/Testing,7
+E00431,Employee Relations,8
+E00431,Negotiation,3
+E01501,Go,7
+E01501,TypeScript,9
+E01501,System Design,1
+E01501,C++,6
+E01501,Linux,9
+E01141,Node.js,3
+E01141,FastAPI,4
+E01141,Account Management,1
+E01141,Docker,1
+E01141,CRM,1
+E01141,Machine Learning,3
+E02254,Sales,9
+E02254,Account Management,3
+E02254,Marketing,6
+E02254,CRM,1
+E02254,Employee Relations,8
+E02254,Negotiation,2
+E04504,Payroll,9
+E04504,DevOps,8
+E04504,CI/CD,6
+E04504,Azure,8
+E04504,Cybersecurity,2
+E03394,C#,9
+E03394,Content Strategy,3
+E03394,Data Analysis,6
+E03394,Marketing,9
+E03394,CI/CD,7
+E03394,GCP,8
+E02942,Django,4
+E02942,DevOps,4
+E02942,Python,5
+E02942,Machine Learning,2
+E02942,Kubernetes,2
+E02942,SQL,3
+E02942,JavaScript,6
+E04130,Budgeting,4
+E04130,ETL,5
+E04130,Accounting,2
+E04130,RAG,3
+E04130,Financial Modeling,5
+E04130,Excel,5
+E04130,Cybersecurity,1
+E02848,Java,7
+E02848,Account Management,10
+E02848,AWS,3
+E02848,CRM,10
+E02848,React,7
+E00085,Stakeholder Management,6
+E00085,Cybersecurity,1
+E00085,Data Analysis,8
+E00085,Agile,3
+E03956,NLP,10
+E03956,Account Management,1
+E03956,CRM,4
+E03956,Azure,5
+E03956,Negotiation,1
+E00672,HR Management,1
+E00672,Budgeting,8
+E00672,Payroll,9
+E00672,Spark,4
+E00672,C#,7
+E00672,Recruiting,2
+E00672,Employee Relations,4
+E04618,Backend Development,5
+E04618,DevOps,4
+E04618,Marketing,2
+E04618,Network Administration,5
+E04618,AWS,2
+E04618,Linux,2
+E04618,JavaScript,2
+E04618,Cybersecurity,1
+E03506,HR Management,7
+E03506,Payroll,1
+E03506,SEO,5
+E03506,Recruiting,3
+E03506,Employee Relations,3
+E00568,Project Management,7
+E00568,Sales,8
+E00568,Agile,2
+E00568,TypeScript,2
+E00568,Stakeholder Management,7
+E00568,SQL,5
+E00535,Spark,2
+E00535,Sales,9
+E00535,Azure,7
+E00535,Cloud Architecture,4
+E00535,Negotiation,7
+E04630,Java,6
+E04630,Content Strategy,1
+E04630,Data Analysis,1
+E04630,Marketing,2
+E04630,Employee Relations,8
+E04630,Financial Modeling,1
+E00874,SEO,3
+E00874,Negotiation,5
+E00874,Data Analysis,3
+E00874,Marketing,5
+E01546,Accounting,5
+E01546,Budgeting,4
+E01546,JavaScript,7
+E00941,DevOps,8
+E00941,Finance,1
+E00941,CRM,1
+E00941,C++,6
+E00941,Financial Modeling,2
+E00941,Excel,7
+E03446,Cybersecurity,3
+E03446,React,2
+E03446,Data Analysis,4
+E03446,Marketing,2
+E01361,Backend Development,7
+E01361,Marketing,10
+E01361,Network Administration,8
+E01361,AWS,4
+E01361,Cloud Architecture,2
+E01361,Cybersecurity,2
+E01631,SEO,2
+E01631,SQL,4
+E01631,Data Analysis,9
+E01631,Marketing,5
+E03719,SEO,1
+E03719,PostgreSQL,4
+E03719,Content Strategy,8
+E03719,Scrum,7
+E03269,Linux,3
+E03269,ETL,7
+E03269,Frontend Development,10
+E03269,AWS,7
+E01037,Linux,1
+E01037,Deep Learning,4
+E01037,Cybersecurity,5
+E00671,Linux,4
+E00671,DevOps,3
+E00671,C#,9
+E00671,Cybersecurity,6
+E02216,HR Management,1
+E02216,DevOps,1
+E02216,Docker,6
+E02216,Network Administration,2
+E02216,AWS,6
+E02216,Linux,1
+E02216,Cloud Architecture,2
+E02216,Negotiation,4
+E02803,Recruiting,1
+E02803,Content Strategy,6
+E02803,Data Analysis,7
+E01584,Spark,7
+E01584,Recruiting,5
+E01584,REST API Design,2
+E01584,TensorFlow,3
+E01584,Employee Relations,2
+E02489,Recruiting,3
+E02489,React,3
+E02489,Spark,1
+E02489,HR Management,9
+E03189,Sales,3
+E03189,Network Administration,4
+E03189,CRM,9
+E03189,TensorFlow,1
+E03189,Negotiation,7
+E03560,Spark,4
+E03560,Sales,5
+E03560,Negotiation,10
+E03560,CRM,5
+E00769,Cloud Architecture,7
+E00769,SQL,1
+E00769,Frontend Development,4
+E00769,AWS,9
+E02791,TypeScript,8
+E02791,Negotiation,1
+E02791,CRM,3
+E02333,Go,3
+E02333,DevOps,7
+E02333,Azure,2
+E02333,Linux,10
+E02333,Cloud Architecture,10
+E02333,Cybersecurity,1
+E01002,System Design,2
+E01002,Sales,2
+E01002,Account Management,5
+E01002,CRM,1
+E03520,SEO,6
+E03520,Content Strategy,4
+E03520,Data Analysis,8
+E03520,Go,5
+E00752,NLP,4
+E00752,Account Management,6
+E00752,CRM,7
+E00233,Content Strategy,1
+E00233,Power BI,4
+E00233,Azure,1
+E00233,Linux,7
+E00233,Cloud Architecture,7
+E00233,SQL,2
+E02639,SEO,2
+E02639,Sales,10
+E02639,Spark,10
+E02639,Marketing,5
+E00697,Azure,2
+E00697,LangChain,6
+E00697,Network Administration,2
+E00697,Payroll,1
+E02183,Sales,5
+E02183,Account Management,8
+E02183,Negotiation,3
+E02183,CRM,1
+E02183,SQL,10
+E00715,Backend Development,9
+E00715,CI/CD,4
+E00715,Deep Learning,9
+E00715,Negotiation,1
+E00715,Machine Learning,7
+E00715,Kubernetes,6
+E00715,React,8
+E04288,Backend Development,5
+E04288,Python,2
+E04288,Tableau,2
+E04288,React,1
+E04288,SQL,2
+E04288,JavaScript,6
+E02421,FastAPI,10
+E02421,DevOps,6
+E02421,SQL,6
+E02421,Docker,10
+E00523,Java,1
+E00523,Data Analysis,2
+E00523,Docker,1
+E00523,Network Administration,4
+E00523,AWS,10
+E00523,Cloud Architecture,4
+E03615,Node.js,6
+E03615,FastAPI,1
+E03615,AWS,1
+E03615,Kubernetes,3
+E03615,Cloud Architecture,10
+E02761,Payroll,6
+E02761,Power BI,5
+E02761,Employee Relations,6
+E02761,JavaScript,3
+E02761,Computer Vision,3
+E02121,Content Strategy,3
+E02121,Sales,2
+E02121,CRM,2
+E02121,MongoDB,1
+E02121,Negotiation,5
+E01486,Data Engineering,2
+E01486,Stakeholder Management,4
+E01486,Project Management,6
+E01486,Excel,6
+E00725,Sales,2
+E00725,Account Management,6
+E00725,CRM,5
+E00725,Marketing,2
+E03027,Budgeting,8
+E03027,Account Management,4
+E03027,Negotiation,3
+E03027,CRM,8
+E03027,React,2
+E03027,Computer Vision,1
+E03689,Tableau,2
+E03689,Data Analysis,6
+E03689,Excel,10
+E03689,Agile,10
+E01986,Linux,4
+E01986,QA/Testing,7
+E01986,Cybersecurity,9
+E01286,Python,2
+E01286,Docker,5
+E01286,Flask,10
+E01286,Frontend Development,8
+E01286,AWS,4
+E01286,System Design,2
+E01409,C#,5
+E01409,Deep Learning,2
+E01409,AWS,9
+E01409,C++,7
+E01409,TensorFlow,3
+E01409,System Design,6
+E00626,Budgeting,3
+E00626,Sales,5
+E00626,Finance,4
+E00626,Financial Modeling,5
+E00626,Excel,2
+E04342,SEO,1
+E04342,Content Strategy,9
+E04342,Data Analysis,9
+E04342,Marketing,3
+E04342,Frontend Development,2
+E04342,Cybersecurity,8
+E03904,Node.js,3
+E03904,Payroll,10
+E03904,Docker,5
+E03904,Finance,6
+E03904,Financial Modeling,2
+E01291,Project Management,4
+E01291,Sales,1
+E01291,Account Management,4
+E01291,Power BI,2
+E01291,CRM,2
+E01291,C++,5
+E01291,Negotiation,5
+E00917,FastAPI,8
+E00917,Linux,8
+E00917,React,1
+E00917,JavaScript,3
+E01484,Marketing,8
+E01484,CI/CD,5
+E01484,TensorFlow,6
+E01484,Cloud Architecture,1
+E01484,Cybersecurity,6
+E03864,Budgeting,2
+E03864,Accounting,4
+E03864,Account Management,8
+E03864,TypeScript,4
+E03864,Financial Modeling,7
+E00488,Sales,2
+E00488,Negotiation,1
+E00488,Account Management,2
+E00488,Docker,1
+E02227,DevOps,1
+E02227,Account Management,4
+E02227,RAG,6
+E02227,AWS,8
+E02227,Azure,10
+E02227,System Design,8
+E02227,Cloud Architecture,3
+E04802,Sales,10
+E04802,Financial Modeling,4
+E04802,Account Management,4
+E04802,CRM,4
+E01970,HR Management,3
+E01970,Payroll,5
+E01970,Python,3
+E01970,DevOps,3
+E01970,Finance,4
+E01970,Recruiting,4
+E02813,Node.js,2
+E02813,FastAPI,8
+E02813,Sales,2
+E02813,Python,6
+E02813,Data Analysis,5
+E02813,TensorFlow,6
+E02813,Data Engineering,5
+E02813,React,5
+E02031,Node.js,7
+E02031,Python,7
+E02031,Frontend Development,7
+E02031,AWS,1
+E02031,MongoDB,10
+E02031,System Design,10
+E02031,SQL,4
+E03252,Budgeting,3
+E03252,Flask,5
+E03252,Finance,9
+E03252,Financial Modeling,3
+E03252,Excel,6
+E03252,Computer Vision,2
+E04871,Django,2
+E04871,Payroll,8
+E04871,PostgreSQL,1
+E04871,Recruiting,10
+E04871,Employee Relations,10
+E04871,Financial Modeling,10
+E03547,TensorFlow,3
+E03547,Financial Modeling,3
+E03547,Data Analysis,4
+E03547,Agile,6
+E04742,Django,3
+E04742,Project Management,2
+E04742,Data Analysis,2
+E04742,Agile,5
+E04742,Excel,2
+E01070,Budgeting,6
+E01070,Accounting,9
+E01070,Finance,4
+E01070,Cloud Architecture,1
+E01070,Financial Modeling,1
+E01070,Excel,4
+E04359,Project Management,1
+E04359,PyTorch,3
+E04359,Data Analysis,3
+E04359,Stakeholder Management,4
+E04359,Excel,5
+E03268,SQL,3
+E03268,Content Strategy,4
+E03268,DevOps,1
+E03268,Python,9
+E04035,Content Strategy,1
+E04035,Sales,1
+E04035,Data Analysis,2
+E04035,Marketing,7
+E04035,TensorFlow,8
+E04035,Computer Vision,7
+E01221,Sales,9
+E01221,Account Management,5
+E01221,CRM,10
+E01221,Stakeholder Management,10
+E01221,Negotiation,3
+E01221,Computer Vision,7
+E00276,Java,4
+E00276,Project Management,10
+E00276,Data Analysis,4
+E01687,HR Management,4
+E01687,Flask,1
+E01687,Frontend Development,1
+E01687,Employee Relations,2
+E01687,Data Engineering,2
+E02844,Django,2
+E02844,Account Management,3
+E02844,CRM,1
+E02844,TensorFlow,5
+E02844,Negotiation,6
+E01263,Spark,6
+E01263,Sales,8
+E01263,Python,10
+E01263,Docker,5
+E01263,AWS,2
+E00119,Node.js,2
+E00119,DevOps,6
+E00119,CI/CD,6
+E00119,RAG,1
+E00119,System Design,2
+E03935,DevOps,10
+E03935,Recruiting,1
+E03935,Network Administration,3
+E03935,AWS,8
+E03935,Cloud Architecture,8
+E03935,React,2
+E03935,Cybersecurity,7
+E00742,HR Management,4
+E00742,Sales,8
+E00742,Account Management,6
+E00742,CRM,7
+E00742,Stakeholder Management,3
+E00742,Negotiation,9
+E02810,Accounting,8
+E02810,Financial Modeling,6
+E02810,PyTorch,4
+E02810,Excel,6
+E01860,Django,10
+E01860,SEO,8
+E01860,Accounting,2
+E01860,Content Strategy,8
+E01860,Data Analysis,8
+E01860,Marketing,6
+E04890,Stakeholder Management,9
+E04890,Go,1
+E04890,Agile,2
+E02285,Payroll,10
+E02285,Go,10
+E02285,Sales,8
+E02285,Account Management,6
+E02285,CRM,8
+E00842,Budgeting,9
+E00842,Accounting,9
+E00842,PostgreSQL,6
+E00842,Finance,2
+E00842,Recruiting,1
+E00842,QA/Testing,3
+E01271,Kubernetes,7
+E01271,React,4
+E01271,RAG,8
+E01921,Project Management,1
+E01921,C#,9
+E01921,Python,7
+E01921,Data Analysis,10
+E01921,Agile,8
+E01921,Stakeholder Management,9
+E01921,Excel,3
+E03664,Backend Development,7
+E03664,DevOps,6
+E03664,CI/CD,5
+E03664,Recruiting,8
+E03664,MongoDB,3
+E03664,SQL,3
+E03664,JavaScript,7
+E00813,DevOps,3
+E00813,Data Analysis,3
+E00813,Network Administration,6
+E00813,AWS,2
+E00813,React,6
+E00813,Negotiation,8
+E00870,Azure,3
+E00870,Linux,5
+E00870,DevOps,5
+E00870,Data Analysis,3
+E04167,HR Management,9
+E04167,Recruiting,4
+E04167,Project Management,9
+E04167,Computer Vision,7
+E00245,System Design,6
+E00245,DevOps,9
+E00245,Frontend Development,1
+E00245,Recruiting,1
+E00976,HR Management,2
+E00976,Payroll,3
+E00976,FastAPI,3
+E00976,Recruiting,9
+E00976,GCP,2
+E04112,Network Administration,6
+E04112,AWS,1
+E04112,Linux,5
+E04112,Cloud Architecture,8
+E04112,Cybersecurity,6
+E01807,Backend Development,7
+E01807,FastAPI,2
+E01807,Docker,6
+E01807,Deep Learning,4
+E01807,GCP,4
+E01807,Tableau,6
+E04103,Finance,5
+E04103,CI/CD,5
+E04103,Budgeting,2
+E04103,Network Administration,1
+E01412,HR Management,4
+E01412,Payroll,6
+E01412,PostgreSQL,9
+E01412,Recruiting,2
+E01412,Deep Learning,2
+E01412,Employee Relations,3
+E04386,HR Management,7
+E04386,Payroll,2
+E04386,C#,3
+E04386,Recruiting,1
+E04386,Employee Relations,8
+E01232,HR Management,4
+E01232,Payroll,6
+E01232,TypeScript,4
+E01232,Employee Relations,4
+E01232,React,3
+E04572,HR Management,10
+E04572,Content Strategy,1
+E04572,DevOps,2
+E04572,PyTorch,6
+E04572,Azure,9
+E02747,Node.js,6
+E02747,Finance,1
+E02747,AWS,4
+E02747,Linux,2
+E02747,Cloud Architecture,5
+E02747,Cybersecurity,2
+E01064,Azure,9
+E01064,Power BI,3
+E01064,DevOps,2
+E01064,Cybersecurity,1
+E00178,Sales,6
+E00178,Account Management,7
+E00178,TypeScript,5
+E00178,CRM,2
+E00178,Negotiation,2
+E01091,Node.js,9
+E01091,Payroll,8
+E01091,PyTorch,9
+E01091,Docker,2
+E01091,TensorFlow,5
+E01091,Kubernetes,2
+E01091,Cybersecurity,5
+E01525,DevOps,4
+E01525,PyTorch,6
+E01525,Network Administration,8
+E01525,AWS,8
+E01525,Linux,6
+E01525,Stakeholder Management,5
+E01525,Cybersecurity,3
+E01309,Account Management,6
+E01309,Data Analysis,8
+E01309,Excel,8
+E01309,Agile,8
+E02378,SEO,2
+E02378,SQL,2
+E02378,AWS,1
+E02378,Kubernetes,9
+E02378,React,1
+E04127,Backend Development,10
+E04127,Negotiation,5
+E04127,Account Management,3
+E04127,CRM,8
+E02072,Payroll,2
+E02072,Java,4
+E02072,SEO,2
+E02072,Recruiting,2
+E02072,Azure,5
+E02555,Project Management,4
+E02555,Data Analysis,9
+E02555,Agile,6
+E02555,Marketing,7
+E02555,Stakeholder Management,8
+E02555,Excel,8
+E00187,Budgeting,7
+E00187,C#,7
+E00187,Accounting,6
+E00187,Finance,10
+E00187,GCP,2
+E00187,Tableau,9
+E00187,Financial Modeling,5
+E04332,Go,5
+E04332,Linux,4
+E04332,SQL,3
+E04332,Docker,3
+E02062,REST API Design,8
+E02062,Stakeholder Management,8
+E02062,Data Analysis,4
+E02062,Agile,10
+E00034,Java,10
+E00034,SEO,3
+E00034,Marketing,1
+E00034,Deep Learning,3
+E00034,Network Administration,5
+E00273,FastAPI,10
+E00273,Sales,8
+E00273,Account Management,8
+E00273,CRM,3
+E00273,Negotiation,4
+E00691,Node.js,7
+E00691,AWS,3
+E00691,Azure,2
+E00691,Linux,1
+E00691,Cloud Architecture,4
+E01403,Project Management,5
+E01403,Linux,1
+E01403,LangChain,6
+E01403,Cloud Architecture,6
+E01403,Cybersecurity,4
+E03438,CI/CD,2
+E03438,Recruiting,1
+E03438,Java,3
+E03438,AWS,5
+E04136,Accounting,6
+E04136,Data Analysis,2
+E04136,TypeScript,3
+E04136,Recruiting,7
+E04136,Financial Modeling,5
+E02944,Java,5
+E02944,Docker,5
+E02944,Power BI,10
+E02944,CI/CD,6
+E02944,System Design,7
+E03300,SEO,10
+E03300,Accounting,1
+E03300,Content Strategy,3
+E03300,Data Analysis,7
+E03300,Marketing,1
+E03300,Tableau,2
+E00078,HR Management,4
+E00078,Account Management,5
+E00078,Recruiting,5
+E00078,Deep Learning,3
+E00078,Employee Relations,5
+E00078,React,1
+E00825,Project Management,6
+E00825,Data Analysis,4
+E00825,Agile,1
+E00825,Marketing,3
+E00825,Deep Learning,2
+E00825,Azure,5
+E00825,Excel,7
+E04972,SEO,5
+E04972,PostgreSQL,5
+E04972,Accounting,3
+E04972,Data Analysis,3
+E04972,Marketing,3
+E03941,Computer Vision,9
+E03941,Network Administration,2
+E03941,Java,9
+E03941,Cybersecurity,5
+E02148,Java,10
+E02148,DevOps,1
+E02148,Account Management,8
+E02148,Docker,2
+E02148,Frontend Development,5
+E02148,System Design,2
+E02148,SQL,7
+E02252,NLP,3
+E02252,SEO,1
+E02252,Content Strategy,5
+E02252,Data Analysis,2
+E02252,Marketing,4
+E02252,TypeScript,3
+E03096,Budgeting,4
+E03096,Accounting,4
+E03096,DevOps,10
+E03096,Finance,6
+E03096,Financial Modeling,3
+E03096,Excel,2
+E04800,Spark,6
+E04800,Stakeholder Management,8
+E04800,Project Management,10
+E04800,Agile,5
+E02838,FastAPI,2
+E02838,C++,9
+E02838,Kubernetes,8
+E02838,Docker,6
+E02838,CI/CD,1
+E02838,Employee Relations,1
+E02838,Machine Learning,4
+E02838,System Design,7
+E02980,HR Management,6
+E02980,Payroll,6
+E02980,Project Management,3
+E02980,Flask,8
+E02980,Recruiting,7
+E02980,Employee Relations,4
+E04477,Budgeting,5
+E04477,Project Management,4
+E04477,Data Analysis,4
+E04477,Agile,2
+E04477,CI/CD,2
+E04477,Stakeholder Management,2
+E04477,SQL,4
+E04477,Excel,1
+E04348,HR Management,4
+E04348,Payroll,1
+E04348,Tableau,2
+E04348,Recruiting,1
+E04348,TensorFlow,2
+E04348,Employee Relations,3
+E04348,Cybersecurity,4
+E01638,Django,2
+E01638,DevOps,6
+E01638,AWS,10
+E01638,Machine Learning,4
+E01638,Azure,10
+E01638,Cybersecurity,10
+E03419,Project Management,8
+E03419,PostgreSQL,3
+E03419,Sales,3
+E03419,Account Management,6
+E03419,CRM,7
+E03419,Negotiation,10
+E04222,Node.js,7
+E04222,Sales,5
+E04222,Agile,8
+E04222,Frontend Development,6
+E04222,SQL,10
+E04222,JavaScript,9
+E04126,Project Management,1
+E04126,Agile,4
+E04126,Stakeholder Management,5
+E04126,Excel,1
+E04126,Computer Vision,1
+E01896,Budgeting,2
+E01896,Accounting,1
+E01896,Finance,1
+E01896,C++,6
+E01896,LangChain,3
+E01896,Financial Modeling,3
+E01896,Excel,4
+E01896,Cybersecurity,4
+E03018,Backend Development,2
+E03018,Docker,8
+E03018,CI/CD,5
+E03018,Linux,6
+E03018,SQL,7
+E03018,JavaScript,5
+E03018,Excel,3
+E03325,HR Management,7
+E03325,Payroll,5
+E03325,Python,10
+E03325,Recruiting,4
+E03325,MongoDB,1
+E04037,Budgeting,10
+E04037,Accounting,5
+E04037,Content Strategy,5
+E04037,Finance,9
+E04037,CI/CD,5
+E04037,C++,7
+E04037,Financial Modeling,4
+E04037,Excel,2
+E01902,Employee Relations,10
+E01902,CRM,8
+E01902,Payroll,4
+E01902,SQL,6
+E01466,Sales,4
+E01466,Content Strategy,1
+E01466,Account Management,2
+E01466,CRM,1
+E01466,LangChain,2
+E01466,Negotiation,1
+E02038,Budgeting,3
+E02038,NLP,1
+E02038,Content Strategy,5
+E02038,Data Analysis,7
+E02038,Marketing,2
+E03474,HR Management,2
+E03474,Payroll,9
+E03474,DevOps,4
+E03474,Network Administration,8
+E03474,Azure,7
+E03474,Linux,5
+E03474,Cloud Architecture,6
+E02744,HR Management,1
+E02744,Spark,4
+E02744,Payroll,2
+E02744,Recruiting,4
+E02744,Employee Relations,7
+E00702,Project Management,3
+E00702,Data Analysis,6
+E00702,Marketing,2
+E00702,Agile,4
+E00702,REST API Design,3
+E00702,Stakeholder Management,8
+E03081,C#,3
+E03081,Sales,8
+E03081,Account Management,4
+E03081,Finance,6
+E03081,CRM,9
+E03081,Negotiation,6
+E03081,Computer Vision,8
+E01281,Kubernetes,10
+E01281,Account Management,3
+E01281,C++,9
+E01281,Azure,6
+E01281,Linux,6
+E01281,Cloud Architecture,8
+E01281,Cybersecurity,5
+E04029,Payroll,9
+E04029,Content Strategy,7
+E04029,Python,3
+E04029,Recruiting,1
+E04029,Employee Relations,10
+E01116,Project Management,6
+E01116,PostgreSQL,7
+E01116,Account Management,6
+E01116,AWS,2
+E01116,CRM,2
+E01116,Negotiation,9
+E01753,REST API Design,4
+E01753,Project Management,2
+E01753,Excel,1
+E01753,Agile,7
+E04072,Spark,7
+E04072,Go,6
+E04072,Accounting,1
+E04072,Finance,5
+E04072,TensorFlow,1
+E04072,Financial Modeling,2
+E00672,Cloud Architecture,4
+E00672,Network Administration,10
+E00672,C#,3
+E00672,AWS,9
+E04419,Java,3
+E04419,Sales,9
+E04419,CRM,10
+E04419,Data Engineering,8
+E04419,JavaScript,6
+E00467,PostgreSQL,6
+E00467,Content Strategy,8
+E00467,DevOps,8
+E00467,Frontend Development,7
+E00467,Kubernetes,1
+E00467,Cloud Architecture,1
+E00365,SEO,6
+E00365,Recruiting,3
+E00365,Data Analysis,5
+E00306,FastAPI,7
+E00306,React,3
+E00306,Linux,1
+E00306,SQL,5
+E03292,Azure,7
+E03292,Deep Learning,2
+E03292,AWS,1
+E03292,SEO,6
+E04779,TensorFlow,6
+E04779,DevOps,9
+E04779,Go,10
+E04779,Machine Learning,3
+E00501,Budgeting,6
+E00501,Accounting,2
+E00501,Finance,8
+E00501,AWS,10
+E00501,LangChain,1
+E00501,Financial Modeling,9
+E00501,Excel,7
+E01132,REST API Design,7
+E01132,Negotiation,10
+E01132,Account Management,4
+E00556,Project Management,7
+E00556,Account Management,7
+E00556,Data Analysis,6
+E00556,Agile,6
+E00556,Stakeholder Management,4
+E00311,HR Management,4
+E00311,Payroll,4
+E00311,Deep Learning,6
+E00311,Employee Relations,3
+E00311,Cloud Architecture,2
+E04567,DevOps,1
+E04567,Account Management,3
+E04567,Employee Relations,4
+E04567,Linux,4
+E04567,Cybersecurity,1
+E04378,DevOps,1
+E04378,Account Management,5
+E04378,Power BI,3
+E04378,Network Administration,1
+E04378,AWS,5
+E04378,Azure,4
+E04378,Linux,10
+E04378,Cloud Architecture,5
+E03251,Budgeting,6
+E03251,Stakeholder Management,2
+E03251,Negotiation,1
+E03251,Account Management,5
+E03167,Employee Relations,9
+E03167,Payroll,8
+E03167,Docker,9
+E03167,HR Management,1
+E03347,Node.js,6
+E03347,FastAPI,6
+E03347,DevOps,6
+E03347,Machine Learning,5
+E03347,System Design,4
+E03908,NLP,7
+E03908,Account Management,9
+E03908,Network Administration,10
+E03908,LangChain,4
+E03908,Cloud Architecture,7
+E03908,Cybersecurity,4
+E01351,DevOps,2
+E01351,Account Management,3
+E01351,Finance,6
+E01351,CI/CD,6
+E01351,Network Administration,5
+E01351,AWS,2
+E01351,Azure,4
+E01351,Cybersecurity,2
+E02681,Node.js,4
+E02681,Network Administration,3
+E02681,Linux,4
+E02681,Financial Modeling,3
+E02681,Cybersecurity,2
+E03807,DevOps,6
+E03807,Account Management,2
+E03807,Network Administration,8
+E03807,AWS,3
+E03807,Machine Learning,9
+E03807,Azure,10
+E03807,SQL,8
+E00422,CI/CD,5
+E00422,Cloud Architecture,7
+E00422,SQL,4
+E00422,Machine Learning,4
+E00265,Node.js,7
+E00265,Backend Development,6
+E00265,Kubernetes,7
+E00265,Linux,10
+E00265,Stakeholder Management,10
+E00265,SQL,10
+E04601,Budgeting,1
+E04601,Accounting,4
+E04601,Content Strategy,5
+E04601,Finance,8
+E04601,C++,7
+E04601,Financial Modeling,5
+E04601,React,5
+E04601,Excel,8
+E04816,Azure,9
+E04816,Cloud Architecture,2
+E04816,DevOps,3
+E04816,SEO,9
+E02147,Accounting,8
+E02147,Docker,2
+E02147,Network Administration,5
+E02147,Financial Modeling,6
+E02147,Negotiation,3
+E02914,FastAPI,9
+E02914,DevOps,7
+E02914,TypeScript,1
+E02914,Deep Learning,3
+E02914,GCP,6
+E02914,Frontend Development,10
+E02914,System Design,3
+E02914,Stakeholder Management,3
+E03268,Backend Development,3
+E03268,DevOps,4
+E03268,Docker,1
+E03268,RAG,10
+E03268,Azure,5
+E03268,Cloud Architecture,1
+E03268,Cybersecurity,8
+E03972,Project Management,9
+E03972,Data Analysis,5
+E03972,Agile,10
+E03972,Frontend Development,9
+E03972,Stakeholder Management,4
+E03972,Excel,1
+E02189,Accounting,6
+E02189,Sales,2
+E02189,MongoDB,1
+E02189,Negotiation,2
+E02189,Excel,7
+E04290,HR Management,3
+E04290,DevOps,1
+E04290,Agile,1
+E04290,Network Administration,3
+E04290,AWS,3
+E04290,Azure,3
+E03630,Project Management,2
+E03630,Sales,10
+E03630,Data Analysis,9
+E03630,Agile,2
+E03630,TensorFlow,8
+E03630,Kubernetes,10
+E03630,Stakeholder Management,5
+E00432,HR Management,10
+E00432,Payroll,4
+E00432,Backend Development,5
+E00432,Recruiting,4
+E00432,Employee Relations,1
+E03045,HR Management,6
+E03045,Payroll,9
+E03045,Recruiting,4
+E03045,Deep Learning,1
+E03045,Employee Relations,4
+E03045,Data Engineering,5
+E01924,Node.js,10
+E01924,Power BI,1
+E01924,Frontend Development,3
+E01924,Marketing,4
+E04877,Data Analysis,9
+E04877,Flask,6
+E04877,Marketing,8
+E04877,Network Administration,7
+E04877,Financial Modeling,1
+E02770,Accounting,3
+E02770,DevOps,4
+E02770,Network Administration,6
+E02770,Machine Learning,5
+E02770,Linux,7
+E02770,Cybersecurity,2
+E04590,HR Management,5
+E04590,Budgeting,4
+E04590,FastAPI,9
+E04590,Recruiting,5
+E04590,Employee Relations,3
+E01977,Finance,8
+E01977,Recruiting,9
+E01977,Budgeting,3
+E01977,Financial Modeling,4
+E01378,Content Strategy,1
+E01378,DevOps,8
+E01378,Network Administration,7
+E01378,AWS,9
+E01378,Linux,2
+E04224,HR Management,2
+E04224,Recruiting,9
+E04224,Deep Learning,5
+E04224,Cybersecurity,1
+E03423,Sales,5
+E03423,Account Management,2
+E03423,CRM,1
+E03423,Azure,10
+E03423,Negotiation,9
+E01584,Azure,1
+E01584,Content Strategy,3
+E01584,Data Analysis,5
+E00788,Node.js,7
+E00788,Sales,3
+E00788,Account Management,10
+E00788,CRM,10
+E00788,Negotiation,8
+E00207,Employee Relations,8
+E00207,Payroll,2
+E00207,NLP,8
+E00834,Budgeting,1
+E00834,Django,2
+E00834,Accounting,8
+E00834,Finance,2
+E00834,REST API Design,6
+E00834,Financial Modeling,8
+E04571,ETL,9
+E04571,Payroll,2
+E04571,Backend Development,5
+E04571,DevOps,9
+E04571,RAG,8
+E04571,TensorFlow,7
+E02652,C#,4
+E02652,Agile,3
+E02652,Employee Relations,2
+E02652,Data Engineering,10
+E02652,Stakeholder Management,8
+E02652,Excel,2
+E02693,Node.js,1
+E02693,Sales,2
+E02693,DevOps,4
+E02693,CRM,3
+E03359,Backend Development,6
+E03359,DevOps,5
+E03359,Kubernetes,5
+E03359,Docker,7
+E03359,Frontend Development,6
+E03359,Linux,2
+E03359,JavaScript,1
+E00399,Budgeting,4
+E00399,Finance,6
+E00399,Power BI,3
+E00399,Financial Modeling,6
+E00399,Negotiation,4
+E00399,Excel,4
+E02971,DevOps,1
+E02971,Network Administration,3
+E02971,AWS,8
+E02971,CRM,7
+E02971,Linux,3
+E02971,Cybersecurity,2
+E03327,Project Management,3
+E03327,Spark,7
+E03327,DevOps,10
+E03327,Data Analysis,1
+E03327,Agile,10
+E03327,Stakeholder Management,8
+E03327,Excel,4
+E00900,Content Strategy,9
+E00900,Data Analysis,5
+E00900,AWS,8
+E00836,Marketing,2
+E00836,Network Administration,5
+E00836,System Design,1
+E00836,Cloud Architecture,6
+E00836,Stakeholder Management,1
+E03854,Payroll,1
+E03854,PostgreSQL,8
+E03854,Network Administration,10
+E03854,AWS,3
+E03854,Linux,10
+E03854,Excel,1
+E03854,Cybersecurity,5
+E04729,Budgeting,5
+E04729,Negotiation,5
+E04729,CRM,3
+E00360,Docker,3
+E00360,Flask,5
+E00360,AWS,4
+E00360,Employee Relations,8
+E00360,JavaScript,3
+E02284,Node.js,7
+E02284,Content Strategy,4
+E02284,Frontend Development,8
+E02284,AWS,3
+E00181,SEO,8
+E00181,REST API Design,9
+E00181,Data Analysis,4
+E00181,MongoDB,7
+E04168,Sales,2
+E04168,Account Management,9
+E04168,QA/Testing,6
+E04168,Deep Learning,7
+E04168,CRM,5
+E04168,Negotiation,6
+E02861,Account Management,3
+E02861,Network Administration,6
+E02861,AWS,9
+E02861,Azure,1
+E02861,Cloud Architecture,1
+E02861,Negotiation,2
+E02861,Cybersecurity,1
+E01357,NLP,10
+E01357,Python,4
+E01357,QA/Testing,10
+E01357,RAG,2
+E01357,Machine Learning,2
+E01357,Kubernetes,2
+E01357,React,10
+E04387,Data Analysis,2
+E04387,REST API Design,8
+E04387,Network Administration,5
+E04387,Azure,7
+E04387,Linux,6
+E03090,Django,2
+E03090,DevOps,8
+E03090,Cybersecurity,4
+E03591,SEO,2
+E03591,Content Strategy,10
+E03591,PyTorch,5
+E03591,Data Analysis,8
+E03591,Marketing,1
+E03328,FastAPI,6
+E03328,DevOps,1
+E03328,Flask,5
+E03328,AWS,2
+E03328,Linux,1
+E03328,Cloud Architecture,4
+E04937,Budgeting,2
+E04937,Sales,8
+E04937,CRM,5
+E04937,System Design,4
+E04937,Data Engineering,3
+E00515,Project Management,6
+E00515,NLP,4
+E00515,Backend Development,6
+E00515,Data Analysis,2
+E00515,Agile,2
+E00515,Excel,1
+E01241,Accounting,1
+E01241,Flask,1
+E01241,Network Administration,6
+E01241,Employee Relations,1
+E01241,AWS,6
+E01241,Linux,1
+E01241,Cloud Architecture,7
+E01241,Cybersecurity,2
+E03255,Azure,3
+E03255,Network Administration,8
+E03255,Deep Learning,1
+E03255,AWS,8
+E01711,Finance,3
+E01711,Accounting,1
+E01711,Budgeting,4
+E01711,Backend Development,5
+E00500,Project Management,2
+E00500,DevOps,4
+E00500,Agile,7
+E00500,Scrum,6
+E00500,Employee Relations,7
+E04972,HR Management,3
+E04972,Payroll,7
+E04972,SQL,3
+E02728,Network Administration,8
+E02728,Stakeholder Management,2
+E02728,Project Management,1
+E02728,Agile,1
+E04749,Budgeting,5
+E04749,Finance,9
+E04749,AWS,8
+E04749,Financial Modeling,7
+E04749,Excel,4
+E02023,DevOps,4
+E02023,Network Administration,4
+E02023,AWS,2
+E02023,Linux,9
+E02023,Excel,2
+E02023,Cybersecurity,10
+E03166,DevOps,8
+E03166,Network Administration,3
+E03166,C++,3
+E03166,Azure,1
+E03166,Linux,1
+E03166,Cloud Architecture,6
+E03166,Financial Modeling,5
+E02599,HR Management,1
+E02599,Payroll,8
+E02599,Recruiting,9
+E02599,GCP,2
+E02599,Azure,2
+E02599,Employee Relations,4
+E01014,CI/CD,7
+E01014,Content Strategy,4
+E01014,Marketing,7
+E04529,Docker,6
+E04529,TypeScript,3
+E04529,Network Administration,8
+E04529,AWS,4
+E04529,Linux,6
+E04529,Cloud Architecture,5
+E04529,Cybersecurity,4
+E00085,HR Management,6
+E00085,GCP,4
+E00085,Azure,5
+E00085,Linux,10
+E00085,Cloud Architecture,3
+E00632,Content Strategy,7
+E00632,DevOps,4
+E00632,Python,4
+E00632,Network Administration,6
+E00632,AWS,7
+E00632,Azure,4
+E00632,Cloud Architecture,3
+E02108,Finance,8
+E02108,Financial Modeling,2
+E02108,JavaScript,8
+E02108,C++,8
+E03802,CI/CD,5
+E03802,React,4
+E03802,Kubernetes,2
+E03685,Project Management,8
+E03685,REST API Design,3
+E03685,AWS,7
+E03685,Machine Learning,3
+E03685,Azure,6
+E03685,Cloud Architecture,8
+E01089,Project Management,4
+E01089,Go,2
+E01089,Data Analysis,6
+E01089,Agile,1
+E01089,Power BI,9
+E01089,CRM,6
+E01089,Stakeholder Management,1
+E01089,Excel,2
+E03988,SEO,10
+E03988,Content Strategy,4
+E03988,Data Analysis,4
+E03988,Marketing,6
+E03988,REST API Design,6
+E03988,RAG,5
+E03988,Stakeholder Management,9
+E00401,Go,5
+E00401,CRM,8
+E00401,Azure,10
+E00401,Employee Relations,6
+E00401,Cloud Architecture,2
+E03429,SEO,2
+E03429,PostgreSQL,2
+E03429,Marketing,3
+E02417,Backend Development,9
+E02417,FastAPI,3
+E02417,Python,8
+E02417,Kubernetes,6
+E02417,Negotiation,7
+E00359,SEO,9
+E00359,Content Strategy,9
+E00359,Sales,8
+E00359,Data Analysis,8
+E00359,Marketing,5
+E00359,Excel,10
+E02044,Recruiting,3
+E02044,ETL,4
+E02044,Payroll,2
+E02044,HR Management,5
+E01479,Azure,2
+E01479,SQL,1
+E01479,DevOps,6
+E01479,Network Administration,10
+E04962,Node.js,8
+E04962,FastAPI,9
+E04962,Spark,3
+E02769,SEO,3
+E02769,PostgreSQL,5
+E02769,Sales,2
+E02769,Account Management,5
+E02769,Flask,4
+E02769,CRM,3
+E03893,Spark,1
+E03893,DevOps,4
+E03893,Python,4
+E03893,System Design,5
+E03893,SQL,4
+E03893,Computer Vision,1
+E00553,Backend Development,6
+E00553,DevOps,10
+E00553,Java,10
+E03540,DevOps,6
+E03540,Python,6
+E03540,Data Analysis,5
+E03540,Network Administration,8
+E03540,Azure,2
+E03540,Cloud Architecture,4
+E03540,Cybersecurity,8
+E02769,Finance,4
+E02769,Financial Modeling,7
+E02769,Excel,5
+E02769,MongoDB,3
+E03277,Node.js,2
+E03277,SEO,5
+E03277,Data Analysis,4
+E03277,Marketing,6
+E03277,Frontend Development,5
+E03277,SQL,7
+E04194,Project Management,1
+E04194,Payroll,1
+E04194,DevOps,3
+E04194,Data Analysis,5
+E04194,Agile,5
+E04194,Flask,8
+E04194,Stakeholder Management,2
+E04194,Excel,5
+E01807,Sales,8
+E01807,Account Management,2
+E01807,Agile,6
+E01807,Marketing,9
+E01807,CRM,10
+E01807,Negotiation,1
+E01762,Spark,6
+E01762,Sales,1
+E01762,Account Management,5
+E01762,TypeScript,5
+E01762,CRM,9
+E01762,Negotiation,2
+E02632,Go,10
+E02632,Data Analysis,6
+E02632,Agile,3
+E02632,Stakeholder Management,1
+E02632,Excel,3
+E04226,Accounting,9
+E04226,DevOps,10
+E04226,Linux,9
+E04226,AWS,9
+E04226,Kubernetes,9
+E04101,Sales,6
+E04101,ETL,3
+E04101,CRM,2
+E04101,MongoDB,4
+E01981,Accounting,5
+E01981,DevOps,3
+E01981,AWS,4
+E01981,Negotiation,3
+E01981,Excel,2
+E02534,Backend Development,5
+E02534,Stakeholder Management,1
+E02534,Project Management,2
+E02534,RAG,5
+E01238,ETL,3
+E01238,NLP,5
+E01238,Sales,10
+E01238,Account Management,6
+E01238,CRM,6
+E01238,Machine Learning,3
+E01238,Negotiation,9
+E01118,HR Management,9
+E01118,Payroll,1
+E01118,Recruiting,2
+E01118,Frontend Development,4
+E01118,Azure,9
+E01118,Employee Relations,8
+E04041,HR Management,3
+E04041,DevOps,1
+E04041,Network Administration,4
+E04041,RAG,1
+E04041,AWS,5
+E04041,Cloud Architecture,2
+E04308,Django,7
+E04308,Data Analysis,4
+E04308,Frontend Development,2
+E04308,TensorFlow,8
+E04308,Linux,6
+E04308,Financial Modeling,3
+E04308,JavaScript,1
+E01052,SEO,3
+E01052,Data Analysis,2
+E01052,QA/Testing,6
+E01052,Excel,4
+E01052,Computer Vision,6
+E04165,Spark,4
+E04165,SEO,5
+E04165,Content Strategy,4
+E04165,Data Analysis,4
+E04165,TypeScript,5
+E04165,System Design,3
+E02295,Sales,1
+E02295,Negotiation,2
+E02295,Account Management,8
+E02295,Computer Vision,1
+E04546,Azure,1
+E04546,HR Management,6
+E04546,AWS,5
+E04546,Cybersecurity,4
+E04217,Backend Development,2
+E04217,Linux,7
+E04217,DevOps,8
+E04217,Cybersecurity,6
+E00650,HR Management,8
+E00650,Payroll,2
+E00650,Recruiting,10
+E00650,Employee Relations,8
+E00650,React,9
+E00650,Negotiation,9
+E00344,DevOps,1
+E00344,Agile,3
+E00344,Azure,6
+E00344,Linux,6
+E00344,Cybersecurity,10
+E04645,Node.js,6
+E04645,Spark,1
+E04645,SEO,4
+E04645,Data Analysis,4
+E04645,Marketing,4
+E03880,Project Management,6
+E03880,Data Analysis,7
+E03880,Flask,4
+E03880,Stakeholder Management,5
+E03880,Excel,5
+E02730,Node.js,9
+E02730,Spark,6
+E02730,Go,3
+E02730,FastAPI,10
+E02730,CI/CD,5
+E02730,Machine Learning,6
+E02730,TensorFlow,7
+E02730,System Design,4
+E04517,ETL,10
+E04517,SEO,9
+E04517,Content Strategy,8
+E04517,PyTorch,7
+E04517,Data Analysis,4
+E04517,Marketing,6
+E04517,SQL,2
+E00965,Backend Development,9
+E00965,DevOps,3
+E00965,AWS,10
+E00965,Machine Learning,8
+E00965,Azure,4
+E00965,Kubernetes,8
+E00965,Cloud Architecture,5
+E00965,Cybersecurity,9
+E04639,DevOps,4
+E04639,Azure,7
+E04639,Cloud Architecture,5
+E04639,Stakeholder Management,5
+E04639,Cybersecurity,3
+E00465,C#,7
+E00465,Python,7
+E00465,SQL,1
+E00465,JavaScript,4
+E00465,Excel,3
+E03058,Azure,2
+E03058,Cloud Architecture,6
+E03058,TensorFlow,10
+E02337,Project Management,2
+E02337,NLP,5
+E02337,Data Analysis,1
+E02337,Agile,7
+E02337,Frontend Development,7
+E02337,Stakeholder Management,3
+E02337,Excel,3
+E04927,Spark,2
+E04927,C#,6
+E04927,Accounting,9
+E04927,Finance,7
+E04927,Financial Modeling,8
+E04927,Excel,4
+E03799,Payroll,1
+E03799,Sales,4
+E03799,Finance,5
+E03799,Cloud Architecture,9
+E03799,Excel,7
+E04538,DevOps,4
+E04538,Network Administration,5
+E04538,QA/Testing,4
+E04538,Linux,3
+E04538,Cloud Architecture,8
+E04538,Cybersecurity,6
+E02633,ETL,10
+E02633,Sales,9
+E02633,PyTorch,6
+E02633,Account Management,8
+E02633,TypeScript,1
+E02633,CRM,1
+E02633,Negotiation,3
+E02965,Finance,2
+E02965,Accounting,5
+E02965,C++,4
+E04345,Node.js,5
+E04345,Budgeting,4
+E04345,ETL,2
+E04345,Accounting,7
+E04345,Deep Learning,6
+E04345,AWS,3
+E04345,System Design,7
+E04345,React,7
+E02895,Budgeting,3
+E02895,Finance,1
+E02895,Financial Modeling,7
+E02895,Negotiation,10
+E02895,Excel,7
+E01132,Django,8
+E01132,Backend Development,8
+E01132,Recruiting,2
+E01132,Azure,4
+E01132,Linux,4
+E00758,PostgreSQL,4
+E00758,Sales,7
+E00758,Account Management,3
+E00758,Finance,7
+E00758,Kubernetes,3
+E03750,Java,2
+E03750,Account Management,1
+E03750,Docker,8
+E03750,Frontend Development,3
+E03750,CRM,6
+E03750,Linux,7
+E03750,SQL,4
+E00144,System Design,7
+E00144,FastAPI,5
+E00144,SQL,7
+E00144,Machine Learning,6
+E02943,SEO,6
+E02943,NLP,9
+E02943,LangChain,7
+E02943,Data Analysis,3
+E03901,Payroll,5
+E03901,SEO,9
+E03901,Content Strategy,6
+E03901,Data Analysis,7
+E03901,Marketing,3
+E03901,System Design,6
+E03901,Financial Modeling,8
+E03461,Recruiting,5
+E03461,HR Management,3
+E03461,Flask,8
+E03490,Employee Relations,3
+E03490,Recruiting,2
+E03490,Payroll,6
+E03490,Financial Modeling,2
+E04466,Project Management,4
+E04466,Backend Development,10
+E04466,CRM,1
+E04466,AWS,9
+E04466,Azure,10
+E04466,Cybersecurity,3
+E03226,Budgeting,7
+E03226,Frontend Development,3
+E03226,Cloud Architecture,2
+E03226,Financial Modeling,1
+E03226,Computer Vision,1
+E04607,SEO,5
+E04607,Backend Development,2
+E04607,Data Analysis,2
+E04607,Marketing,1
+E04607,System Design,6
+E02678,DevOps,4
+E02678,Deep Learning,3
+E02678,Frontend Development,7
+E02678,RAG,7
+E02678,Machine Learning,5
+E02678,TensorFlow,3
+E02678,React,2
+E02190,FastAPI,7
+E02190,Flask,8
+E02190,Frontend Development,5
+E02190,C++,7
+E02190,TensorFlow,2
+E02190,Kubernetes,7
+E00747,Go,9
+E00747,Network Administration,2
+E00747,AWS,5
+E00747,Azure,8
+E00747,Cloud Architecture,7
+E00747,Stakeholder Management,2
+E00268,Deep Learning,1
+E00268,Frontend Development,5
+E00268,C++,4
+E01416,Project Management,6
+E01416,Data Analysis,4
+E01416,Agile,2
+E01416,Recruiting,2
+E01416,RAG,4
+E01416,Machine Learning,1
+E01416,Stakeholder Management,1
+E01524,HR Management,10
+E01524,DevOps,5
+E01524,Network Administration,2
+E01524,AWS,7
+E01524,Azure,9
+E03849,Java,7
+E03849,Python,10
+E03849,Account Management,8
+E03849,Docker,5
+E03849,REST API Design,10
+E02801,Sales,4
+E02801,Account Management,1
+E02801,CRM,4
+E04155,SEO,7
+E04155,Content Strategy,1
+E04155,Data Analysis,2
+E04155,Marketing,3
+E04155,REST API Design,3
+E01952,DevOps,8
+E01952,Flask,10
+E01952,REST API Design,10
+E01952,Network Administration,9
+E01952,AWS,5
+E01952,Azure,1
+E01952,Linux,8
+E01952,Cybersecurity,7
+E00116,Backend Development,2
+E00116,Sales,8
+E00116,Account Management,10
+E00116,Flask,6
+E00116,TypeScript,8
+E00116,CRM,7
+E00116,Negotiation,1
+E04811,Spark,8
+E04811,Backend Development,3
+E04811,Scrum,5
+E04811,Linux,7
+E04811,Cloud Architecture,7
+E04811,SQL,6
+E04811,JavaScript,8
+E00624,Docker,3
+E00624,Excel,10
+E00624,Agile,8
+E03404,Backend Development,3
+E03404,Python,2
+E03404,Data Analysis,2
+E03404,Machine Learning,5
+E03404,Kubernetes,1
+E03404,SQL,1
+E01845,Budgeting,9
+E01845,Accounting,5
+E01845,Content Strategy,3
+E01845,Deep Learning,9
+E01845,Financial Modeling,10
+E04784,Budgeting,2
+E04784,Payroll,9
+E04784,DevOps,1
+E04784,AWS,9
+E04784,Cloud Architecture,2
+E00145,Sales,6
+E00145,Account Management,6
+E00145,Network Administration,3
+E00145,CRM,2
+E00145,AWS,4
+E00145,Negotiation,8
+E00145,Computer Vision,7
+E00218,SQL,6
+E00218,Sales,7
+E00218,Negotiation,6
+E00218,CRM,4
+E02185,HR Management,1
+E02185,Payroll,8
+E02185,Spark,3
+E02185,Sales,1
+E02185,Recruiting,9
+E02185,Employee Relations,2
+E01070,DevOps,3
+E01070,Network Administration,10
+E01070,Azure,1
+E01070,Linux,9
+E01070,Cloud Architecture,5
+E01070,Negotiation,7
+E03807,SEO,9
+E03807,Content Strategy,10
+E03807,Data Analysis,10
+E03807,Kubernetes,8
+E03807,Stakeholder Management,6
+E00784,DevOps,9
+E00784,NLP,9
+E00784,AWS,5
+E00784,Cybersecurity,9
+E04925,Budgeting,5
+E04925,TensorFlow,9
+E04925,TypeScript,6
+E04925,AWS,2
+E04925,Azure,1
+E04925,Linux,2
+E04925,Cloud Architecture,8
+E04448,Budgeting,10
+E04448,Accounting,3
+E04448,Account Management,7
+E04448,Recruiting,9
+E04448,Employee Relations,4
+E04448,Excel,2
+E04817,Project Management,4
+E04817,Data Analysis,8
+E04817,Agile,2
+E04817,REST API Design,6
+E04817,Stakeholder Management,9
+E04817,Excel,7
+E00325,SEO,2
+E00325,Content Strategy,6
+E00325,Account Management,5
+E00325,Data Analysis,7
+E00325,Marketing,5
+E00325,Flask,1
+E00403,HR Management,2
+E00403,Budgeting,6
+E00403,Payroll,10
+E00403,TypeScript,5
+E00403,RAG,1
+E00436,DevOps,10
+E00436,AWS,7
+E00436,Linux,1
+E00436,Cloud Architecture,5
+E00436,Cybersecurity,5
+E04358,HR Management,10
+E04358,Payroll,8
+E04358,Tableau,6
+E04358,Recruiting,7
+E04358,MongoDB,8
+E04358,Employee Relations,10
+E04662,HR Management,7
+E04662,Payroll,4
+E04662,Project Management,7
+E04662,TypeScript,6
+E04662,Recruiting,9
+E04662,Employee Relations,1
+E04662,Stakeholder Management,8
+E01496,Azure,10
+E01496,DevOps,9
+E01496,AWS,10
+E01870,C#,1
+E01870,Finance,5
+E01870,GCP,4
+E01870,Cloud Architecture,4
+E01870,Financial Modeling,10
+E01870,Excel,8
+E03971,Content Strategy,1
+E03971,Data Analysis,3
+E03971,Marketing,4
+E03971,Cloud Architecture,2
+E03971,Cybersecurity,4
+E03616,ETL,2
+E03616,DevOps,2
+E03616,AWS,3
+E03616,Azure,1
+E03616,Linux,2
+E03616,Cybersecurity,3
+E00153,Data Engineering,2
+E00153,DevOps,4
+E00153,JavaScript,3
+E02313,RAG,5
+E02313,AWS,1
+E02313,Azure,6
+E02313,System Design,8
+E02313,Cloud Architecture,9
+E02960,Node.js,8
+E02960,Project Management,2
+E02960,Data Analysis,4
+E02960,Agile,3
+E02960,Power BI,6
+E02960,Stakeholder Management,3
+E00096,Python,1
+E00096,Account Management,1
+E00096,Docker,8
+E00096,CI/CD,5
+E00096,Machine Learning,10
+E00096,Linux,5
+E00096,JavaScript,7
+E02140,HR Management,1
+E02140,Recruiting,2
+E02140,JavaScript,5
+E00826,ETL,8
+E00826,Project Management,10
+E00826,Data Analysis,6
+E00826,Agile,1
+E00826,Kubernetes,3
+E00826,Data Engineering,1
+E00826,Excel,10
+E03881,DevOps,3
+E03881,Marketing,7
+E03881,RAG,4
+E03881,AWS,7
+E03881,Azure,5
+E03881,Linux,3
+E03881,Cybersecurity,4
+E02604,Budgeting,4
+E02604,ETL,2
+E02604,Accounting,5
+E02604,Account Management,4
+E02604,Finance,4
+E02604,System Design,8
+E02604,Financial Modeling,6
+E02604,Excel,1
+E02613,Financial Modeling,5
+E02613,Negotiation,8
+E02613,RAG,3
+E02613,CRM,4
+E00864,Budgeting,9
+E00864,DevOps,5
+E00864,Data Analysis,4
+E00864,Excel,1
+E00864,Cybersecurity,9
+E01760,Sales,5
+E01760,Account Management,4
+E01760,Marketing,4
+E01760,RAG,3
+E01760,CRM,5
+E01760,Negotiation,1
+E03223,Backend Development,1
+E03223,Network Administration,4
+E03223,AWS,7
+E03223,Linux,2
+E03223,Cloud Architecture,4
+E03223,Cybersecurity,4
+E01262,Finance,6
+E01262,Recruiting,5
+E01262,Financial Modeling,4
+E01262,Machine Learning,2
+E01075,FastAPI,2
+E01075,Finance,1
+E01075,Power BI,1
+E01075,RAG,7
+E01075,Financial Modeling,6
+E01075,Excel,2
+E00364,HR Management,4
+E00364,Payroll,4
+E00364,PostgreSQL,1
+E00364,Recruiting,5
+E00364,TensorFlow,4
+E00364,Employee Relations,2
+E00364,Cybersecurity,5
+E04108,Sales,10
+E04108,Account Management,4
+E04108,CRM,2
+E04108,C++,2
+E04108,Data Engineering,1
+E02917,Java,10
+E02917,FastAPI,8
+E02917,AWS,3
+E02917,Azure,4
+E02917,Cybersecurity,3
+E03720,Budgeting,9
+E03720,Backend Development,3
+E03720,Accounting,3
+E03720,Power BI,8
+E03720,Financial Modeling,5
+E03720,Excel,10
+E03393,Finance,4
+E03393,Accounting,4
+E03393,ETL,2
+E03393,Docker,6
+E02977,ETL,2
+E02977,SEO,8
+E02977,Content Strategy,1
+E02977,Data Analysis,8
+E02977,Marketing,4
+E02977,Azure,1
+E03371,Finance,1
+E03371,Network Administration,6
+E03371,AWS,1
+E03371,Azure,2
+E03371,Cloud Architecture,6
+E03371,Cybersecurity,1
+E02531,SEO,2
+E02531,Content Strategy,2
+E02531,Data Analysis,3
+E02531,Machine Learning,2
+E02473,Kubernetes,3
+E02473,Budgeting,1
+E02473,Python,1
+E02473,Docker,2
+E02468,SEO,3
+E02468,Content Strategy,4
+E02468,Data Analysis,4
+E02468,Marketing,9
+E02468,AWS,7
+E01499,Budgeting,3
+E01499,Tableau,2
+E01499,DevOps,3
+E01499,AWS,2
+E01499,Kubernetes,1
+E03697,Payroll,5
+E03697,Backend Development,3
+E03697,Sales,4
+E03697,Account Management,5
+E03697,Negotiation,4
+E03697,CRM,2
+E03697,React,3
+E00593,Java,4
+E00593,DevOps,7
+E00593,Network Administration,4
+E00593,AWS,5
+E00593,Azure,7
+E00593,Linux,7
+E01103,ETL,1
+E01103,DevOps,8
+E01103,Power BI,9
+E01103,Cloud Architecture,10
+E01103,Cybersecurity,6
+E03889,HR Management,2
+E03889,Recruiting,6
+E03889,Employee Relations,2
+E03889,Linux,5
+E01958,Linux,2
+E01958,DevOps,3
+E01958,Tableau,2
+E01958,Deep Learning,6
+E01870,Payroll,5
+E01870,DevOps,5
+E01870,Python,6
+E01870,AWS,7
+E01870,Azure,7
+E01167,Java,4
+E01167,Backend Development,8
+E01167,Content Strategy,8
+E01167,DevOps,6
+E01167,Kubernetes,2
+E01167,SQL,6
+E00099,Spark,1
+E00099,Backend Development,8
+E00099,DevOps,6
+E00099,AWS,6
+E00099,Azure,4
+E00099,Linux,7
+E00099,LangChain,7
+E00099,Cybersecurity,7
+E00044,DevOps,7
+E00044,QA/Testing,2
+E00044,AWS,9
+E00044,Azure,7
+E00044,Linux,4
+E00044,Cloud Architecture,8
+E00711,Budgeting,10
+E00711,Accounting,8
+E00711,Finance,1
+E00711,Employee Relations,3
+E00711,Financial Modeling,4
+E00711,Excel,2
+E04795,HR Management,7
+E04795,Payroll,7
+E04795,Python,3
+E04795,Data Analysis,2
+E04795,Recruiting,3
+E04795,Azure,7
+E04795,Employee Relations,8
+E03912,SEO,8
+E03912,Account Management,3
+E03912,Finance,10
+E03912,Data Analysis,10
+E02103,Finance,7
+E02103,HR Management,4
+E02103,Employee Relations,9
+E02103,PyTorch,6
+E04213,Project Management,5
+E04213,Data Analysis,4
+E04213,Agile,4
+E04213,CI/CD,4
+E04213,GCP,2
+E04213,Stakeholder Management,5
+E04756,Go,2
+E04756,Sales,4
+E04756,DevOps,8
+E04756,Network Administration,7
+E04756,MongoDB,9
+E04756,Cybersecurity,2
+E04114,PyTorch,8
+E04114,Network Administration,7
+E04114,AWS,6
+E04114,Linux,7
+E04114,Cloud Architecture,4
+E01423,SEO,3
+E01423,PostgreSQL,8
+E01423,DevOps,5
+E01423,REST API Design,3
+E01423,AWS,3
+E01423,Linux,1
+E01423,Cloud Architecture,10
+E01423,Cybersecurity,2
+E03181,REST API Design,6
+E03181,Deep Learning,3
+E03181,Python,4
+E03181,React,1
+E03305,TensorFlow,1
+E03305,Project Management,1
+E03305,Data Analysis,7
+E03305,Agile,4
+E00703,CI/CD,4
+E00703,Python,2
+E00703,Spark,4
+E04403,Accounting,6
+E04403,Project Management,6
+E04403,Data Analysis,9
+E04403,Agile,4
+E00103,Python,7
+E00103,Project Management,6
+E00103,Data Analysis,1
+E00103,Excel,7
+E04487,Node.js,3
+E04487,Project Management,5
+E04487,Data Analysis,4
+E04487,Agile,1
+E04487,Stakeholder Management,6
+E01194,Budgeting,1
+E01194,Accounting,5
+E01194,Finance,5
+E01194,Data Engineering,4
+E01194,Financial Modeling,4
+E01194,Excel,5
+E02179,TensorFlow,7
+E02179,HR Management,4
+E02179,Python,10
+E02179,JavaScript,2
+E04242,Backend Development,10
+E04242,PostgreSQL,8
+E04242,Deep Learning,6
+E04242,QA/Testing,3
+E04242,AWS,5
+E04242,TensorFlow,6
+E04242,Kubernetes,1
+E04242,JavaScript,9
+E01371,Employee Relations,4
+E01371,Content Strategy,10
+E01371,Marketing,7
+E03065,Node.js,2
+E03065,Deep Learning,3
+E03065,Frontend Development,10
+E03065,Machine Learning,9
+E03065,Azure,4
+E03065,Kubernetes,4
+E01377,Backend Development,4
+E01377,Docker,5
+E01377,Scrum,5
+E01377,Kubernetes,10
+E01377,SQL,8
+E03097,Node.js,9
+E03097,HR Management,10
+E03097,FastAPI,7
+E03097,Recruiting,3
+E03097,Employee Relations,8
+E01668,Budgeting,7
+E01668,Accounting,8
+E01668,Account Management,5
+E01668,GCP,8
+E01668,Linux,5
+E03354,C#,7
+E03354,Content Strategy,7
+E03354,DevOps,7
+E03354,TypeScript,6
+E03354,AWS,7
+E03354,Linux,8
+E02088,Budgeting,8
+E02088,ETL,6
+E02088,Java,1
+E02088,Accounting,7
+E02088,Account Management,7
+E02088,Finance,4
+E02088,Financial Modeling,4
+E02088,Excel,8
+E03980,Django,3
+E03980,Sales,5
+E03980,Account Management,4
+E03980,Marketing,10
+E03980,QA/Testing,10
+E03980,CRM,3
+E03980,Negotiation,1
+E00972,HR Management,4
+E00972,Payroll,3
+E00972,Recruiting,3
+E00972,Azure,5
+E00972,Employee Relations,5
+E00972,Financial Modeling,4
+E00824,SEO,1
+E00824,Content Strategy,2
+E00824,Data Analysis,4
+E00824,Marketing,1
+E00824,TypeScript,1
+E00824,MongoDB,1
+E00824,Negotiation,6
+E04359,C#,2
+E04359,DevOps,8
+E04359,Docker,10
+E04359,Network Administration,4
+E04359,Azure,3
+E03113,Data Analysis,3
+E03113,Agile,2
+E03113,Frontend Development,5
+E03113,Stakeholder Management,2
+E03113,Excel,7
+E03113,Computer Vision,2
+E01488,Sales,1
+E01488,Account Management,5
+E01488,Recruiting,1
+E01488,QA/Testing,1
+E01488,Negotiation,2
+E01787,Node.js,6
+E01787,Spark,6
+E01787,Frontend Development,4
+E01787,System Design,6
+E01787,Data Engineering,7
+E01787,JavaScript,7
+E03550,SEO,3
+E03550,Accounting,1
+E03550,Account Management,10
+E03550,Marketing,2
+E03550,JavaScript,9
+E01052,Budgeting,1
+E01052,Sales,6
+E01052,Account Management,1
+E01052,Data Analysis,6
+E01052,QA/Testing,8
+E01052,CRM,4
+E01052,Negotiation,10
+E04799,HR Management,9
+E04799,Payroll,1
+E04799,Backend Development,3
+E04799,Tableau,8
+E04799,Finance,2
+E04799,Recruiting,5
+E04799,Employee Relations,9
+E03402,SEO,3
+E03402,Docker,6
+E03402,Deep Learning,7
+E03402,Machine Learning,5
+E03402,TensorFlow,4
+E04128,Sales,1
+E04128,Account Management,3
+E04128,CRM,4
+E04128,System Design,4
+E04128,Employee Relations,5
+E04128,Negotiation,4
+E04128,Excel,2
+E00013,Accounting,2
+E00013,Docker,10
+E00013,Finance,6
+E00013,Power BI,3
+E00013,System Design,6
+E00013,Financial Modeling,7
+E00013,Excel,10
+E03114,Node.js,3
+E03114,DevOps,9
+E03114,Account Management,10
+E03114,Finance,10
+E03114,CI/CD,4
+E04004,Node.js,3
+E04004,C#,5
+E04004,SEO,3
+E04004,CI/CD,1
+E04004,AWS,6
+E04004,TensorFlow,5
+E04004,JavaScript,2
+E04472,SEO,6
+E04472,Accounting,2
+E04472,Data Analysis,6
+E04472,Marketing,2
+E00161,SEO,7
+E00161,Tableau,6
+E00161,Data Analysis,7
+E00161,Marketing,8
+E04417,HR Management,10
+E04417,Payroll,1
+E04417,Data Analysis,5
+E04417,Recruiting,8
+E04417,Employee Relations,3
+E04536,Content Strategy,10
+E04536,Python,2
+E04536,Data Analysis,3
+E04536,Stakeholder Management,7
+E04536,React,7
+E04536,Excel,3
+E02534,SEO,7
+E02534,Content Strategy,3
+E02534,Marketing,7
+E02534,Scrum,4
+E02534,Power BI,1
+E02534,Data Engineering,2
+E02857,Accounting,6
+E02857,Agile,4
+E02857,Finance,3
+E02857,SQL,1
+E02857,Financial Modeling,1
+E02857,React,1
+E03059,SEO,5
+E03059,Content Strategy,2
+E03059,Data Analysis,4
+E03059,Marketing,4
+E03059,Finance,6
+E03059,Recruiting,6
+E03059,Computer Vision,4
+E02477,Payroll,5
+E02477,DevOps,4
+E02477,Python,1
+E02477,Finance,5
+E02477,Frontend Development,5
+E02477,Tableau,5
+E00022,FastAPI,2
+E00022,Sales,1
+E00022,Accounting,3
+E00022,Account Management,10
+E00022,Data Analysis,4
+E00022,CRM,3
+E00022,Negotiation,2
+E03370,SEO,9
+E03370,Content Strategy,5
+E03370,Data Analysis,9
+E03370,Marketing,8
+E03370,Deep Learning,3
+E03370,QA/Testing,10
+E00555,Data Analysis,3
+E00555,Docker,5
+E00555,Marketing,4
+E03160,Node.js,8
+E03160,Django,2
+E03160,Backend Development,5
+E03160,Deep Learning,7
+E03160,Kubernetes,3
+E03160,React,9
+E03919,Backend Development,6
+E03919,FastAPI,7
+E03919,Docker,7
+E03919,Finance,1
+E03919,AWS,10
+E01724,Azure,6
+E01724,Spark,1
+E01724,PyTorch,3
+E01724,AWS,3
+E04087,Azure,5
+E04087,Linux,10
+E04087,Cloud Architecture,8
+E04087,Go,2
+E02856,Node.js,9
+E02856,HR Management,9
+E02856,DevOps,10
+E02856,Docker,7
+E02856,Finance,8
+E03805,Sales,6
+E03805,Account Management,4
+E03805,CRM,10
+E03805,Cloud Architecture,7
+E03805,Negotiation,8
+E00319,Backend Development,4
+E00319,Accounting,5
+E00319,DevOps,2
+E00319,QA/Testing,5
+E00319,AWS,7
+E00319,Azure,6
+E00319,Cloud Architecture,2
+E00319,Cybersecurity,2
+E01090,C#,1
+E01090,Finance,7
+E01090,Deep Learning,9
+E01090,Machine Learning,3
+E01090,Cloud Architecture,8
+E01090,JavaScript,8
+E04323,DevOps,3
+E04323,Marketing,2
+E04323,Flask,5
+E04323,Power BI,5
+E04323,Azure,1
+E04323,Linux,5
+E02687,Budgeting,2
+E02687,Spark,6
+E02687,Accounting,4
+E02687,Finance,9
+E02687,Financial Modeling,2
+E01407,HR Management,4
+E01407,Payroll,1
+E01407,Project Management,3
+E01407,Recruiting,1
+E01407,Frontend Development,5
+E01407,Employee Relations,4
+E02748,Finance,4
+E02748,Budgeting,2
+E02748,Financial Modeling,1
+E02748,Node.js,5
+E01995,Azure,7
+E01995,CI/CD,6
+E01995,Network Administration,5
+E01995,REST API Design,6
+E01714,Employee Relations,4
+E01714,Python,2
+E01714,Payroll,4
+E01714,ETL,5
+E04491,DevOps,5
+E04491,Network Administration,2
+E04491,C++,7
+E04491,Azure,8
+E04491,Linux,9
+E04491,Cybersecurity,8
+E01076,HR Management,3
+E01076,LangChain,6
+E01076,Employee Relations,9
+E04131,FastAPI,8
+E04131,Content Strategy,5
+E04131,Python,5
+E04131,Data Analysis,8
+E04131,Agile,2
+E02843,Employee Relations,7
+E02843,Stakeholder Management,4
+E02843,Payroll,8
+E03758,SEO,4
+E03758,Content Strategy,1
+E03758,Data Analysis,3
+E03758,Marketing,2
+E03758,LangChain,2
+E02063,HR Management,4
+E02063,Payroll,1
+E02063,Java,3
+E02063,Recruiting,1
+E02063,TensorFlow,3
+E02063,Employee Relations,3
+E00638,SEO,6
+E00638,TensorFlow,4
+E00638,Marketing,5
+E03571,Recruiting,1
+E03571,Data Engineering,1
+E03571,Payroll,1
+E03571,MongoDB,5
+E01820,Node.js,4
+E01820,Backend Development,1
+E01820,FastAPI,1
+E01820,Agile,2
+E01820,Kubernetes,6
+E01820,SQL,6
+E01712,SEO,9
+E01712,Content Strategy,10
+E01712,Data Analysis,6
+E01712,Marketing,5
+E01712,QA/Testing,8
+E00184,Backend Development,9
+E00184,Data Analysis,6
+E00184,Agile,6
+E00184,Network Administration,8
+E00184,Linux,2
+E00184,Excel,7
+E02706,Budgeting,1
+E02706,Accounting,10
+E02706,PostgreSQL,1
+E02706,System Design,4
+E02706,LangChain,7
+E02899,Budgeting,4
+E02899,Accounting,10
+E02899,Finance,1
+E02899,Tableau,9
+E02899,Financial Modeling,8
+E02899,Excel,9
+E02478,Sales,4
+E02478,C#,5
+E02478,CRM,1
+E04170,Linux,1
+E04170,Network Administration,1
+E04170,Go,6
+E04170,Cybersecurity,3
+E00929,Scrum,1
+E00929,AWS,3
+E00929,TensorFlow,2
+E00929,Cloud Architecture,6
+E00929,Cybersecurity,3
+E00530,Financial Modeling,10
+E00530,Negotiation,9
+E00530,Account Management,4
+E00530,Agile,8
+E03824,DevOps,8
+E03824,Network Administration,2
+E03824,Frontend Development,8
+E03824,AWS,3
+E03824,Azure,8
+E03824,Cloud Architecture,3
+E02492,Budgeting,7
+E02492,SEO,10
+E02492,Content Strategy,4
+E02492,Data Analysis,2
+E02492,Marketing,3
+E01733,Sales,2
+E01733,Account Management,1
+E01733,CRM,1
+E01733,Machine Learning,3
+E01733,React,4
+E01733,Negotiation,2
+E01733,Computer Vision,5
+E02857,Negotiation,3
+E02857,Account Management,8
+E02857,Docker,10
+E04938,SEO,9
+E04938,Content Strategy,5
+E04938,Data Analysis,2
+E04938,Marketing,9
+E04938,Computer Vision,7
+E04952,PostgreSQL,7
+E04952,Sales,2
+E04952,DevOps,8
+E04952,Account Management,3
+E04952,Frontend Development,2
+E04952,CRM,4
+E02420,SEO,2
+E02420,Content Strategy,1
+E02420,Spark,3
+E02420,Marketing,3
+E01639,Budgeting,1
+E01639,Spark,1
+E01639,Accounting,2
+E01639,Linux,2
+E01639,Finance,3
+E01639,System Design,2
+E01639,Excel,4
+E03947,Finance,7
+E03947,HR Management,6
+E03947,Budgeting,6
+E03947,Excel,8
+E04535,DevOps,7
+E04535,Agile,9
+E04535,Network Administration,10
+E04535,AWS,4
+E04535,Azure,2
+E04535,Cloud Architecture,4
+E00380,Budgeting,3
+E00380,Financial Modeling,5
+E00380,Project Management,8
+E00380,Data Analysis,3
+E01432,Django,1
+E01432,QA/Testing,2
+E01432,Azure,10
+E01432,Linux,2
+E01432,Cloud Architecture,8
+E01432,JavaScript,10
+E02628,Budgeting,3
+E02628,Content Strategy,8
+E02628,Finance,3
+E02628,AWS,9
+E02628,Excel,5
+E03578,HR Management,3
+E03578,Sales,3
+E03578,Deep Learning,1
+E03578,CRM,7
+E03578,Excel,7
+E03563,DevOps,2
+E03563,Deep Learning,4
+E03563,React,5
+E03563,HR Management,1
+E02781,Sales,7
+E02781,Stakeholder Management,3
+E02781,JavaScript,1
+E02781,Agile,6
+E04739,SEO,2
+E04739,Data Analysis,2
+E04739,Go,4
+E02665,Accounting,3
+E02665,Budgeting,1
+E02665,CI/CD,5
+E02665,Excel,5
+E04132,SEO,5
+E04132,Cloud Architecture,1
+E04132,Marketing,6
+E00276,Budgeting,3
+E00276,FastAPI,1
+E00276,Docker,7
+E00276,Power BI,8
+E00276,RAG,1
+E00276,AWS,5
+E00276,TensorFlow,3
+E00276,Kubernetes,3
+E04277,Sales,5
+E04277,Account Management,6
+E04277,CRM,10
+E04277,Data Engineering,7
+E04277,Negotiation,1
+E03890,Accounting,2
+E03890,Recruiting,8
+E03890,Network Administration,2
+E03890,QA/Testing,8
+E03890,Cybersecurity,6
+E02012,PostgreSQL,8
+E02012,Recruiting,5
+E02012,REST API Design,8
+E02012,Network Administration,3
+E02012,Azure,2
+E02012,Linux,10
+E02012,Cybersecurity,8
+E02881,Project Management,7
+E02881,NLP,9
+E02881,SEO,8
+E02881,Data Analysis,5
+E02881,Agile,1
+E02881,Stakeholder Management,10
+E02881,Excel,1
+E03750,Project Management,6
+E03750,NLP,8
+E03750,Data Analysis,8
+E03750,Agile,8
+E03750,Marketing,2
+E03750,Stakeholder Management,2
+E03750,Excel,3
+E00605,Budgeting,4
+E00605,Project Management,8
+E00605,Accounting,2
+E00605,Finance,5
+E00605,REST API Design,8
+E00605,Financial Modeling,1
+E00605,Excel,9
+E04641,Node.js,6
+E04641,Cloud Architecture,7
+E04641,DevOps,8
+E04641,Machine Learning,4
+E01019,GCP,2
+E01019,Account Management,3
+E01019,CRM,2
+E01019,Agile,5
+E01519,DevOps,5
+E01519,QA/Testing,3
+E01519,Azure,4
+E01519,Linux,6
+E01519,React,7
+E03694,Budgeting,6
+E03694,SEO,1
+E03694,Accounting,3
+E03694,Marketing,8
+E03694,Finance,3
+E03694,Employee Relations,8
+E03694,Financial Modeling,6
+E03694,Excel,2
+E01123,Project Management,2
+E01123,Payroll,4
+E01123,Data Analysis,5
+E01123,Agile,2
+E01123,Stakeholder Management,5
+E01123,Excel,4
+E01366,DevOps,3
+E01366,Data Analysis,5
+E01366,Cybersecurity,7
+E04005,Budgeting,2
+E04005,Accounting,4
+E04005,Content Strategy,4
+E04005,Finance,3
+E04005,RAG,2
+E04005,Data Engineering,5
+E04005,Financial Modeling,5
+E04005,Excel,2
+E02770,HR Management,7
+E02770,Project Management,2
+E02770,Frontend Development,8
+E02770,Machine Learning,10
+E02770,Employee Relations,9
+E04018,SEO,8
+E04018,Content Strategy,9
+E04018,DevOps,7
+E04018,Data Analysis,2
+E04018,Marketing,4
+E01591,Budgeting,5
+E01591,PostgreSQL,5
+E01591,Network Administration,7
+E01591,SQL,4
+E01591,Cybersecurity,1
+E04940,Go,7
+E04940,Sales,4
+E04940,Negotiation,7
+E04940,CRM,1
+E03465,Budgeting,2
+E03465,Payroll,10
+E03465,Java,7
+E03465,Accounting,5
+E03465,Finance,9
+E03465,LangChain,3
+E03465,Financial Modeling,6
+E03465,Excel,4
+E03870,Content Strategy,1
+E03870,DevOps,5
+E03870,Network Administration,4
+E03870,AWS,1
+E03870,System Design,6
+E03870,Azure,6
+E03870,Linux,2
+E03870,Excel,4
+E01927,TensorFlow,3
+E01927,NLP,1
+E01927,PostgreSQL,10
+E01927,Azure,2
+E01927,Cloud Architecture,2
+E01927,Cybersecurity,8
+E03064,REST API Design,3
+E03064,Sales,2
+E03064,Negotiation,4
+E03064,Account Management,1
+E01883,Cybersecurity,6
+E01883,Data Analysis,4
+E01883,Excel,7
+E01883,Agile,2
+E03984,TensorFlow,5
+E03984,Scrum,5
+E03984,Java,1
+E03984,Node.js,2
+E00446,Sales,2
+E00446,Network Administration,1
+E00446,RAG,3
+E00446,CRM,2
+E02825,SEO,5
+E02825,Kubernetes,8
+E02825,Machine Learning,8
+E02825,System Design,7
+E02825,React,9
+E02825,Excel,7
+E04174,Payroll,2
+E04174,AWS,6
+E04174,Linux,4
+E04174,Cloud Architecture,4
+E04174,Cybersecurity,4
+E01899,Content Strategy,1
+E01899,Data Analysis,9
+E01899,Marketing,5
+E01899,Network Administration,10
+E01899,Azure,7
+E02562,SEO,4
+E02562,PyTorch,6
+E02562,Data Analysis,6
+E02562,Marketing,3
+E01006,Budgeting,1
+E01006,Go,4
+E01006,Accounting,3
+E01006,Financial Modeling,5
+E01006,Excel,2
+E02903,Spark,3
+E02903,Flask,2
+E02903,Recruiting,2
+E02903,AWS,1
+E02903,Azure,4
+E02903,Linux,4
+E02903,Cloud Architecture,1
+E03642,Project Management,10
+E03642,Data Analysis,1
+E03642,Agile,8
+E03642,Machine Learning,5
+E03642,Stakeholder Management,3
+E03642,Negotiation,7
+E02884,Employee Relations,8
+E02884,Payroll,2
+E02884,PyTorch,7
+E00701,Payroll,6
+E00701,Recruiting,4
+E00701,MongoDB,4
+E00701,TensorFlow,7
+E00701,JavaScript,6
+E04720,Finance,1
+E04720,Python,2
+E04720,SQL,1
+E01985,Sales,1
+E01985,Account Management,2
+E01985,Network Administration,1
+E01985,Employee Relations,5
+E01985,Negotiation,2
+E03273,LangChain,6
+E03273,Sales,3
+E03273,Account Management,10
+E03273,CRM,7
+E02415,NLP,5
+E02415,DevOps,5
+E02415,Account Management,2
+E02415,Flask,6
+E02415,CRM,9
+E02415,Negotiation,4
+E02877,Node.js,4
+E02877,Django,8
+E02877,Python,2
+E02877,Machine Learning,6
+E02877,TensorFlow,4
+E02877,Kubernetes,10
+E02877,Financial Modeling,9
+E00091,Accounting,8
+E00091,QA/Testing,10
+E00091,React,9
+E00091,Excel,4
+E02563,Content Strategy,1
+E02563,Excel,2
+E02563,Agile,1
+E04221,Budgeting,7
+E04221,Accounting,9
+E04221,Finance,7
+E04221,AWS,9
+E04221,Kubernetes,6
+E04221,Financial Modeling,1
+E04221,Excel,8
+E04887,Sales,5
+E04887,Negotiation,8
+E04887,Excel,7
+E04887,GCP,2
+E03170,Tableau,5
+E03170,Sales,4
+E03170,Account Management,2
+E01636,Accounting,5
+E01636,Content Strategy,8
+E01636,Data Analysis,4
+E01636,Marketing,3
+E01636,Network Administration,4
+E01636,Negotiation,6
+E01387,PyTorch,6
+E01387,Docker,8
+E01387,Network Administration,3
+E01387,AWS,1
+E01387,Azure,8
+E01387,Kubernetes,7
+E01387,Cloud Architecture,6
+E01387,Cybersecurity,1
+E01363,Excel,8
+E01363,Python,4
+E01363,AWS,8
+E01363,Cybersecurity,2
+E02249,Budgeting,6
+E02249,Accounting,3
+E02249,Finance,4
+E02249,MongoDB,4
+E02249,Excel,6
+E02987,Network Administration,8
+E02987,Frontend Development,2
+E02987,AWS,5
+E02987,Azure,9
+E02987,Linux,1
+E02987,Cloud Architecture,3
+E02987,Financial Modeling,7
+E02987,Cybersecurity,4
+E03655,SEO,4
+E03655,Content Strategy,6
+E03655,Data Analysis,1
+E03655,Marketing,3
+E03655,Cloud Architecture,6
+E04048,Django,8
+E04048,Payroll,10
+E04048,Network Administration,6
+E04048,RAG,5
+E04048,AWS,2
+E04048,Linux,1
+E04048,Cybersecurity,8
+E03626,DevOps,5
+E03626,PyTorch,1
+E03626,Data Analysis,8
+E03626,Network Administration,1
+E03626,AWS,4
+E03626,Cybersecurity,5
+E03694,Project Management,3
+E03694,Agile,6
+E03694,Linux,5
+E03694,Stakeholder Management,9
+E03694,Excel,9
+E02920,HR Management,4
+E02920,Payroll,3
+E02920,Recruiting,2
+E02920,Deep Learning,4
+E02920,Employee Relations,4
+E03220,Project Management,5
+E03220,Data Analysis,5
+E03220,Docker,2
+E03220,Tableau,5
+E03220,Excel,8
+E01347,Spark,4
+E01347,SEO,4
+E01347,FastAPI,4
+E01347,Content Strategy,4
+E01347,Data Analysis,1
+E01347,Marketing,5
+E03968,SEO,5
+E03968,CI/CD,5
+E03968,Content Strategy,3
+E03968,Payroll,2
+E04299,Employee Relations,2
+E04299,Payroll,6
+E04299,SQL,10
+E04299,HR Management,2
+E01150,Sales,2
+E01150,Account Management,6
+E01150,Recruiting,6
+E01150,REST API Design,2
+E01150,CRM,3
+E01150,LangChain,6
+E01150,Negotiation,3
+E03774,Project Management,2
+E03774,SEO,9
+E03774,Content Strategy,2
+E03774,Data Analysis,4
+E03774,Marketing,4
+E01638,Budgeting,4
+E01638,Accounting,9
+E01638,Finance,5
+E01638,GCP,10
+E01638,Employee Relations,8
+E01638,Financial Modeling,10
+E01638,Excel,2
+E01877,Agile,8
+E01877,Stakeholder Management,6
+E01877,Negotiation,5
+E01877,Excel,7
+E01877,Computer Vision,7
+E01193,Finance,4
+E01193,Accounting,1
+E01193,Budgeting,5
+E01193,Tableau,3
+E01789,Sales,4
+E01789,Content Strategy,3
+E01789,Account Management,1
+E01789,Network Administration,2
+E01789,CRM,3
+E01422,ETL,4
+E01422,SEO,6
+E01422,Data Analysis,2
+E01422,Marketing,3
+E01422,Power BI,6
+E00440,Budgeting,10
+E00440,Data Analysis,6
+E00440,Finance,10
+E00440,Power BI,10
+E00440,QA/Testing,7
+E00440,Excel,2
+E00145,Java,6
+E00145,Project Management,4
+E00145,Data Analysis,3
+E00145,Excel,7
+E04150,Project Management,2
+E04150,Data Analysis,8
+E04150,Agile,6
+E04150,Network Administration,10
+E04150,Stakeholder Management,1
+E04150,Excel,3
+E02846,SEO,4
+E02846,PostgreSQL,4
+E02846,Content Strategy,3
+E02846,Data Analysis,7
+E02846,Marketing,9
+E02846,CRM,4
+E04247,SEO,7
+E04247,Content Strategy,10
+E04247,Data Analysis,9
+E04247,Marketing,2
+E04247,React,6
+E02613,Content Strategy,9
+E02613,Spark,3
+E02613,Data Analysis,2
+E02613,Agile,8
+E03349,Project Management,5
+E03349,Data Analysis,5
+E03349,Agile,7
+E03349,Financial Modeling,6
+E03349,Stakeholder Management,2
+E03349,Excel,3
+E03648,Sales,3
+E03648,Account Management,6
+E03648,Flask,1
+E03648,CRM,1
+E03648,System Design,3
+E03648,Cloud Architecture,4
+E03648,Negotiation,3
+E02192,ETL,1
+E02192,DevOps,4
+E02192,Marketing,8
+E02192,Network Administration,2
+E02192,Employee Relations,10
+E03981,Java,5
+E03981,CI/CD,1
+E03981,Deep Learning,2
+E03981,AWS,1
+E03981,Cloud Architecture,8
+E03262,Data Analysis,10
+E03262,Go,7
+E03262,Marketing,1
+E02716,SEO,10
+E02716,Network Administration,6
+E02716,Marketing,6
+E00245,Power BI,1
+E00245,Sales,4
+E00245,CRM,7
+E04123,Azure,8
+E04123,Linux,3
+E04123,LangChain,5
+E04123,DevOps,1
+E03471,HR Management,4
+E03471,Payroll,8
+E03471,C#,6
+E03471,Recruiting,4
+E03471,QA/Testing,8
+E03471,Employee Relations,5
+E00717,Employee Relations,7
+E00717,ETL,10
+E00717,Payroll,8
+E00717,HR Management,5
+E01966,Backend Development,6
+E01966,Power BI,3
+E01966,RAG,1
+E01966,Kubernetes,4
+E01966,SQL,8
+E01966,JavaScript,8
+E03683,SEO,1
+E03683,Content Strategy,1
+E03683,Finance,3
+E03683,MongoDB,7
+E03683,React,5
+E03694,Tableau,6
+E03694,Network Administration,1
+E03694,Deep Learning,10
+E03694,Azure,6
+E03694,Linux,5
+E03694,Cloud Architecture,10
+E03694,Cybersecurity,4
+E04766,Project Management,10
+E04766,FastAPI,9
+E04766,Data Analysis,5
+E04766,Agile,3
+E04766,Flask,7
+E04766,Power BI,8
+E04766,Stakeholder Management,4
+E04766,Excel,3
+E01465,Project Management,1
+E01465,Data Analysis,10
+E01465,Agile,5
+E01465,Power BI,6
+E01465,TypeScript,5
+E01465,Excel,5
+E00206,Budgeting,1
+E00206,Accounting,8
+E00206,FastAPI,1
+E00206,Financial Modeling,6
+E00206,Excel,8
+E04088,Budgeting,5
+E04088,Accounting,5
+E04088,Finance,8
+E04088,Linux,3
+E04088,Excel,4
+E02066,HR Management,10
+E02066,Java,6
+E02066,FastAPI,1
+E02066,Employee Relations,9
+E02066,Financial Modeling,4
+E03227,PostgreSQL,2
+E03227,DevOps,9
+E03227,Computer Vision,8
+E03227,Azure,2
+E03227,Linux,9
+E03227,JavaScript,2
+E03227,Cybersecurity,4
+E03364,CI/CD,6
+E03364,JavaScript,6
+E03364,Machine Learning,6
+E00607,Content Strategy,4
+E00607,Marketing,6
+E00607,Machine Learning,9
+E00607,Excel,9
+E00607,Computer Vision,10
+E02258,Tableau,9
+E02258,DevOps,7
+E02258,Agile,9
+E02258,AWS,2
+E02258,CRM,9
+E02258,Azure,1
+E02258,Linux,10
+E02258,Cloud Architecture,8
+E03681,Payroll,4
+E03681,Recruiting,6
+E03681,CI/CD,4
+E03681,RAG,3
+E03681,CRM,1
+E03681,Employee Relations,3
+E02298,Accounting,9
+E02298,Cloud Architecture,4
+E02298,CI/CD,7
+E02298,Linux,10
+E02298,LangChain,3
+E02298,SQL,10
+E02984,Payroll,3
+E02984,SEO,8
+E02984,Content Strategy,1
+E02984,Data Analysis,3
+E02984,Docker,2
+E02984,Network Administration,7
+E02440,Cloud Architecture,3
+E02440,DevOps,2
+E02440,Negotiation,3
+E04699,Node.js,1
+E04699,Backend Development,2
+E04699,Content Strategy,6
+E04699,RAG,8
+E04699,TensorFlow,7
+E04699,Stakeholder Management,8
+E04699,JavaScript,7
+E03579,SEO,6
+E03579,Content Strategy,8
+E03579,Data Analysis,3
+E03579,Marketing,9
+E03579,Flask,10
+E03579,Stakeholder Management,5
+E03579,JavaScript,2
+E01649,DevOps,4
+E01649,Deep Learning,7
+E01649,Azure,9
+E01649,Linux,5
+E01649,Cloud Architecture,6
+E01649,Cybersecurity,2
+E04969,Docker,4
+E04969,QA/Testing,5
+E04969,Employee Relations,3
+E04969,AWS,2
+E04969,Linux,4
+E04969,SQL,9
+E04969,JavaScript,9
+E04969,Computer Vision,3
+E00170,PostgreSQL,10
+E00170,Sales,7
+E00170,Account Management,8
+E00170,CRM,9
+E00170,Kubernetes,3
+E00170,Negotiation,8
+E00955,TensorFlow,4
+E00955,FastAPI,2
+E00955,React,6
+E00955,HR Management,3
+E00810,HR Management,4
+E00810,Payroll,9
+E00810,Data Analysis,1
+E00810,Finance,1
+E00810,Recruiting,4
+E00810,C++,3
+E00810,Employee Relations,10
+E02798,HR Management,7
+E02798,DevOps,2
+E02798,Python,8
+E02798,CI/CD,9
+E02798,Network Administration,10
+E02798,Azure,4
+E02798,Linux,3
+E02798,Cybersecurity,1
+E04542,Budgeting,3
+E04542,Content Strategy,4
+E04542,DevOps,4
+E04542,Data Analysis,4
+E04542,Marketing,5
+E02818,Stakeholder Management,7
+E02818,Negotiation,2
+E02818,Account Management,3
+E02818,CRM,8
+E02907,Budgeting,4
+E02907,Java,7
+E02907,Accounting,1
+E02907,Finance,9
+E02907,Financial Modeling,6
+E02907,SQL,5
+E02907,Excel,6
+E00023,Node.js,10
+E00023,Django,3
+E00023,CI/CD,9
+E00023,Machine Learning,4
+E00023,JavaScript,2
+E02391,HR Management,2
+E02391,Payroll,2
+E02391,Spark,7
+E02391,C#,5
+E02391,Kubernetes,4
+E02391,Recruiting,7
+E02391,Employee Relations,6
+E01429,DevOps,9
+E01429,Recruiting,2
+E01429,Network Administration,9
+E01429,AWS,7
+E01429,Linux,8
+E01429,Cloud Architecture,1
+E00494,Node.js,3
+E00494,Sales,5
+E00494,DevOps,2
+E00494,Linux,2
+E00494,Cybersecurity,2
+E00634,Django,4
+E00634,Sales,2
+E00634,Account Management,5
+E00634,Negotiation,8
+E00634,CRM,7
+E00634,SQL,5
+E01249,Project Management,9
+E01249,Spark,2
+E01249,Agile,8
+E01249,System Design,4
+E01249,JavaScript,10
+E01249,Excel,1
+E04683,TensorFlow,4
+E04683,Deep Learning,5
+E04683,Docker,2
+E04683,Cybersecurity,1
+E04732,SEO,6
+E04732,Data Analysis,3
+E04732,Linux,1
+E04732,Cloud Architecture,6
+E04732,Cybersecurity,10
+E03834,Node.js,2
+E03834,Go,2
+E03834,Backend Development,7
+E03834,FastAPI,2
+E03834,Frontend Development,7
+E03834,SQL,3
+E03834,Excel,1
+E02923,Project Management,9
+E02923,Agile,8
+E02923,REST API Design,3
+E02923,Azure,9
+E02923,Stakeholder Management,7
+E02642,HR Management,5
+E02642,Payroll,6
+E02642,PostgreSQL,2
+E02642,Recruiting,7
+E02642,Employee Relations,5
+E00981,Budgeting,1
+E00981,SEO,6
+E00981,DevOps,7
+E00981,Network Administration,3
+E00981,AWS,3
+E00981,C++,8
+E00981,Azure,2
+E04157,SEO,8
+E04157,Content Strategy,6
+E04157,C#,2
+E03528,HR Management,6
+E03528,Go,1
+E03528,DevOps,4
+E03528,Recruiting,5
+E03528,Cybersecurity,5
+E04547,SEO,4
+E04547,Linux,5
+E04547,Network Administration,3
+E04547,AWS,5
+E04415,Project Management,4
+E04415,Python,4
+E04415,Data Analysis,2
+E04415,Agile,10
+E04415,Stakeholder Management,3
+E04415,Excel,3
+E04484,Backend Development,8
+E04484,FastAPI,6
+E04484,Sales,5
+E04484,AWS,9
+E02800,Budgeting,6
+E02800,Account Management,2
+E02800,CRM,4
+E02800,MongoDB,3
+E02800,Negotiation,5
+E04926,Backend Development,6
+E04926,Kubernetes,8
+E04926,Docker,6
+E04926,Machine Learning,7
+E04926,TensorFlow,4
+E04926,System Design,10
+E04926,React,9
+E04926,JavaScript,4
+E01268,HR Management,1
+E01268,Payroll,10
+E01268,Java,5
+E01268,Recruiting,1
+E01268,Employee Relations,5
+E01268,Cloud Architecture,8
+E04853,Payroll,5
+E04853,Sales,1
+E04853,Account Management,1
+E04853,Scrum,3
+E04853,Network Administration,1
+E04853,CRM,5
+E04853,Negotiation,2
+E01209,Payroll,9
+E01209,Data Analysis,5
+E01209,TensorFlow,4
+E01209,Employee Relations,10
+E01209,Computer Vision,1
+E02024,Sales,4
+E02024,PyTorch,9
+E02024,Account Management,3
+E02024,CRM,5
+E02024,TensorFlow,2
+E02024,Stakeholder Management,3
+E02024,Negotiation,8
+E02427,Accounting,1
+E02427,Sales,5
+E02427,Content Strategy,5
+E02427,Account Management,6
+E02427,Cloud Architecture,2
+E00276,HR Management,2
+E00276,Payroll,3
+E00276,Account Management,6
+E00276,Recruiting,10
+E00276,Employee Relations,1
+E00951,HR Management,2
+E00951,Budgeting,2
+E00951,Payroll,3
+E00951,Sales,1
+E00951,Employee Relations,4
+E03248,DevOps,5
+E03248,Network Administration,5
+E03248,GCP,8
+E03248,Cybersecurity,5
+E04444,Accounting,1
+E04444,Docker,10
+E04444,AWS,7
+E04444,Azure,3
+E04444,Cloud Architecture,9
+E04444,Negotiation,10
+E04444,Cybersecurity,4
+E02307,Kubernetes,5
+E02307,Django,1
+E02307,Stakeholder Management,2
+E02307,Excel,9
+E02375,Budgeting,6
+E02375,Finance,1
+E02375,Financial Modeling,3
+E02375,Negotiation,7
+E02375,Excel,8
+E02375,Computer Vision,6
+E02276,Python,8
+E02276,Docker,10
+E02276,Finance,10
+E02276,Linux,7
+E02276,Stakeholder Management,7
+E02649,Backend Development,7
+E02649,SQL,5
+E02649,Node.js,7
+E00503,Payroll,10
+E00503,Docker,3
+E00503,C++,3
+E00503,Employee Relations,6
+E00503,Cloud Architecture,1
+E01706,Java,1
+E01706,FastAPI,3
+E01706,DevOps,4
+E01706,Linux,3
+E00676,HR Management,3
+E00676,Budgeting,1
+E00676,Go,4
+E00676,Content Strategy,2
+E00676,Recruiting,3
+E02005,DevOps,2
+E02005,Marketing,7
+E02005,Azure,3
+E02005,Cloud Architecture,6
+E02005,SQL,3
+E01895,Marketing,1
+E01895,Power BI,2
+E01895,QA/Testing,5
+E01895,Cloud Architecture,2
+E01895,Cybersecurity,2
+E01396,Stakeholder Management,4
+E01396,Deep Learning,5
+E01396,Docker,7
+E01396,Excel,2
+E00749,Linux,7
+E00749,Negotiation,3
+E00749,Account Management,3
+E00749,CRM,7
+E01941,Azure,6
+E01941,Sales,3
+E01941,Negotiation,10
+E01941,CRM,9
+E01413,HR Management,2
+E01413,Sales,10
+E01413,Agile,8
+E01413,CRM,9
+E01413,Negotiation,6
+E03928,Linux,10
+E03928,Cloud Architecture,5
+E03928,Network Administration,4
+E03928,Frontend Development,9
+E04109,Account Management,5
+E04109,AWS,1
+E04109,Azure,9
+E04109,Linux,5
+E04109,React,3
+E04109,Cybersecurity,5
+E03994,FastAPI,7
+E03994,Content Strategy,4
+E03994,Deep Learning,3
+E03994,TensorFlow,2
+E03994,Tableau,2
+E00639,Go,8
+E00639,Finance,1
+E00639,Network Administration,2
+E00639,AWS,6
+E00639,Azure,6
+E00639,Cloud Architecture,1
+E00639,Excel,3
+E00608,DevOps,6
+E00608,Python,3
+E00608,CI/CD,6
+E00608,QA/Testing,6
+E00608,JavaScript,6
+E04189,DevOps,9
+E04189,Data Analysis,9
+E04189,Agile,4
+E04189,Network Administration,1
+E04189,SQL,6
+E02732,SEO,7
+E02732,PostgreSQL,4
+E02732,Content Strategy,1
+E02732,Python,7
+E02732,Data Analysis,3
+E02732,Marketing,5
+E02732,SQL,5
+E00324,Budgeting,8
+E00324,Project Management,10
+E00324,Accounting,7
+E00324,Account Management,10
+E00324,Finance,6
+E00324,Employee Relations,9
+E00324,Excel,7
+E00518,Budgeting,3
+E00518,C#,7
+E00518,Accounting,5
+E00518,Financial Modeling,7
+E00518,Excel,1
+E01286,HR Management,6
+E01286,SEO,8
+E01286,PostgreSQL,8
+E01286,Recruiting,1
+E01286,Employee Relations,3
+E04564,Payroll,9
+E04564,CI/CD,3
+E04564,REST API Design,7
+E04564,Employee Relations,10
+E04564,React,2
+E02033,Budgeting,2
+E02033,Financial Modeling,4
+E02033,Excel,5
+E00412,Sales,6
+E00412,Account Management,9
+E00412,Network Administration,9
+E00412,QA/Testing,9
+E00412,CRM,7
+E00412,Negotiation,4
+E01844,Budgeting,8
+E01844,Accounting,3
+E01844,Content Strategy,2
+E01844,Finance,7
+E01844,Data Engineering,10
+E01844,Financial Modeling,7
+E01844,Excel,7
+E01844,Cybersecurity,7
+E00667,Scrum,3
+E00667,CI/CD,10
+E00667,Python,8
+E00667,SQL,2
+E02639,Budgeting,8
+E02639,Financial Modeling,4
+E02639,GCP,6
+E02639,Excel,3
+E00287,Budgeting,8
+E00287,Accounting,2
+E00287,Finance,1
+E00287,CI/CD,1
+E00287,Financial Modeling,7
+E00287,Excel,9
+E02235,HR Management,1
+E02235,Budgeting,5
+E02235,Payroll,7
+E02235,Account Management,1
+E02235,Recruiting,6
+E02235,Employee Relations,7
+E02720,Sales,6
+E02720,Account Management,3
+E02720,TypeScript,4
+E02720,Stakeholder Management,8
+E02720,Negotiation,4
+E03583,DevOps,8
+E03583,REST API Design,5
+E03583,Network Administration,10
+E03583,AWS,5
+E03583,Azure,10
+E03583,Employee Relations,1
+E03583,React,3
+E03583,Cybersecurity,3
+E01188,Payroll,5
+E01188,FastAPI,3
+E01188,Recruiting,3
+E01188,Employee Relations,3
+E01188,Negotiation,10
+E02428,Python,9
+E02428,Network Administration,9
+E02428,AWS,7
+E02428,React,8
+E02428,SQL,10
+E02428,Cybersecurity,3
+E03289,Project Management,7
+E03289,Data Analysis,1
+E03289,Agile,2
+E03289,REST API Design,6
+E03289,GCP,4
+E03289,Frontend Development,5
+E03289,Stakeholder Management,4
+E01947,Budgeting,9
+E01947,Accounting,4
+E01947,Python,4
+E01947,Agile,6
+E01947,Frontend Development,1
+E01947,Financial Modeling,7
+E02024,Deep Learning,5
+E02024,React,5
+E02024,Flask,2
+E04249,Scrum,3
+E04249,Project Management,5
+E04249,Excel,3
+E04249,Agile,1
+E01090,HR Management,8
+E01090,Sales,2
+E01090,Flask,9
+E01090,Power BI,1
+E01090,CRM,6
+E03830,Linux,9
+E03830,Cloud Architecture,10
+E03830,Docker,4
+E03830,Computer Vision,10
+E04363,Node.js,10
+E04363,Payroll,5
+E04363,SEO,8
+E04363,Content Strategy,3
+E04363,Data Analysis,6
+E04363,Marketing,9
+E04920,HR Management,1
+E04920,Payroll,6
+E04920,Recruiting,9
+E04920,REST API Design,8
+E04920,Employee Relations,8
+E03866,Go,3
+E03866,SEO,4
+E03866,Data Analysis,2
+E03866,Finance,4
+E03866,CRM,4
+E03521,Sales,4
+E03521,Account Management,2
+E03521,Docker,2
+E03521,CRM,5
+E03521,Negotiation,6
+E04095,Project Management,3
+E04095,Data Analysis,3
+E04095,Agile,2
+E04095,REST API Design,3
+E04095,QA/Testing,3
+E04095,Stakeholder Management,6
+E04095,Excel,3
+E04079,System Design,7
+E04079,Cloud Architecture,6
+E04079,DevOps,3
+E01508,Node.js,9
+E01508,Spark,4
+E01508,Project Management,4
+E01508,Python,10
+E01508,DevOps,9
+E01508,CI/CD,8
+E02259,Budgeting,5
+E02259,Accounting,5
+E02259,Finance,4
+E02259,Financial Modeling,1
+E02259,SQL,1
+E02259,Excel,1
+E04972,Finance,3
+E04972,Network Administration,5
+E04972,AWS,4
+E04972,Azure,9
+E04972,Linux,2
+E04972,Cloud Architecture,8
+E04972,Cybersecurity,4
+E01834,SEO,6
+E01834,Account Management,8
+E01834,Network Administration,4
+E01834,Linux,3
+E01834,Data Engineering,6
+E03124,Node.js,8
+E03124,FastAPI,1
+E03124,Content Strategy,9
+E03124,Data Analysis,1
+E03124,Marketing,9
+E03124,TypeScript,6
+E01898,Spark,1
+E01898,DevOps,5
+E01898,PyTorch,1
+E01898,AWS,5
+E01898,Cloud Architecture,1
+E01898,Stakeholder Management,5
+E01898,Cybersecurity,2
+E00342,Accounting,3
+E00342,FastAPI,6
+E00342,Finance,2
+E00342,Network Administration,3
+E00342,Financial Modeling,10
+E03910,Node.js,5
+E03910,HR Management,4
+E03910,Payroll,6
+E03910,Recruiting,9
+E03910,AWS,8
+E03910,Employee Relations,4
+E00862,DevOps,2
+E00862,Linux,5
+E00862,Deep Learning,3
+E00862,AWS,1
+E00862,System Design,3
+E00862,Financial Modeling,3
+E02576,Cloud Architecture,6
+E02576,Network Administration,1
+E02576,Content Strategy,3
+E02576,Cybersecurity,8
+E00035,TensorFlow,8
+E00035,DevOps,8
+E00035,Azure,7
+E00035,Cloud Architecture,4
+E00035,JavaScript,4
+E01832,Budgeting,7
+E01832,ETL,4
+E01832,Data Analysis,4
+E01832,Marketing,2
+E01832,Finance,9
+E01832,Financial Modeling,6
+E01755,Finance,7
+E01755,Budgeting,5
+E01755,PyTorch,4
+E01755,Excel,2
+E00465,Power BI,1
+E00465,DevOps,3
+E00465,Network Administration,9
+E02391,Spark,7
+E02391,Project Management,3
+E02391,PostgreSQL,7
+E02391,CRM,3
+E02391,Negotiation,3
+E04697,DevOps,4
+E04697,Network Administration,5
+E04697,Java,7
+E00371,Sales,9
+E00371,Python,3
+E00371,CI/CD,3
+E00371,AWS,2
+E00371,Machine Learning,1
+E00371,Employee Relations,6
+E00371,React,4
+E02992,SEO,9
+E02992,Budgeting,8
+E02992,Network Administration,3
+E02992,Data Analysis,10
+E04369,Node.js,2
+E04369,Negotiation,8
+E04369,Frontend Development,8
+E04369,AWS,4
+E04369,System Design,3
+E04369,Stakeholder Management,4
+E04369,React,3
+E00592,Azure,2
+E00592,Cloud Architecture,4
+E00592,Financial Modeling,4
+E00592,Agile,5
+E03532,Backend Development,3
+E03532,DevOps,1
+E03532,Flask,7
+E03532,TypeScript,1
+E03532,Deep Learning,4
+E03532,Frontend Development,3
+E03532,React,1
+E00863,Node.js,4
+E00863,DevOps,10
+E00863,Python,7
+E00863,C++,8
+E00863,Financial Modeling,4
+E00863,React,8
+E03310,Node.js,8
+E03310,Payroll,2
+E03310,Backend Development,6
+E03310,Docker,9
+E03310,React,5
+E03310,Excel,2
+E01883,SEO,6
+E01883,Cybersecurity,5
+E01883,Data Analysis,8
+E01883,Marketing,7
+E01242,Backend Development,2
+E01242,Kubernetes,1
+E01242,DevOps,2
+E01242,Accounting,3
+E02535,FastAPI,4
+E02535,Sales,3
+E02535,Docker,7
+E02535,GCP,4
+E02535,TensorFlow,5
+E02535,Financial Modeling,1
+E00369,HR Management,4
+E00369,Payroll,10
+E00369,Go,10
+E00369,Recruiting,2
+E00369,MongoDB,1
+E00369,Employee Relations,7
+E00369,Stakeholder Management,3
+E03332,DevOps,3
+E03332,Network Administration,1
+E03332,AWS,2
+E03332,Cloud Architecture,3
+E03332,SQL,2
+E03332,Cybersecurity,4
+E03278,Data Engineering,1
+E03278,PostgreSQL,2
+E03278,Content Strategy,9
+E03278,DevOps,5
+E03278,Network Administration,9
+E03278,Cloud Architecture,2
+E02492,Recruiting,5
+E02492,React,2
+E02492,Payroll,8
+E03055,Finance,8
+E03055,Budgeting,7
+E03055,Financial Modeling,7
+E01943,ETL,2
+E01943,Sales,1
+E01943,Account Management,2
+E01943,CRM,8
+E01943,Linux,4
+E01943,Financial Modeling,10
+E01943,Negotiation,8
+E01388,HR Management,2
+E01388,Payroll,10
+E01388,Recruiting,2
+E01388,Employee Relations,10
+E01388,Excel,2
+E00717,Project Management,8
+E00717,Agile,8
+E00717,Finance,10
+E00717,Stakeholder Management,9
+E00717,Negotiation,1
+E00717,Excel,7
+E04637,ETL,6
+E04637,Accounting,6
+E04637,Sales,4
+E04637,Account Management,5
+E04637,CRM,8
+E03240,Node.js,3
+E03240,HR Management,8
+E03240,DevOps,2
+E03240,Network Administration,6
+E03240,Azure,6
+E03240,React,10
+E03240,Cybersecurity,9
+E00340,HR Management,7
+E00340,Payroll,4
+E00340,Agile,5
+E00340,Recruiting,8
+E00340,REST API Design,6
+E00340,GCP,6
+E00340,Employee Relations,8
+E04751,Backend Development,2
+E04751,DevOps,2
+E04751,PyTorch,10
+E04751,Docker,7
+E04751,Marketing,5
+E04751,Kubernetes,3
+E04751,JavaScript,6
+E04636,Sales,5
+E04636,Account Management,2
+E04636,CI/CD,3
+E04636,CRM,1
+E04636,Negotiation,4
+E00568,Kubernetes,1
+E00568,Account Management,3
+E00568,AWS,2
+E00568,CRM,1
+E00568,Employee Relations,5
+E02938,SEO,5
+E02938,Accounting,7
+E02938,Content Strategy,6
+E02938,Data Analysis,6
+E02938,Marketing,4
+E02938,Finance,6
+E02938,React,9
+E00555,ETL,10
+E00555,Employee Relations,4
+E00555,AWS,6
+E00555,Linux,9
+E00555,Cloud Architecture,4
+E00555,Computer Vision,8
+E01111,HR Management,1
+E01111,Payroll,6
+E01111,Go,8
+E01111,FastAPI,3
+E01111,Scrum,2
+E01111,Employee Relations,6
+E03149,SEO,2
+E03149,Recruiting,4
+E03149,AWS,2
+E03149,Azure,4
+E03149,Linux,3
+E03149,Cloud Architecture,5
+E00952,FastAPI,2
+E00952,Python,10
+E00952,Machine Learning,2
+E00952,Employee Relations,9
+E00952,JavaScript,7
+E04380,Spark,1
+E04380,NLP,4
+E04380,RAG,5
+E04380,Azure,6
+E04380,Linux,6
+E04380,Cloud Architecture,4
+E04095,Java,3
+E04095,NLP,5
+E04095,SEO,7
+E04095,Content Strategy,4
+E04095,Data Analysis,4
+E04994,Spark,1
+E04994,Project Management,9
+E04994,Azure,1
+E04994,Stakeholder Management,1
+E04994,Computer Vision,6
+E00447,SEO,3
+E00447,Content Strategy,10
+E00447,Data Analysis,6
+E00447,Marketing,10
+E00447,Network Administration,3
+E00089,HR Management,10
+E00089,Payroll,9
+E00089,Sales,3
+E00089,Recruiting,2
+E00089,GCP,8
+E00089,Employee Relations,4
+E02035,DevOps,3
+E02035,TypeScript,4
+E02035,Network Administration,8
+E02035,AWS,4
+E02035,Linux,7
+E02035,Cloud Architecture,1
+E03595,CRM,6
+E03595,DevOps,3
+E03595,AWS,5
+E03611,Sales,1
+E03611,Account Management,4
+E03611,REST API Design,1
+E03611,CRM,3
+E03611,Negotiation,5
+E04464,Backend Development,2
+E04464,Cloud Architecture,5
+E04464,Machine Learning,3
+E02135,Django,9
+E02135,Content Strategy,9
+E02135,AWS,3
+E02135,Linux,9
+E02135,Financial Modeling,6
+E02135,Cybersecurity,1
+E01684,Sales,1
+E01684,Python,4
+E01684,Deep Learning,2
+E01684,System Design,6
+E01684,TensorFlow,1
+E01684,Kubernetes,3
+E01684,Stakeholder Management,1
+E02968,Budgeting,3
+E02968,Sales,4
+E02968,Agile,6
+E02968,Finance,5
+E02968,CI/CD,6
+E02968,Financial Modeling,6
+E02968,Excel,3
+E03362,HR Management,1
+E03362,Linux,7
+E03362,Recruiting,1
+E03362,Employee Relations,8
+E03362,Excel,3
+E01108,Data Analysis,6
+E01108,Go,3
+E01108,Marketing,5
+E02217,LangChain,9
+E02217,Linux,1
+E02217,Cloud Architecture,8
+E02217,AWS,8
+E03519,Cloud Architecture,2
+E03519,DevOps,4
+E03519,NLP,7
+E01967,Tableau,1
+E01967,Deep Learning,3
+E01967,Negotiation,6
+E01967,CRM,5
+E01125,Cloud Architecture,5
+E01125,DevOps,2
+E01125,Frontend Development,4
+E03795,Sales,9
+E03795,Account Management,5
+E03795,Excel,9
+E00508,Project Management,1
+E00508,C#,10
+E00508,Go,3
+E00508,Data Analysis,6
+E00508,Agile,6
+E00508,Stakeholder Management,1
+E02047,Payroll,2
+E02047,Sales,4
+E02047,Account Management,1
+E02047,Tableau,10
+E02047,Negotiation,9
+E01582,HR Management,4
+E01582,Account Management,8
+E01582,Frontend Development,10
+E01582,CRM,5
+E01582,Negotiation,6
+E02563,HR Management,7
+E02563,DevOps,5
+E02563,Docker,3
+E02563,Machine Learning,1
+E02563,React,8
+E04872,SEO,4
+E04872,Content Strategy,3
+E04872,Data Analysis,3
+E04872,System Design,3
+E04872,JavaScript,6
+E03159,HR Management,7
+E03159,Payroll,6
+E03159,SEO,5
+E03159,Content Strategy,4
+E03159,Financial Modeling,7
+E01337,Budgeting,5
+E01337,Finance,2
+E01337,Data Engineering,6
+E01337,Financial Modeling,4
+E01337,Excel,5
+E00102,Project Management,2
+E00102,FastAPI,2
+E00102,DevOps,4
+E00102,Network Administration,3
+E00102,AWS,4
+E00102,Azure,2
+E00102,Employee Relations,2
+E03637,Backend Development,1
+E03637,HR Management,3
+E03637,Employee Relations,1
+E03455,Excel,8
+E03455,Network Administration,8
+E03455,AWS,6
+E03455,Cybersecurity,3
+E03354,Node.js,3
+E03354,Backend Development,9
+E03354,Data Analysis,9
+E03354,Agile,8
+E03354,Marketing,5
+E01225,Sales,8
+E01225,React,3
+E01225,Account Management,1
+E01225,Flask,10
+E01264,HR Management,3
+E01264,Recruiting,10
+E01264,Payroll,5
+E01264,GCP,7
+E02274,C#,10
+E02274,DevOps,10
+E02274,Finance,7
+E02274,Machine Learning,3
+E02274,Azure,6
+E02274,Linux,5
+E02274,Cybersecurity,4
+E02848,Django,1
+E02848,Spark,5
+E02848,DevOps,8
+E02848,Azure,2
+E02848,Cybersecurity,6
+E00480,HR Management,8
+E00480,Payroll,7
+E00480,Docker,7
+E00480,Recruiting,1
+E00480,Frontend Development,5
+E00480,Employee Relations,7
+E00203,HR Management,2
+E00203,Payroll,8
+E00203,PostgreSQL,2
+E00203,Employee Relations,6
+E00203,SQL,9
+E00647,HR Management,3
+E00647,Employee Relations,1
+E00647,GCP,2
+E03296,PyTorch,6
+E03296,AWS,4
+E03296,Azure,6
+E03296,Excel,3
+E03296,Cybersecurity,6
+E02453,SEO,2
+E02453,Content Strategy,1
+E02453,Account Management,7
+E02453,Data Analysis,4
+E02453,Marketing,4
+E00647,HR Management,3
+E00647,Recruiting,8
+E00647,REST API Design,5
+E00647,Employee Relations,10
+E00647,Negotiation,1
+E00647,Excel,8
+E02522,Sales,2
+E02522,Docker,2
+E02522,QA/Testing,4
+E02522,Tableau,3
+E02522,Negotiation,6
+E00459,Node.js,3
+E00459,Employee Relations,3
+E00459,Recruiting,6
+E00459,Payroll,2
+E03007,REST API Design,6
+E03007,Sales,1
+E03007,Negotiation,10
+E03007,CRM,7
+E04035,Budgeting,10
+E04035,Spark,2
+E04035,Backend Development,10
+E04035,Content Strategy,5
+E04035,Finance,6
+E00952,HR Management,8
+E00952,ETL,6
+E00952,Payroll,7
+E00952,Django,8
+E00952,TypeScript,8
+E00952,Recruiting,8
+E00952,Employee Relations,3
+E03863,Spark,1
+E03863,AWS,7
+E03863,CRM,3
+E03863,Negotiation,3
+E03863,JavaScript,10
+E02710,Node.js,5
+E02710,Python,9
+E02710,Flask,5
+E02710,AWS,4
+E02710,TensorFlow,4
+E02710,Kubernetes,8
+E02710,React,10
+E01895,PostgreSQL,2
+E01895,Content Strategy,2
+E01895,Project Management,5
+E01895,Data Analysis,4
+E01339,Django,5
+E01339,Scrum,2
+E01339,Network Administration,5
+E01339,RAG,3
+E01339,AWS,3
+E01339,Azure,6
+E01339,Cybersecurity,3
+E02938,CI/CD,6
+E02938,Kubernetes,4
+E02938,Data Analysis,6
+E02938,Agile,8
+E03379,Recruiting,10
+E03379,Payroll,8
+E03379,REST API Design,1
+E03379,HR Management,6
+E02153,Django,4
+E02153,Project Management,7
+E02153,Data Analysis,2
+E02153,Agile,7
+E02153,Excel,7
+E00994,Sales,6
+E00994,Account Management,8
+E00994,Finance,6
+E00994,SQL,10
+E00994,CRM,9
+E00994,AWS,4
+E00994,Negotiation,4
+E00943,Payroll,7
+E00943,PostgreSQL,7
+E00943,CI/CD,1
+E00943,CRM,5
+E00943,Negotiation,5
+E00869,HR Management,6
+E00869,NLP,8
+E00869,FastAPI,3
+E00869,Azure,8
+E00869,Linux,7
+E03457,FastAPI,10
+E03457,Kubernetes,3
+E03457,Data Analysis,6
+E03457,C++,1
+E03457,Azure,2
+E03457,Linux,1
+E03457,React,6
+E02193,HR Management,1
+E02193,Budgeting,6
+E02193,Project Management,3
+E02193,Payroll,3
+E02193,Recruiting,5
+E00577,Finance,9
+E00577,Accounting,3
+E00577,Computer Vision,4
+E00538,REST API Design,7
+E00538,Sales,9
+E00538,Negotiation,1
+E00538,CRM,9
+E01415,RAG,3
+E01415,Account Management,2
+E01415,CRM,2
+E00717,Sales,1
+E00717,DevOps,4
+E00717,Flask,4
+E00717,Deep Learning,3
+E00717,Negotiation,3
+E00225,Budgeting,1
+E00225,Accounting,4
+E00225,PyTorch,4
+E00225,Docker,8
+E00225,Finance,1
+E00225,Deep Learning,6
+E00225,Financial Modeling,2
+E02889,Spark,3
+E02889,Java,4
+E02889,SEO,10
+E02889,Content Strategy,5
+E02889,React,6
+E04978,DevOps,2
+E04978,Docker,1
+E04978,AWS,7
+E04978,Linux,2
+E04978,Cloud Architecture,4
+E04163,Node.js,3
+E04163,Backend Development,2
+E04163,FastAPI,5
+E04163,Agile,1
+E04163,CI/CD,3
+E04163,Machine Learning,1
+E04163,Linux,2
+E01652,Go,5
+E01652,Sales,3
+E01652,Account Management,7
+E01652,Flask,6
+E01652,CRM,7
+E01652,Negotiation,2
+E00880,HR Management,3
+E00880,Python,4
+E00880,Employee Relations,4
+E00880,Frontend Development,5
+E04335,SQL,7
+E04335,Negotiation,1
+E04335,Account Management,5
+E04335,PyTorch,1
+E01300,HR Management,1
+E01300,Content Strategy,8
+E01300,Data Analysis,3
+E01300,Marketing,1
+E01300,CRM,2
+E01300,System Design,2
+E03102,Content Strategy,3
+E03102,Sales,4
+E03102,Negotiation,2
+E03102,CRM,7
+E04089,Payroll,5
+E04089,Network Administration,5
+E04089,AWS,8
+E04089,Azure,4
+E04089,Linux,5
+E04089,Cybersecurity,1
+E02059,Payroll,1
+E02059,DevOps,5
+E02059,Account Management,6
+E02059,REST API Design,2
+E02059,Negotiation,10
+E03894,Sales,7
+E03894,Account Management,6
+E03894,Power BI,8
+E03894,CRM,6
+E03894,Negotiation,5
+E03106,Budgeting,6
+E03106,Accounting,8
+E03106,Finance,8
+E03106,Data Engineering,9
+E03106,Financial Modeling,3
+E01350,Budgeting,10
+E01350,SEO,3
+E01350,Finance,4
+E01350,Azure,7
+E01350,Financial Modeling,2
+E01350,Excel,7
+E02900,Project Management,9
+E02900,Python,3
+E02900,Frontend Development,4
+E02900,Linux,6
+E02900,Stakeholder Management,8
+E02202,Data Analysis,6
+E02202,Agile,7
+E02202,Power BI,2
+E02202,Stakeholder Management,4
+E02202,Excel,8
+E02696,System Design,3
+E02696,Negotiation,2
+E02696,AWS,4
+E01722,DevOps,8
+E01722,Network Administration,2
+E01722,MongoDB,7
+E01722,Azure,6
+E01722,Linux,7
+E04562,Node.js,10
+E04562,HR Management,8
+E04562,Project Management,10
+E04562,Recruiting,10
+E04562,Employee Relations,1
+E00640,Spark,8
+E00640,Agile,1
+E00640,Azure,7
+E00640,Cloud Architecture,1
+E00640,Financial Modeling,8
+E02554,HR Management,2
+E02554,Accounting,8
+E02554,Agile,7
+E02554,Employee Relations,6
+E02554,Negotiation,4
+E03412,HR Management,1
+E03412,Payroll,9
+E03412,Sales,8
+E03412,Content Strategy,2
+E03412,Employee Relations,9
+E03412,Cybersecurity,3
+E00646,Stakeholder Management,8
+E00646,Network Administration,5
+E00646,Agile,3
+E04670,Java,4
+E04670,Network Administration,2
+E04670,Azure,1
+E04670,Linux,4
+E04670,Cloud Architecture,7
+E03580,Budgeting,8
+E03580,DevOps,2
+E03580,Account Management,2
+E03580,REST API Design,3
+E03580,Negotiation,3
+E00446,Employee Relations,9
+E00446,Recruiting,6
+E00446,Payroll,9
+E00446,Negotiation,2
+E02363,Employee Relations,9
+E02363,Payroll,4
+E02363,JavaScript,3
+E02363,Flask,2
+E03718,Budgeting,8
+E03718,Spark,2
+E03718,Go,3
+E03718,Accounting,10
+E03718,Linux,7
+E03718,Financial Modeling,2
+E01749,Python,1
+E01749,Data Analysis,9
+E01749,TypeScript,1
+E01749,Stakeholder Management,2
+E01749,React,9
+E01749,Excel,5
+E02888,Cloud Architecture,8
+E02888,Network Administration,8
+E02888,Docker,8
+E02888,Cybersecurity,4
+E01338,Accounting,1
+E01338,Content Strategy,4
+E01338,AWS,5
+E01338,Financial Modeling,1
+E01338,Excel,5
+E03000,Recruiting,4
+E03000,Negotiation,1
+E03000,Account Management,3
+E03000,CRM,4
+E01611,Java,10
+E01611,LangChain,9
+E01611,DevOps,7
+E01611,Network Administration,3
+E01611,Frontend Development,4
+E01611,AWS,10
+E01611,Cloud Architecture,9
+E02684,HR Management,1
+E02684,Finance,6
+E02684,Network Administration,5
+E02684,AWS,7
+E02684,Excel,5
+E02561,HR Management,8
+E02561,Payroll,6
+E02561,NLP,9
+E02561,Recruiting,9
+E02561,CRM,10
+E02561,Employee Relations,2
+E03168,DevOps,6
+E03168,Network Administration,9
+E03168,AWS,7
+E03168,Azure,5
+E03168,Data Engineering,5
+E03168,Cybersecurity,10
+E00758,HR Management,3
+E00758,Payroll,2
+E00758,Power BI,5
+E00758,Recruiting,4
+E00758,C++,4
+E00758,Employee Relations,10
+E03691,PostgreSQL,2
+E03691,Network Administration,7
+E03691,AWS,9
+E03691,Azure,7
+E03691,Cloud Architecture,1
+E03691,Cybersecurity,2
+E01488,Node.js,4
+E01488,Project Management,5
+E01488,Agile,1
+E01488,Stakeholder Management,4
+E01488,Excel,4
+E04415,Finance,9
+E04415,Budgeting,5
+E04415,Go,3
+E03278,Sales,3
+E03278,Python,5
+E03278,RAG,6
+E03278,TensorFlow,3
+E03278,Negotiation,3
+E00282,Project Management,7
+E00282,Agile,4
+E00282,Azure,9
+E00282,Stakeholder Management,10
+E00282,Excel,1
+E03305,Project Management,5
+E03305,Data Analysis,2
+E03305,Agile,2
+E03305,Flask,2
+E03305,Stakeholder Management,3
+E03305,Excel,1
+E00559,DevOps,2
+E00559,AWS,2
+E00559,Azure,7
+E00559,Linux,8
+E00559,Cloud Architecture,8
+E00559,SQL,3
+E02558,Budgeting,4
+E02558,Project Management,5
+E02558,SEO,2
+E02558,Content Strategy,3
+E02558,Marketing,2
+E02558,React,6
+E00956,Node.js,3
+E00956,Backend Development,2
+E00956,DevOps,6
+E00956,Kubernetes,3
+E00956,React,2
+E03858,HR Management,4
+E03858,Payroll,4
+E03858,Recruiting,6
+E03858,Machine Learning,4
+E03858,React,4
+E02221,DevOps,10
+E02221,GCP,9
+E02221,Azure,10
+E02221,Linux,9
+E02221,Cybersecurity,4
+E00126,DevOps,3
+E00126,Network Administration,2
+E00126,Account Management,10
+E02627,SEO,7
+E02627,Content Strategy,5
+E02627,Data Analysis,3
+E02627,Marketing,4
+E02627,Cybersecurity,7
+E03778,SEO,1
+E03778,Content Strategy,4
+E03778,Data Analysis,2
+E03778,Marketing,2
+E03778,CI/CD,2
+E00481,DevOps,1
+E00481,Network Administration,6
+E00481,Payroll,3
+E00481,AWS,5
+E02833,PostgreSQL,10
+E02833,DevOps,6
+E02833,Network Administration,10
+E02833,AWS,5
+E02833,Linux,8
+E02833,Cloud Architecture,4
+E03902,PostgreSQL,8
+E03902,Cloud Architecture,9
+E03902,Network Administration,8
+E02310,Employee Relations,8
+E02310,Recruiting,3
+E02310,Payroll,1
+E02310,Java,4
+E02661,Node.js,1
+E02661,ETL,6
+E02661,CI/CD,8
+E02661,TensorFlow,4
+E02661,Kubernetes,1
+E02661,JavaScript,4
+E00836,Project Management,4
+E00836,Java,6
+E00836,Data Analysis,4
+E00836,Agile,3
+E00836,TypeScript,2
+E00836,Stakeholder Management,4
+E00836,Excel,2
+E00682,Project Management,8
+E00682,Data Analysis,2
+E00682,Agile,6
+E00682,REST API Design,6
+E00682,Deep Learning,4
+E00682,Tableau,5
+E00682,Stakeholder Management,9
+E00682,Excel,3
+E00287,Tableau,8
+E00287,DevOps,7
+E00287,TypeScript,6
+E00287,Network Administration,10
+E00287,AWS,8
+E00287,Machine Learning,6
+E00287,Linux,10
+E00785,ETL,4
+E00785,Project Management,3
+E00785,Data Analysis,2
+E00785,Agile,2
+E00785,Marketing,2
+E00785,Stakeholder Management,1
+E00785,Excel,5
+E04598,Node.js,3
+E04598,SEO,7
+E04598,Data Analysis,9
+E04598,Docker,5
+E04598,Employee Relations,4
+E03247,Azure,4
+E03247,Recruiting,8
+E03247,PyTorch,3
+E03247,Cybersecurity,8
+E02703,SEO,6
+E02703,Content Strategy,6
+E02703,Data Analysis,3
+E02703,QA/Testing,5
+E02703,Linux,4
+E02191,Accounting,3
+E02191,Sales,1
+E02191,Account Management,2
+E02191,Network Administration,5
+E02191,CRM,2
+E02191,MongoDB,2
+E02191,Negotiation,2
+E00156,ETL,4
+E00156,NLP,3
+E00156,DevOps,10
+E00156,AWS,8
+E00156,Azure,2
+E00156,Cloud Architecture,6
+E00156,React,1
+E03349,Budgeting,4
+E03349,Accounting,7
+E03349,Finance,7
+E03349,System Design,4
+E03349,JavaScript,5
+E03349,Excel,4
+E04032,DevOps,7
+E04032,Python,8
+E04032,Docker,2
+E04032,Deep Learning,3
+E04032,Frontend Development,1
+E04032,Machine Learning,1
+E04032,TensorFlow,8
+E04032,Excel,3
+E00005,Azure,5
+E00005,Sales,6
+E00005,Negotiation,2
+E00005,Account Management,1
+E04354,SQL,10
+E04354,Account Management,5
+E04354,CRM,10
+E01578,Sales,9
+E01578,GCP,2
+E01578,AWS,8
+E01578,Linux,10
+E01578,Cloud Architecture,4
+E03430,Payroll,7
+E03430,Scrum,7
+E03430,Recruiting,4
+E03430,Employee Relations,5
+E03430,Negotiation,6
+E03058,Azure,10
+E03058,Linux,2
+E03058,Network Administration,3
+E03058,TensorFlow,2
+E04762,DevOps,5
+E04762,Frontend Development,4
+E04762,RAG,8
+E04762,Azure,1
+E04762,Cloud Architecture,6
+E01148,Linux,8
+E01148,GCP,8
+E01148,Employee Relations,7
+E01148,Cybersecurity,6
+E03094,SEO,6
+E03094,NLP,3
+E03094,Java,1
+E03094,Data Analysis,3
+E01909,Finance,6
+E01909,Accounting,6
+E01909,Financial Modeling,10
+E01909,Agile,6
+E04398,SEO,7
+E04398,Sales,6
+E04398,Stakeholder Management,6
+E04398,Marketing,5
+E02521,Go,9
+E02521,Accounting,8
+E02521,PostgreSQL,1
+E02521,Finance,5
+E02521,Power BI,6
+E02521,Financial Modeling,1
+E03545,Accounting,2
+E03545,Data Analysis,6
+E03545,Agile,5
+E03545,Deep Learning,3
+E03545,Financial Modeling,4
+E03545,Excel,3
